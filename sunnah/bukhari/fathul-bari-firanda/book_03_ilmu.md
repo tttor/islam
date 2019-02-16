@@ -307,12 +307,48 @@ pembicaraan itu, kemudian jawab pertanyaan
   * karena syetan tidak bisa menyerupaiku
 
 # ch 39: penulisan ilmu
-<!--
-next
-fathul-baari-1-syarah-hadits-bukhari.pdf
-384/440
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-25 - Usta
 
-terjemah fatul bari
-ust abu ihsan, pustaka imam syafii
- -->
+# 41: berbicara setelah isya dalam rangka menuntut ilmu
+## 116:
+* nabi memberi nasihat kepada para sahabat setelah solat isya
+
+## 117:
+* ibnu abbas yg bermalam di bibinya, Maimunah
+* ibnu abbas memperhatikan kegiatan nabi di malam hari
+
+# 42: menghafal ilmu
+## 118:
+* alasan abu hurairah banyak meriwayatkan hadist:
+  QS. Al-baqarah: 159 - 160
+
+## 119:
+* doa nabi untuk abu hurairah untuk menghafal hadist
+
+## 120:
+* ada hadist yang tidak disampaikan abu hurairah,
+  karena jika disampaikan akan lebih banyak mudhorotnya
+* hadist yang tidak disampikan tentang keadaan dan masa pemimpin yang buruk
+
+# ch 43: berdiam untuk menyimak penjelasan para ulama
+## 121:
+* diam mendengarkan penjelasan ulama
+
+# ch 44:
+## 122:
+* kisah nabi Musa dan nabi Khodir
+* Khodir bukan seorang rasul
+
+# ch 45: seorang yg bertanya sambil berdiri kepada seorang alim yang duduk
+## 123:
+* boleh bertanya dengan berdiri
+  * berdiri bukan untuk menghormati
+
+# ch 46:
+
+# ch 48:
+
+```
+next:
+book 1: 405/440
+video 28
+```

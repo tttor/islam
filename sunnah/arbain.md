@@ -10,7 +10,7 @@ yang dikumpulkan oleh imam An-Nawawi (631H - 676H: 45 tahun)
     * shahih muslim
   * ijma dan kias
 
-# 1: islam, iman, ihsan
+# 2: islam, iman, ihsan
 * dari Umar bin Khattab
 * 6 rukun iman
 * islam -> rukun islam (amalah fisik):
@@ -42,3 +42,6 @@ yang dikumpulkan oleh imam An-Nawawi (631H - 676H: 45 tahun)
       berlomba2 mendirikan bangunan
     * meniggalkan salam, hanya salam kepada yang dikenal
     * tidak tahiyatul masjid
+
+# 3:
+* islam dibangun di atas 5 perkara
