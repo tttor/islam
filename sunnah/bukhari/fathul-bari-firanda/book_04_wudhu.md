@@ -40,7 +40,7 @@
   * hasan dengan yang lainnya: hadan lighoirihi
   * tidak sesuai dgn kriteria imam al bukhari
 
-# ch 18: laranga beristinja' dgn tangan kanan
+# ch 18: larangan beristinja' dgn tangan kanan
 * larangan ini hukumnya makruh
 
 # ch 19:
@@ -81,5 +81,17 @@
     tidur (sebagai penjaga hadast), pingsan, mabuk, jimak,
     makan daging unta, memandikan mayat, orang murtad klo masuk Islam lagi
 * menyentuh najis tidak membatalkan wudhu
+* air mani tidak najis (harus mandi junub),
+  air kencing adalah najis,
+  al mahdzi adalah najis dan membatalkan wudhu, tidak mandi junub
+
+# ch 35: mewudhukan orang lain
+
+# ch 36: membacakan quran setelah berhadast
+* baca quran tidak disyaratkan menutup aurat,
+  tetapi adab membaca quran adalah berpakaian rapi
+* dalam kondisi hadast kecil: boleh baca quran
+* dalam kondisi junub: tidak boleh baca quran
+
 
 next: vid 39
