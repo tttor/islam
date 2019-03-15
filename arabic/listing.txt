@@ -1,0 +1,23 @@
+arabic/:
+book
+dict
+listing.txt
+README.md
+
+arabic/book:
+Lughat_ul_Arabia1.pdf
+Lughat_ul_Arabia2.pdf
+Lughat_ul_Arabia3.pdf
+madeenah-lessons-in-arabic-language-book-1.pdf
+Madina Book 1 - Arabic Solutions.pdf
+Madina Book 1 - English Key.pdf
+Madina Book 2 - Arabic Solutions.pdf
+Madina Book 2 - English Key.pdf
+Madina Book 3 - Arabic Solutions.pdf
+Madina_Book3_Arabic_Text.pdf
+Madina Book 3 - English Key.pdf
+SharhMadeenahBook1.pdf
+
+arabic/dict:
+Kamus Arab Munawwir.pdf
+munawir_arab_indo .djvu
