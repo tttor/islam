@@ -1,7 +1,8 @@
-tauhid/:
+aqidah/:
+inti-ajaran-islam_Abdul_Aziz_bin_Abdullah_bin_Baz.pdf
 listing.txt
 syarah-tauhid
 
-tauhid/syarah-tauhid:
+aqidah/syarah-tauhid:
 Syarah Kitab Tauhid Bab sihir - Ustadz Dr. Firanda Andirja, .mp4
 Syarah Kitab Tauhid Bahwa Sebagian Umat Ini Akan Menyembah B.mp4

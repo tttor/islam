@@ -6,6 +6,7 @@ fathul-baari
 listing.txt
 README.md
 riyadhush-shalihin
+tirmidzi
 
 sunnah/arbain:
 arbain.md
@@ -91,3 +92,11 @@ Syarah Kitab Riyadush Shalihin 2 - Ustadz Dr. Firanda Andirj.mp4
 Syarah Kitab Riyadush Shalihin 3 - Bab 1 - Ustadz Dr. Firand.mp4
 Syarah Kitab Riyadush Shalihin Bab 1 - Ustadz Dr. Firanda An.mp4
 Syarah Kitab Riyadush Shalihin Bab - 2 Taubat - Ustadz Dr. F.mp4
+
+sunnah/tirmidzi:
+Jami at-Tirmidhi Vol. 1 - 1-543 English translation.pdf
+Jami at-Tirmidhi Vol. 2 - 544-1204 English translation.pdf
+Jami at-Tirmidhi Vol. 3 - 1205-1896 English Arabic.pdf
+Jami at-Tirmidhi Vol. 4 - 1897-2605 English Arabic.pdf
+Jami at-Tirmidhi Vol. 5 - 2606-3290 English Arabic.pdf
+Jami at-Tirmidhi Vol. 6 - 3291-3956 English Arabic.pdf

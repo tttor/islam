@@ -5,6 +5,9 @@ listing.txt
 README.md
 
 arabic/book:
+EbookIlmuSharafUntukPemulaCetakan2Rev02.pdf
+Essentials of Quranic Arabic - Vol 1 by Masood Ranginwala.pdf
+Essentials of Quranic Arabic - Vol 2 by Masood Ranginwala.pdf
 Lughat_ul_Arabia1.pdf
 Lughat_ul_Arabia2.pdf
 Lughat_ul_Arabia3.pdf
