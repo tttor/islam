@@ -1,12 +1,9 @@
 quran/:
 doa.md
-get_to_know_nak.md
 listing.txt
-quran_weekly_nak.md
 README.md
 recite
 tafsir
-tafsir-ibnu-katsir
 
 quran/recite:
 iqra-yufid
@@ -21,9 +18,12 @@ Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca (3).mp4
 
 quran/tafsir:
 GET TO KNOW Ep.15 - Surah Al-Munafiqun - Nouman Ali Khan - Q.mp4
+get_to_know_nak.md
 Pengajian Tafsir Surat Al-Ghasiyah - Ustadz Firanda Andirja,.mp4
+quran_weekly_nak.md
+tafsir-ibnu-katsir
 
-quran/tafsir-ibnu-katsir:
+quran/tafsir/tafsir-ibnu-katsir:
 001-alfatihah.md
 002-albaqarah.md
 072-aljinn.md
