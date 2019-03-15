@@ -1,0 +1,72 @@
+quran/:
+doa.md
+get_to_know_nak.md
+listing.txt
+quran_weekly_nak.md
+README.md
+recite
+tafsir
+tafsir-ibnu-katsir
+
+quran/recite:
+iqra-yufid
+Quran Juz' 30 - Juz Amma - Recited by Mishari Rashid Alafasy (English, Indonesian translation).mp4
+syamil_quran.djvu
+
+quran/recite/iqra-yufid:
+Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca_1.mp4
+Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca_24.mp4
+Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca (2).mp4
+Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca (3).mp4
+
+quran/tafsir:
+GET TO KNOW Ep.15 - Surah Al-Munafiqun - Nouman Ali Khan - Q.mp4
+Pengajian Tafsir Surat Al-Ghasiyah - Ustadz Firanda Andirja,.mp4
+
+quran/tafsir-ibnu-katsir:
+001-alfatihah.md
+002-albaqarah.md
+072-aljinn.md
+073-almmuzzamil.md
+074-almuddatsir.md
+075-alqiyamaah.md
+076-alinsaan.md
+077-almursalaat.md
+078-annaba.md
+079-annaziaat.md
+080-abasa.md
+081-attakwir.md
+082-ainfithaar.md
+083-almutafifin.md
+084-alinsyiqaaq.md
+085-alburuuj.md
+086-atthaariq.md
+087-alalaa.md
+088-alghasiyah.md
+089-alfajr.md
+090-albalad.md
+091-asysyams.md
+092-allail.md
+093-addhuha.md
+094-alamnasyrah.md
+095-attiin.md
+096-alalaq.md
+097-alqadr.md
+098-albayyinah.md
+099-alzalzalah.md
+100-alaadiyaat.md
+101-alqaariah.md
+102-attakaatsur.md
+103-alashr.md
+104-alhumazah.md
+105-alfiil.md
+106-quraisy.md
+107-almaauun.md
+108-alkautsar.md
+109-alkaafirun.md
+110-annashr.md
+111-allahab.md
+112-alikhlash.md
+113-alfalaq.md
+144-annaas.md
+README.md

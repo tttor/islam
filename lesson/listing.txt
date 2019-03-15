@@ -1,0 +1,30 @@
+lesson/:
+afifi_abdul_wadud.md
+Birrul Walidain - Ustadz Dr. Syafiq Riza Basalamah, M.A..mp4
+firanda
+firanda_andirja.md
+khutbah_jumat_2018.md
+khutbah_jumat_2019.md
+khutbah_jumat_old.md
+listing.txt
+misc.md
+README.md
+topan_setiadipura.md
+yazid
+
+lesson/firanda:
+Ceramah Agama Perjalanan Setelah Kematian - Ustadz Dr. Firan.mp4
+Dauroh 'Mengenal Asma'ul Husna' Sesi 1 - Ustadz Dr. Firanda .mp4
+Dauroh 'Mengenal Asma'ul Husna' Sesi 2 - Ustadz Dr. Firanda .mp4
+Dauroh Sesi 1 - Dosa-Dosa Yang Tidak Disadari Kaum Wanita - .mp4
+Detik-Detik Wafatnya Nabi Shalallahu 'Alaihi Wassalam - Usta.mp4
+Kajian Umum Mengenal Ushul Tsalatsah - Ustadz Dr. Firanda An.mp4
+Khutbah Jumat Kemuliaan Sholat Malam - Ustadz Dr. Firanda An.mp4
+Syarah Kitab Tauhid Nabi Menutup Semua Jalan Menuju Kesyirik.mp4
+
+lesson/yazid:
+Hakikat Kecintaan Kepada Rasulullah l Ustadz Yazid bin Abdul.mp4
+Kewajiban Ittiba' (Mengikuti Jejak) Salafush Shalih #5 l Ust.mp4
+Nasihat tentang Kematian dan Kiat–Kiat Mengisi Waktu - Ustad.mp4
+Sebaik Amal adalah Sholat (Ustadz Yazid bin Abdul Qadir Jawa.mp4
+Tabligh Akbar Cara Beragama Islam Yang Benar l Ustadz Yazid .mp4
