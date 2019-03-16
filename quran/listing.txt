@@ -1,5 +1,4 @@
 quran/:
-doa.md
 listing.txt
 README.md
 recite
