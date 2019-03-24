@@ -16,11 +16,18 @@ Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca (2).mp4
 Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca (3).mp4
 
 quran/tafsir:
+firanda
+nak
+tafsir-ibnu-katsir
+
+quran/tafsir/firanda:
+Pengajian Tafsir Surat Al-Ghasiyah - Ustadz Firanda Andirja,.mp4
+Tafsir Juz Amma Surat Al-Balad - Ustadz Dr. Firanda Andirja,.mp4
+
+quran/tafsir/nak:
 GET TO KNOW Ep.15 - Surah Al-Munafiqun - Nouman Ali Khan - Q.mp4
 get_to_know_nak.md
-Pengajian Tafsir Surat Al-Ghasiyah - Ustadz Firanda Andirja,.mp4
 quran_weekly_nak.md
-tafsir-ibnu-katsir
 
 quran/tafsir/tafsir-ibnu-katsir:
 001-alfatihah.md
