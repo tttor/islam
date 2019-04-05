@@ -1,5 +1,6 @@
 arabic/:
 book
+course
 dict
 listing.txt
 README.md
@@ -20,6 +21,16 @@ Madina Book 3 - Arabic Solutions.pdf
 Madina_Book3_Arabic_Text.pdf
 Madina Book 3 - English Key.pdf
 SharhMadeenahBook1.pdf
+
+arabic/course:
+ismail
+
+arabic/course/ismail:
+2019_03_29_Note_18_02.pdf
+am_t_l1_c1_eqa.mp3
+am_t_l1_c2_eqa.mp3
+book-1-vocabulary.pdf
+README.md
 
 arabic/dict:
 Kamus Arab Munawwir.pdf
