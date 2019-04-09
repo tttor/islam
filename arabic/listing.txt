@@ -7,23 +7,110 @@ README.md
 
 arabic/book:
 EbookIlmuSharafUntukPemulaCetakan2Rev02.pdf
+essentials-of-quranic-arabic
+fahimna
+madina
+
+arabic/book/essentials-of-quranic-arabic:
 Essentials of Quranic Arabic - Vol 1 by Masood Ranginwala.pdf
 Essentials of Quranic Arabic - Vol 2 by Masood Ranginwala.pdf
+
+arabic/book/fahimna:
+fahimna_guampang.pdf
+FAHIMNA LEVEL 1 EBOOK.pdf
+
+arabic/book/madina:
 Lughat_ul_Arabia1.pdf
 Lughat_ul_Arabia2.pdf
 Lughat_ul_Arabia3.pdf
 madeenah-lessons-in-arabic-language-book-1.pdf
 Madina Book 1 - Arabic Solutions.pdf
+Madina_Book1_Arabic_Text.pdf
 Madina Book 1 - English Key.pdf
+Madina_Book1_Handouts-Corrected_PDF
+Madina_Book2_and_3_Handout-Corrected_PDF
 Madina Book 2 - Arabic Solutions.pdf
+Madina_Book2_Arabic_Text.pdf
 Madina Book 2 - English Key.pdf
 Madina Book 3 - Arabic Solutions.pdf
 Madina_Book3_Arabic_Text.pdf
 Madina Book 3 - English Key.pdf
 SharhMadeenahBook1.pdf
 
+arabic/book/madina/Madina_Book1_Handouts-Corrected_PDF:
+Adjectives.pdf
+Arabic Nouns Have Endings.pdf
+Blank Verb Conjugation Sheet.pdf
+Broken Plurals.pdf
+Cases Exercises.pdf
+Cover.pdf
+Dual and Sound Plurals.pdf
+Feminine Gender.pdf
+Grammatical Analysis.pdf
+Jarun Wa Majroorun From Qur'an.pdf
+Mudafu Mudafu Alei - Examples.pdf
+Mudafu Mudafu Alei From Qur'an.pdf
+Mudafu Mudafu Alei.pdf
+Nominal Sentence From Qur'an.pdf
+Nominal Sentence.pdf
+Numbers.pdf
+Parts of the Speech.pdf
+Phrases.pdf
+Pronouns-01.pdf
+Pronouns-01-solved.pdf
+Pronouns.pdf
+Singular-Dual-Plural.pdf
+Sound Triliteral Verbs.pdf
+The Arabic Alphabet.pdf
+Types of Khabar.pdf
+
+arabic/book/madina/Madina_Book2_and_3_Handout-Corrected_PDF:
+Blouse Not Shirt.pdf
+Classification of Verbs.pdf
+Conjugation of the Ten Measures.pdf
+Conjugation Sound Verbs.pdf
+Conjugation Weak Verbs.pdf
+Conversation2.pdf
+Conversation.pdf
+Cover.pdf
+Derived Forms of the Triliteral Verb.pdf
+Emphatic Lam.pdf
+Exception.pdf
+Glossary of Arabic Grammar Terms.pdf
+Inna.pdf
+Laissa in Quar'an.pdf
+Masdaru-Muawallu.pdf
+Moods of Mudaria - P.pdf
+Morphology and Syntax.pdf
+Nothing New.pdf
+The Ten Measures - Meanings.pdf
+Triliteral Verbs.pdf
+Types of Khabar.pdf
+Usage of Lee and Inda.pdf
+Verbs - Weak.pdf
+When does the Jawab take FA.pdf
+
 arabic/course:
+bisa
+husna
 ismail
+
+arabic/course/bisa:
+12002805_813785228742950_258659154088336012_n.jpg
+20150917205058.jpg
+20150917205106.jpg
+20150917205111.jpg
+20150919040128.jpg
+20150920160648.jpg
+▶ Dars 1 - Pengantar ilmu Bahasa Arab - YouTube.webm
+
+arabic/course/husna:
+Arabic with Husna - Introduction.mp4
+Congratulations on taking a big step towards Arabic and Quranic education.mp4
+Lesson 1.mp4
+Lesson 2.mp4
+Lesson 3.mp4
+Lesson 4.mp4
 
 arabic/course/ismail:
 2019_03_29_Note_18_02.pdf
