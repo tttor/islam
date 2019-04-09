@@ -157,7 +157,6 @@ quran/tafsir/tafsir-ibnu-katsir/pustaka-imam-syafii/note:
 112-alikhlash.md
 113-alfalaq.md
 144-annaas.md
-log
 README.md
 
 quran/tafsir/tafsir-ibnu-katsir/pustaka-imam-syafii/Tafsir Ibnu Katsir 1 (602):
