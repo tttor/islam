@@ -7,15 +7,8 @@ tahsin
 
 quran/recite:
 Atlas of The Quran.pdf
-iqra-yufid
 Quran Juz' 30 - Juz Amma - Recited by Mishari Rashid Alafasy (English, Indonesian translation).mp4
 syamil_quran.djvu
-
-quran/recite/iqra-yufid:
-Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca_1.mp4
-Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca_24.mp4
-Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca (2).mp4
-Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca (3).mp4
 
 quran/tafsir:
 firanda
@@ -212,9 +205,25 @@ Tafsir Ibnu Katsir 8.5.pdf
 Tafsir Ibnu Katsir 8.6 (Keutamaan2 al-Qur'an).pdf
 
 quran/tahsin:
+abdul-rohman
+abu-rabbani
+tuntunan-tahsin-kaidah-tajwid.pdf
+ulin-nuha
+
+quran/tahsin/abdul-rohman:
+Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca_1.mp4
+Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca_24.mp4
+Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca (2).mp4
+Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca (3).mp4
+
+quran/tahsin/abu-rabbani:
 Belajar Mudah Tahsin Al-Quran Part 1.mp4
 Belajar Mudah Tahsin Al-Quran Part 2.mp4
 Belajar Mudah Tahsin Al-Quran Part 3.mp4
 Belajar Mudah Tahsin Al-Quran Part 4.mp4
 pengucapan_huruf_hijaiyah_abu_rabbani.mp4
-tuntunan-tahsin-kaidah-tajwid.pdf
+
+quran/tahsin/ulin-nuha:
+Serial Belajar Tahsin (01) Kewajiban Belajar Tajwid - Ustadz.mp4
+Serial Belajar Tahsin (03) Adab-Adab Membaca Al-Quran - Usta.mp4
+Serial Belajar Tahsin (2) Tujuan Mempelajari Ilmu Tajwid - U.mp4
