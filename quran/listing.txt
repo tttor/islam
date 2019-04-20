@@ -6,11 +6,11 @@ tafsir
 tahsin
 
 quran/recite:
-Atlas of The Quran.pdf
 Quran Juz' 30 - Juz Amma - Recited by Mishari Rashid Alafasy (English, Indonesian translation).mp4
 syamil_quran.djvu
 
 quran/tafsir:
+Atlas of The Quran.pdf
 firanda
 fizilalil
 nak
