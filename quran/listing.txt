@@ -7,6 +7,7 @@ tahsin
 
 quran/recite:
 Quran Juz' 30 - Juz Amma - Recited by Mishari Rashid Alafasy (English, Indonesian translation).mp4
+README.md
 syamil_quran.djvu
 
 quran/tafsir:
@@ -14,6 +15,7 @@ Atlas of The Quran.pdf
 firanda
 fizilalil
 nak
+README.md
 tafsir-ibnu-katsir
 
 quran/tafsir/firanda:
@@ -222,6 +224,7 @@ Belajar Mudah Tahsin Al-Quran Part 2.mp4
 Belajar Mudah Tahsin Al-Quran Part 3.mp4
 Belajar Mudah Tahsin Al-Quran Part 4.mp4
 pengucapan_huruf_hijaiyah_abu_rabbani.mp4
+README.md
 
 quran/tahsin/ulin-nuha:
 Serial Belajar Tahsin (01) Kewajiban Belajar Tajwid - Ustadz.mp4
