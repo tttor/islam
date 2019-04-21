@@ -1,4 +1,5 @@
-# Khutbah Jumat (sermons delivered during the Friday prayer)
+# Khutbah Jumat 
+(sermons delivered during the Friday prayer)
 
 * https://khotbahjumat.com/
 
