@@ -111,6 +111,7 @@ Lesson 1.mp4
 Lesson 2.mp4
 Lesson 3.mp4
 Lesson 4.mp4
+README.md
 
 arabic/course/ismail:
 2019_03_29_Note_18_02.pdf
