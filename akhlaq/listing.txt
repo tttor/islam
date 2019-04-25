@@ -1,4 +1,11 @@
 akhlaq/:
 Birrul Walidain - Ustadz Dr. Syafiq Riza Basalamah, M.A..mp4
 Doa2_sehari_said_bin_ali_al-qahthani.pdf
+kitab-al-jami
 listing.txt
+README.md
+
+akhlaq/kitab-al-jami:
+Kajian Kitab Syarah Kitabul Jami' Menyambung Silaturahmi - U.mp4
+README.md
+Syarah Kitabul Jami' Bab Zuhud & Wara' 1 - Ustadz Dr. Firand.mp4
