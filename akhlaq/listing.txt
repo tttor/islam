@@ -1,8 +1,14 @@
 akhlaq/:
-Birrul Walidain - Ustadz Dr. Syafiq Riza Basalamah, M.A..mp4
+birrul-walidain
 Doa2_sehari_said_bin_ali_al-qahthani.pdf
 kitab-al-jami
 listing.txt
+README.md
+
+akhlaq/birrul-walidain:
+Berbakti kepada Orang Tua - Ustadz Firanda Andirja,MA.mp4
+Berbuat Baik Kepada Orang Tua dengan Sebaik-baiknya - Ustadz.mp4
+Birrul Walidain - Ustadz Dr. Syafiq Riza Basalamah, M.A..mp4
 README.md
 
 akhlaq/kitab-al-jami:
