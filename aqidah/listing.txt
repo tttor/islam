@@ -1,6 +1,7 @@
 aqidah/:
 inti-ajaran-islam_Abdul_Aziz_bin_Abdullah_bin_Baz.pdf
 listing.txt
+Mendalami Tauhid Ar Rububiyah - Ustadz Dr. Firanda Andirja, .mp4
 syarah-tauhid
 
 aqidah/syarah-tauhid:
