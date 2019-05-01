@@ -1,4 +1,5 @@
 # Firanda Andirja
+* https://www.youtube.com/channel/UCm44PmruoSbuNbZn7jFeXUw
 
 ## [2 Kunci Sukses Dalam Pekerjaan](https://www.youtube.com/watch?v=cGsIBLKa7Bo)
 * semangat/serius dalam bekerja (berusaha) dan minta tolong kepada Allah (taqwa)
@@ -23,7 +24,7 @@
 
 ## [Kiat-Kiat Istiqomah Di Atas Manhaj Salaf](https://www.youtube.com/watch?v=jjeF_P6Zii4&list=PLXHX25swM0h-nTWigMfWItRfHwlEYD6Jq&index=6)
 * trus belajar dan diterapkan, jauhkan diri dari syubhat
-* mulianya penuntut ilmu: 
+* mulianya penuntut ilmu:
   * https://quran.com/39/9
   * https://quran.com/3/18
   * https://quran.com/58/11

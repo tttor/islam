@@ -9,7 +9,6 @@ My ways of studying Islam.
 [YufidTV](https://www.youtube.com/channel/UCX-4mrOc5r691SzDhHtkOgw),
 [UmmatTV](https://www.youtube.com/channel/UChq7NDxIkiwKCFRt6Qmn-Bw),
 [TVMu](http://tvmu.tv/),
-[Bayyinah Institute](https://www.youtube.com/channel/UCRtiU-lpcBSi-ipFKyfIkug),
-[Firanda Andirja](https://www.youtube.com/channel/UCm44PmruoSbuNbZn7jFeXUw)
+[Bayyinah Institute](https://www.youtube.com/channel/UCRtiU-lpcBSi-ipFKyfIkug)
 * Awards:
 [King Faisal International Prize](http://kfip.org/en)
