@@ -1,7 +1,6 @@
 sunnah/:
 arbain
 bukhari
-fathul-baari
 listing.txt
 muslim
 README.md
@@ -20,23 +19,15 @@ Syarah Hadist Arba'in 4 Jangan Marah - Ustadz Dr. Firanda An.mp4
 Syarah Hadist Arba'in no 15 'Berkata Baik Atau Diam' - Ustad.mp4
 
 sunnah/bukhari:
-fathul-bari-firanda
+fathul-baari
 README.md
 shahih_bukhari.md
 
-sunnah/bukhari/fathul-bari-firanda:
-book_00.md
-book_01_wahyu.md
-book_02_iman.md
-book_03_ilmu.md
-book_04_wudhu.md
-README.md
-
-sunnah/fathul-baari:
+sunnah/bukhari/fathul-baari:
 book
 firanda
 
-sunnah/fathul-baari/book:
+sunnah/bukhari/fathul-baari/book:
 fathul-baari-1-syarah-hadits-bukhari.pdf
 fathul-baari-2-syarah-hadits-bukhari.pdf
 fathul-baari-3-syarah-hadits-bukhari.pdf
@@ -46,7 +37,12 @@ Fathul Baari jilid 6.djvu
 fathul_bari_7.djvu
 fathul_bari_8.djvu
 
-sunnah/fathul-baari/firanda:
+sunnah/bukhari/fathul-baari/firanda:
+book_00.md
+book_01_wahyu.md
+book_02_iman.md
+book_03_ilmu.md
+book_04_wudhu.md
 Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-10 - Usta.mp4
 Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-11 - Usta.mp4
 Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-12 - Usta.mp4
@@ -92,6 +88,7 @@ Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-6 - Ustad.mp4
 Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-7 - Ustad.mp4
 Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-8 - Ustad.mp4
 Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-9 - Ustad.mp4
+README.md
 
 sunnah/muslim:
 shahih-muslim.pdf
