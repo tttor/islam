@@ -1,15 +1,7 @@
 fiqh/:
 listing.txt
-misc
 umdatul-ahkam
-
-fiqh/misc:
-Fikih Zakat - Ustadz Dr. Firanda Andirja, Lc, M.A..mp4
-Fiqih Ramadhan - Ustadz Dr. Firanda Andirja, Lc, M.A..mp4
-jibab-wanita-muslimah-al-albani.pdf
-Kitab-Fiqh-5-madzhab.pdf
-SifatSholatNabi-lbaniFull.pdf
-Tuntunan Lengkap Mengurus Jenazah _ Nashiruddin Al Albani.pdf
+zzzmisc
 
 fiqh/umdatul-ahkam:
 Syarah Kitab Umdatul Ahkam Bab Adzan dan Bab Menghadap Kibla.mp4
@@ -27,3 +19,11 @@ Syarah Umdahtul Ahkam - Menutup Salah Satu Pundak Saat Shola.mp4
 Syarah Umdatul Ahkam Bab Sholat dan Sujud Sahwi - Ustadz Dr..mp4
 Syarah Umdatul Ahkam Bab Sutroh Dalam Sholat - Ustadz Dr. Fi.mp4
 Syarah Umdatul Ahkam Membaca Surat Al Fatihah Dalam Sholat -.mp4
+
+fiqh/zzzmisc:
+Fikih Zakat - Ustadz Dr. Firanda Andirja, Lc, M.A..mp4
+Fiqih Ramadhan - Ustadz Dr. Firanda Andirja, Lc, M.A..mp4
+jibab-wanita-muslimah-al-albani.pdf
+Kitab-Fiqh-5-madzhab.pdf
+SifatSholatNabi-lbaniFull.pdf
+Tuntunan Lengkap Mengurus Jenazah _ Nashiruddin Al Albani.pdf
