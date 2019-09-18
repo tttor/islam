@@ -4,6 +4,17 @@ umdatul-ahkam
 zzzmisc
 
 fiqh/umdatul-ahkam:
+aris
+firanda
+README.md
+
+fiqh/umdatul-ahkam/aris:
+Kajian Kitab Umdatul Ahkam Hadis 1 - Thaharah (Niat dan Huku.mp4
+Kajian Kitab Umdatul Ahkam Hadis 2 - Thaharah (Wudhu dan Huk.mp4
+Kajian Kitab Umdatul Ahkam Hadis 3 - Thaharah (Wudhu Tidak s.mp4
+Kajian Kitab Umdatul Ahkam Hadis 4 - Thaharah (Adab Wudhu) -.mp4
+
+fiqh/umdatul-ahkam/firanda:
 Syarah Kitab Umdatul Ahkam Bab Adzan dan Bab Menghadap Kibla.mp4
 Syarah Kitab Umdatul Ahkam Bab Imam Dalam Sholat - Ustadz Dr.mp4
 Syarah Kitab Umdatul Ahkam Bab Shaff - Ustadz Dr. Firanda An.mp4
@@ -15,6 +26,7 @@ Syarah Kitab Umdatul Ahkam Sifat Sholat Nabi - Ustadz Dr. Fi.mp4
 Syarah Kitab Umdatul Ahkam Waktu-Waktu Sholat 1 - Ustadz Dr..mp4
 Syarah Kitab Umdatul Ahkam Waktu-Waktu Sholat 2 - Ustadz Dr..mp4
 Syarah Kitab Umdatul Ahkam Waktu-Waktu Sholat 3 - Ustadz Dr..mp4
+Syarah Umdahtul Ahkam Bab Tahiyatul Masjid - Ustadz Dr. Fira.mp4
 Syarah Umdahtul Ahkam - Menutup Salah Satu Pundak Saat Shola.mp4
 Syarah Umdatul Ahkam Bab Sholat dan Sujud Sahwi - Ustadz Dr..mp4
 Syarah Umdatul Ahkam Bab Sutroh Dalam Sholat - Ustadz Dr. Fi.mp4
