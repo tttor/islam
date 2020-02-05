@@ -1,5 +1,6 @@
 # Firanda Andirja
 * https://www.youtube.com/channel/UCm44PmruoSbuNbZn7jFeXUw
+* https://www.youtube.com/watch?v=Y3GHOBJjy1o
 
 ## [2 Kunci Sukses Dalam Pekerjaan](https://www.youtube.com/watch?v=cGsIBLKa7Bo)
 * semangat/serius dalam bekerja (berusaha) dan minta tolong kepada Allah (taqwa)
