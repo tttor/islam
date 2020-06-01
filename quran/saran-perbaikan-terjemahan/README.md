@@ -4,7 +4,7 @@
 * To reduce the approximation errors in translating from Arabic to Indonesian languages
 * To bridge the popular/short/standard translation to the tafsir;
   to trigger the curiosity to study the tafsir
-* As a way to study arabic with priority of Quran and Hadist reading comprehension
+* As a way to study Arabic language with priority of Quran and Hadist reading comprehension
 
 ## Methods
 * Based on Tafsir Ibnu Katsir
