@@ -1,6 +1,6 @@
-# Al-Isra: https://quran.com/17
+# Al-Isra https://quran.com/17
 
-# 21: https://quran.com/17/21
+# 21 https://quran.com/17/21
 * p: ... Dan kehidupan akhirat lebih tinggi tingkatannya (derajatnya) dan lebih besar keutamaan.
 * c: .... Dan kehidupan akhirat lebih tinggi tingkatan-tingkatannya dan lebih besar keutamaan.
 
