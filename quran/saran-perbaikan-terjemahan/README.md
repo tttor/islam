@@ -1,7 +1,8 @@
 # Saran perbaikan terjemahan Bahasa Indonesia berdasarkan tafsir Ibnu Katsir
 
 ## Purposes
-* To reduce the approximation errors in translating from Arabic to Indonesian languages
+* To reduce the approximation errors in translating from Arabic to Indonesian languages;
+  to reduce the source of confusion; to make the translation more clear
 * To bridge the popular/short/standard translation to the tafsir;
   to trigger the curiosity to study the tafsir
 * As a way to study Arabic language with priority of Quran and Hadist reading comprehension
