@@ -11,7 +11,7 @@
 * Based on several popular Indonesia translation, eg https://quran.com/
 * Based on several popular English translation, eg https://quran.com/
 
-## Sources of approximation errors in translation
+## Sources of confusion/approximation in translation
 * Grammar: pronouns, definitiveness, plural/singular
 * Vocab
 * Understanding (based on the understanding of the companions)
