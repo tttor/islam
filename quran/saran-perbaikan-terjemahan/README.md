@@ -18,9 +18,9 @@
   * http://tokosyaamilquran.com/syaamil-quran-terjemahan-perkata-hijaz-a5/
 
 ## Sources of confusion/approximation in translation
-* Grammar: pronouns, definitiveness, plural/singular
-* Vocab
 * Understanding (based on the understanding of the companions)
+* Grammar: pronouns, definitiveness, plural/singular
+* Vocabs
 
 ## Misc
 * There (will) always exist Indonesia speaking muslims that have not yet mastered Arabic
