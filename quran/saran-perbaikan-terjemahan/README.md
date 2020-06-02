@@ -6,13 +6,14 @@
   * to make the translation more clear
 * To bridge the popular/short/standard translation to the tafsir;
   * to trigger the curiosity to study the tafsir
+  * in terms of length: in between those of the popular translation and the tafsir
 * As a way to study Arabic language with priority of Quran and Hadist reading comprehension
 
 ## Methods
 * Based on Tafsir Ibnu Katsir, terjemahan Bahasa Indonesia
   * http://pustakaimamsyafii.com/tafsir-ibnu-katsir-ukuran-kecil.html
-* Based on several popular Indonesia translation, eg https://quran.com/
-* Based on several popular English translation, eg https://quran.com/
+* Based on several popular Indonesia and English translations
+  * https://quran.com/
 * Quran per kata
   * http://tokosyaamilquran.com/syaamil-quran-terjemahan-perkata-hijaz-a5/
 
