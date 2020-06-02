@@ -2,123 +2,34 @@ quran/:
 listing.txt
 README.md
 recite
+saran-perbaikan-terjemahan
 tafsir
 tahsin
 
 quran/recite:
-Quran Juz' 30 - Juz Amma - Recited by Mishari Rashid Alafasy (English, Indonesian translation).mp4
 README.md
 syamil_quran.djvu
 
+quran/saran-perbaikan-terjemahan:
+017_al-isra.md
+067_al-mulk.md
+README.md
+
 quran/tafsir:
-Atlas of The Quran.pdf
 firanda
 fizilalil
+ibnu-katsir
 nak
 README.md
-tafsir-ibnu-katsir
 
 quran/tafsir/firanda:
-Kajian Tafsir Juz 29 - Surat Surat Al-Qalam - Ustadz Dr. Fir.mp4
-Kajian Tafsir Juz Amma - Surat Al-Infithar - Ustadz Dr. Fira.mp4
-Kajian Tafsir Juz Amma - Surat Al-Qadr - Ustadz Dr. Firanda .mp4
-Kajian Tafsir Juz Amma - Surat An Naziat - Ustadz Dr. Firand.mp4
-Kajian Tafsir Surat Abasa - Ustadz Dr. Firanda Andirja, Lc, .mp4
-Pengajian Tafsir Surat Al-Ghasiyah - Ustadz Firanda Andirja,.mp4
-Tafsir Juz 30 Surat At Takwir - Ustadz Dr. Firanda Andirja, (1).mp4
-Tafsir Juz Amma - Surah Al A'la - Ustadz Dr. Firanda Andirja.mp4
-Tafsir Juz Amma - Surah At-Thariq - Ustadz Dr Firanda Andirj.mp4
-Tafsir Juz Amma Surat Al-Balad - Ustadz Dr. Firanda Andirja,.mp4
-Tafsir Juz Amma - Surat Al-Insyiqaq - Ustadz Dr. Firanda And.mp4
-Tafsir Juz Amma - Surat Al-Lail - Ustadz Dr. Firanda Andirja.mp4
 
 quran/tafsir/fizilalil:
-022-al-hajj.pdf
-abasa-indon.pdf
-ad-dhuha-indon.pdf
-al-adiyyat-indon.pdf
-al-ala-indon.pdf
-al-alaq-indon.pdf
-al-anam-indon1.pdf
-al-anbiya-indon.pdf
-al-anfal-indon1.pdf
-al-araf-indon1.pdf
-al-asr-indon.pdf
-al-balad-indon.pdf
-al-baqarah-indon1.pdf
-al-bayyinah-indon.pdf
-al-buruj-indon.pdf
-al-fajr-indon.pdf
-al-falaq-indon.pdf
-al-fil-indon.pdf
-al-furqan-indon.pdf
-al-ghasyiyah-indon.pdf
-al-hijr-indon.pdf
-al-humazah-indon.pdf
-ali-imran-eng.pdf
-al-ikhlas-indon.pdf
-al-infithar-indon.pdf
-al-insyiqaq-indon.pdf
-al-insyirah-indon.pdf
-al-isra-indon.pdf
-al-kafirun-indon.pdf
-al-kahfi-indon.pdf
-al-kautsar-indon.pdf
-al-lahab-indon.pdf
-al-lail-indon.pdf
-al-maidah-indon1.pdf
-al-maun-indon.pdf
-al-mukminun-indon.pdf
-al-muthaffifin-indon.pdf
-al-qadr-indon.pdf
-al-qariah-indon.pdf
-al-zalzalah-indon.pdf
-an-nahl-indon.pdf
-an-nas-indon.pdf
-an-nasr-indon.pdf
-an-nisa-indon1.pdf
-an-nur-indon.pdf
-ar-rad-indon.pdf
-as-syams-indon.pdf
-at-takasur-indon.pdf
-at-takwir-indon.pdf
-at-tariq-indon.pdf
-at-taubah-indon1.pdf
-at-tin-indon.pdf
-hud-indon.pdf
-ibrahim-indon.pdf
-maryam-indon.pdf
-muqaddimah1.pdf
-quraisy-indon.pdf
-taha-indon.pdf
-yunus-indon1.pdf
-yusuf-indon.pdf
 
-quran/tafsir/nak:
-GET TO KNOW Ep.15 - Surah Al-Munafiqun - Nouman Ali Khan - Q.mp4
-get_to_know_nak.md
-quran_weekly_nak.md
-
-quran/tafsir/tafsir-ibnu-katsir:
-pustaka-imam-syafii
-Tafsir Ibn Kathir all 10 volumes.pdf
-tafsir ibn katser bahasa arab 30juz.rar
-
-quran/tafsir/tafsir-ibnu-katsir/pustaka-imam-syafii:
-note
-tafsir ibni katsir  30 juz.rar
-Tafsir Ibnu Katsir 1 (602)
-Tafsir Ibnu Katsir 2 (498)
-Tafsir Ibnu Katsir 3 (533)
-Tafsir Ibnu Katsir 4 (580)
-Tafsir Ibnu Katsir 5 (637)
-Tafsir Ibnu Katsir 6 (692)
-Tafsir Ibnu Katsir 7 (665)
-Tafsir Ibnu Katsir 8 (660)
-
-quran/tafsir/tafsir-ibnu-katsir/pustaka-imam-syafii/note:
+quran/tafsir/ibnu-katsir:
 001-alfatihah.md
 002-albaqarah.md
+067-almulk.md
 072-aljinn.md
 073-almmuzzamil.md
 074-almuddatsir.md
@@ -164,79 +75,19 @@ quran/tafsir/tafsir-ibnu-katsir/pustaka-imam-syafii/note:
 144-annaas.md
 README.md
 
-quran/tafsir/tafsir-ibnu-katsir/pustaka-imam-syafii/Tafsir Ibnu Katsir 1 (602):
-Tafsir Ibnu Katsir 1 a.pdf
-Tafsir Ibnu Katsir 1 b.pdf
-Tafsir Ibnu Katsir 1 c.pdf
-Tafsir Ibnu Katsir 1 d.pdf
-
-quran/tafsir/tafsir-ibnu-katsir/pustaka-imam-syafii/Tafsir Ibnu Katsir 2 (498):
-Tafsir Ibnu Katsir 2.1.pdf
-Tafsir Ibnu Katsir 2.2.pdf
-Tafsir Ibnu Katsir 2.3.pdf
-Tafsir Ibnu Katsir 2.4.pdf
-
-quran/tafsir/tafsir-ibnu-katsir/pustaka-imam-syafii/Tafsir Ibnu Katsir 3 (533):
-Tafsir Ibnu Katsir 3.1.pdf
-Tafsir Ibnu Katsir 3.2.pdf
-Tafsir Ibnu Katsir 3.3.pdf
-Tafsir Ibnu Katsir 3.4.pdf
-
-quran/tafsir/tafsir-ibnu-katsir/pustaka-imam-syafii/Tafsir Ibnu Katsir 4 (580):
-Tafsir Ibnu Katsir 4.1.pdf
-Tafsir Ibnu Katsir 4.2.pdf
-Tafsir Ibnu Katsir 4.3.pdf
-Tafsir Ibnu Katsir 4.4.pdf
-
-quran/tafsir/tafsir-ibnu-katsir/pustaka-imam-syafii/Tafsir Ibnu Katsir 5 (637):
-Tafsir Ibnu Katsir 5.1.pdf
-Tafsir Ibnu Katsir 5.2.pdf
-Tafsir Ibnu Katsir 5.3.pdf
-Tafsir Ibnu Katsir 5.4.pdf
-
-quran/tafsir/tafsir-ibnu-katsir/pustaka-imam-syafii/Tafsir Ibnu Katsir 6 (692):
-Tafsir Ibnu Katsir 6.1.pdf
-Tafsir Ibnu Katsir 6.2.pdf
-Tafsir Ibnu Katsir 6.3.pdf
-Tafsir Ibnu Katsir 6.4.pdf
-Tafsir Ibnu Katsir 6.5.pdf
-
-quran/tafsir/tafsir-ibnu-katsir/pustaka-imam-syafii/Tafsir Ibnu Katsir 7 (665):
-Tafsir Ibnu Katsir 7.1.pdf
-Tafsir Ibnu Katsir 7.2.pdf
-Tafsir Ibnu Katsir 7.3.pdf
-Tafsir Ibnu Katsir 7.4.pdf
-Tafsir Ibnu Katsir 7.5.pdf
-
-quran/tafsir/tafsir-ibnu-katsir/pustaka-imam-syafii/Tafsir Ibnu Katsir 8 (660):
-Tafsir Ibnu Katsir 8.1.pdf
-Tafsir Ibnu Katsir 8.2.pdf
-Tafsir Ibnu Katsir 8.3.pdf
-Tafsir Ibnu Katsir 8.4.pdf
-Tafsir Ibnu Katsir 8.5.pdf
-Tafsir Ibnu Katsir 8.6 (Keutamaan2 al-Qur'an).pdf
+quran/tafsir/nak:
+get_to_know_nak.md
+quran_weekly_nak.md
 
 quran/tahsin:
 abdul-rohman
 abu-rabbani
-tuntunan-tahsin-kaidah-tajwid.pdf
+README.md
 ulin-nuha
 
 quran/tahsin/abdul-rohman:
-Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca_1.mp4
-Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca_24.mp4
-Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca (2).mp4
-Belajar Mengaji Iqro 1 LENGKAP dengan Suara Belajar Membaca (3).mp4
 
 quran/tahsin/abu-rabbani:
-Belajar Mudah Tahsin Al-Quran Part 1.mp4
-Belajar Mudah Tahsin Al-Quran Part 2.mp4
-Belajar Mudah Tahsin Al-Quran Part 3.mp4
-Belajar Mudah Tahsin Al-Quran Part 4.mp4
-pengucapan_huruf_hijaiyah_abu_rabbani.mp4
 README.md
 
 quran/tahsin/ulin-nuha:
-Serial Belajar Tahsin (01) Kewajiban Belajar Tajwid - Ustadz.mp4
-Serial Belajar Tahsin (03) Adab-Adab Membaca Al-Quran - Usta.mp4
-Serial Belajar Tahsin (2) Tujuan Mempelajari Ilmu Tajwid - U.mp4

@@ -10,14 +10,6 @@ zother
 
 sunnah/arbain:
 arbain.md
-Hadist Arba'in No 10 'Makanan Halal Berpengaruh Pada Doa' - .mp4
-Hadist Arba'in No 13 - Ustadz Dr. Firanda Andirja, Lc, M.A..mp4
-Kajian Hadist Arba'in Niat Dan Ikhlas - Ustadz DR. Firanda A.mp4
-Kajian Syarah Hadist Arba'in Islam Iman Ikhsan - Ustadz Dr. .mp4
-Syarah Hadist Arba'in 2 Islam Iman Ikhsan - Ustadz Dr. Firan.mp4
-Syarah Hadist Arba'in 3 Rukun Islam - Ustadz Dr. Firanda And.mp4
-Syarah Hadist Arba'in 4 Jangan Marah - Ustadz Dr. Firanda An.mp4
-Syarah Hadist Arba'in no 15 'Berkata Baik Atau Diam' - Ustad.mp4
 
 sunnah/bukhari:
 fathul-baari
@@ -29,14 +21,6 @@ book
 firanda
 
 sunnah/bukhari/fathul-baari/book:
-fathul-baari-1-syarah-hadits-bukhari.pdf
-fathul-baari-2-syarah-hadits-bukhari.pdf
-fathul-baari-3-syarah-hadits-bukhari.pdf
-Fathul Baari jilid 4.djvu
-fathul baari jilid 5.djvu
-Fathul Baari jilid 6.djvu
-fathul_bari_7.djvu
-fathul_bari_8.djvu
 
 sunnah/bukhari/fathul-baari/firanda:
 book_00.md
@@ -44,90 +28,12 @@ book_01_wahyu.md
 book_02_iman.md
 book_03_ilmu.md
 book_04_wudhu.md
-Kajian Kitab : Syarah Kitab Shahih Bukhari #54 - Ustadz Dr. Firanda Andirja, MA.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari #55 - Ustadz Dr. Fi.mp4
-Kajian Kitab : Syarah Kitab Shahih Bukhari #56 - Ustadz Dr. Firanda Andirja, MA.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari #57 - Ustadz Dr. Fi.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari #58 - Ustadz Dr. Fi.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari #59 - Ustadz Dr. Fi.mp4
-Kajian Kitab : Syarah Kitab Shahih Bukhari #60 - Ustadz Dr. Firanda Andirja, MA.mp4
-Kajian Kitab  Syarah Kitab Shahih Bukhari 62 - Ustadz Dr. Firanda Andirja, MA.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-10 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-11 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-12 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-13 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-14  - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-15 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-16 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-17 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-18 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-19 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-1 - Ustad.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-20 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-21 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-22 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-23 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-24 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-25 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-26 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-27 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-28 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-29 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-2 - Ustad.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-30 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-31 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-32 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-33 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-34 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-35 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-36 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-37 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-38 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-39 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-3 - Ustad.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-40 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-41 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-42 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-43 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-44 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-45 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-46 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-47 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-48 - Usta.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-4 - Ustad.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-5 - Ustad.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-6 - Ustad.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-7 - Ustad.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-8 - Ustad.mp4
-Kajian Kitab Syarah Kitab Shahih Bukhari Kajian Ke-9 - Ustad.mp4
-[LIVE] Syarah Shahih Al Bukhari - Kitab Mandi - Ustadz Dr. F.mp4
 README.md
 
 sunnah/muslim:
-shahih-muslim.pdf
 
 sunnah/riyadhush-shalihin:
-Syarah Kitab Riyadush Shalihin 2 - Ustadz Dr. Firanda Andirj.mp4
-Syarah Kitab Riyadush Shalihin 3 - Bab 1 - Ustadz Dr. Firand.mp4
-Syarah Kitab Riyadush Shalihin - Bab 158 Keutamaan Berwudhu .mp4
-Syarah Kitab Riyadush Shalihin Bab 1 - Ustadz Dr. Firanda An.mp4
-Syarah Kitab Riyadush Shalihin Bab - 2 Taubat - Ustadz Dr. F.mp4
-Syarah Kitab Riyadush Shalihin - Bab Sabar - Ust Dr. Firanda Andirja, M.A..mp4
-Syarah Riyadush Shalihin - Bab 187 188 Keutamaan Sholat - Us.mp4
-Syarah Riyadush Shalihin - Bab 2&3-Taubat dan Sabar - Ustadz Dr. Firanda Andirja, M.A..mp4
-Syarah Riyadush Shalihin Bab - 2 Taubat - Hadist no 15-20 - .mp4
 
 sunnah/tirmidzi:
-Jami at-Tirmidhi Vol. 1 - 1-543 English translation.pdf
-Jami at-Tirmidhi Vol. 2 - 544-1204 English translation.pdf
-Jami at-Tirmidhi Vol. 3 - 1205-1896 English Arabic.pdf
-Jami at-Tirmidhi Vol. 4 - 1897-2605 English Arabic.pdf
-Jami at-Tirmidhi Vol. 5 - 2606-3290 English Arabic.pdf
-Jami at-Tirmidhi Vol. 6 - 3291-3956 English Arabic.pdf
-Shahih Sunan Tirmidzi.chm
 
 sunnah/zother:
-BulughulMaram1EdIndonesia.pdf
-imam-al-barbahari-syarhus-sunnah.pdf
-shahih-al-jami-ash-shaghir-jilid-1-syaikh-muhammad-nashiruddin-al-albani.pdf
-Sunan_Nasai.chm

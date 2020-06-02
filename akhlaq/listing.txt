@@ -1,23 +1,11 @@
 akhlaq/:
-Adab Santri #1 Adab Terhada Diri Sendiri Bagian 1 - Ustadz A.mp4
 birrul-walidain
-Doa2_sehari_said_bin_ali_al-qahthani.pdf
 kitab-al-jami
 listing.txt
 README.md
 
 akhlaq/birrul-walidain:
-Berbakti kepada Orang Tua - Ustadz Firanda Andirja,MA.mp4
-Berbuat Baik Kepada Orang Tua dengan Sebaik-baiknya - Ustadz.mp4
-Birrul Walidain - Ustadz Dr. Syafiq Riza Basalamah, M.A..mp4
 README.md
 
 akhlaq/kitab-al-jami:
-Kajian Kitab Syarah Kitabul Jami' Adab Memakai Sandal - Usta.mp4
-Kajian Kitab Syarah Kitabul Jami' Bab Adab - Ustadz DR. Fira(1).mp4
-Kajian Kitab Syarah Kitabul Jami' Bab Adab - Ustadz DR. Fira(2).mp4
-Kajian Kitab Syarah Kitabul Jami' Bab Adab - Ustadz DR. Fira(3).mp4
-Kajian Kitab Syarah Kitabul Jami' Bab Adab - Ustadz DR. Fira.mp4
-Kajian Kitab Syarah Kitabul Jami' Menyambung Silaturahmi - U.mp4
 README.md
-Syarah Kitabul Jami' Bab Zuhud & Wara' 1 - Ustadz Dr. Firand.mp4
