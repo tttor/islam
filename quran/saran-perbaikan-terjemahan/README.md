@@ -9,7 +9,7 @@
 * As a way to study Arabic language with priority of Quran and Hadist reading comprehension
 
 ## Methods
-* Based on Tafsir Ibnu Katsir, terjemahan Bahasa Indonesia, Pustaka Imam Syafii
+* Based on Tafsir Ibnu Katsir, terjemahan Bahasa Indonesia
   * http://pustakaimamsyafii.com/tafsir-ibnu-katsir-ukuran-kecil.html
 * Based on several popular Indonesia translation, eg https://quran.com/
 * Based on several popular English translation, eg https://quran.com/
