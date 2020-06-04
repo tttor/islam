@@ -2,4 +2,5 @@
 
 # 5:
 * p: ... perkataan yang berat kepadamu.
-* c: ... perkataan yang berat kepadamu (berat untuk diamalkan; berat pada waktu turunnya karena begitu agungnya).
+* c: ... perkataan yang berat kepadamu (berat untuk diamalkan di dunia, berat juga dalam timbangan di akhirat; 
+  berat pada waktu turunnya karena begitu agungnya).
