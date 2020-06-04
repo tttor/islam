@@ -18,7 +18,7 @@
   * http://tokosyaamilquran.com/syaamil-quran-terjemahan-perkata-hijaz-a5/
 * Kajian Tafsir
   * Ustadz Abdullah Zaen https://www.youtube.com/results?search_query=tafsir+abdullah+zaen
-  * Ustadz Firanda Andirja https://www.youtube.com/results?search_query=tafsir+firanda
+  * Ustadz Firanda Andirja https://www.youtube.com/results?search_query=tafsir+firanda+andirja
   
 ## Sources of confusion/approximation in translation
 * Understanding (based on the understanding of the companions)
