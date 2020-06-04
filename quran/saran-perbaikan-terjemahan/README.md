@@ -9,14 +9,17 @@
   * in terms of length: in between those of the popular translation and the tafsir
 * As a way to study Arabic language with priority of Quran and Hadist reading comprehension
 
-## Methods
-* Based on Tafsir Ibnu Katsir, terjemahan Bahasa Indonesia
+## Methods, references
+* Tafsir Ibnu Katsir, terjemahan Bahasa Indonesia
   * http://pustakaimamsyafii.com/tafsir-ibnu-katsir-ukuran-kecil.html
-* Based on several popular Indonesia and English translations
+* Several popular Indonesia and English translations
   * https://quran.com/
 * Quran per kata
   * http://tokosyaamilquran.com/syaamil-quran-terjemahan-perkata-hijaz-a5/
-
+* Kajian Tafsir
+  * Ustadz Abdullah Zaen
+  * Ustadz Firanda Andirja https://www.youtube.com/channel/UCm44PmruoSbuNbZn7jFeXUw
+  
 ## Sources of confusion/approximation in translation
 * Understanding (based on the understanding of the companions)
 * Grammar: pronouns, definitiveness, plural/singular
