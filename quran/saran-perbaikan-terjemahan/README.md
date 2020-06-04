@@ -21,6 +21,9 @@
 * Understanding (based on the understanding of the companions)
 * Grammar: pronouns, definitiveness, plural/singular
 * Vocabs
+* Structure
+  * a sentence may consists of multiple verses;
+    a verse is not always a complete sentence
 
 ## Misc
 * There (will) always exist Indonesia speaking muslims that have not yet mastered Arabic
