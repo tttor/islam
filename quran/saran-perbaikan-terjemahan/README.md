@@ -17,8 +17,8 @@
 * Quran per kata
   * http://tokosyaamilquran.com/syaamil-quran-terjemahan-perkata-hijaz-a5/
 * Kajian Tafsir
-  * Ustadz Abdullah Zaen
-  * Ustadz Firanda Andirja https://www.youtube.com/channel/UCm44PmruoSbuNbZn7jFeXUw
+  * Ustadz Abdullah Zaen https://www.youtube.com/results?search_query=tafsir+abdullah+zaen
+  * Ustadz Firanda Andirja https://www.youtube.com/results?search_query=tafsir+firanda
   
 ## Sources of confusion/approximation in translation
 * Understanding (based on the understanding of the companions)
