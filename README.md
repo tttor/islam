@@ -12,3 +12,4 @@ My ways of studying Islam.
 [Bayyinah Institute](https://www.youtube.com/channel/UCRtiU-lpcBSi-ipFKyfIkug)
 * Awards:
 [King Faisal International Prize](http://kfip.org/en)
+* Resource: https://eshaardhie.blogspot.com/
