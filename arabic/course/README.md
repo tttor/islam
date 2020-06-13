@@ -7,4 +7,6 @@
 * Dauroh Bahasa Arab, Ustadz Firanda
   * Sorof https://www.youtube.com/watch?v=60fm_sCWlag
   * Nahwu https://www.youtube.com/watch?v=cPzwvwvfvwQ
+* Ustadz M Abduh Tuasikal
+  * https://www.youtube.com/watch?v=h_QLMFUu5Uo
 * http://www.madinaharabic.com/
