@@ -13,6 +13,7 @@ syamil_quran.djvu
 quran/saran-perbaikan-terjemahan:
 017_al-isra.md
 067_al-mulk.md
+073_al-muzzammil.md
 README.md
 
 quran/tafsir:

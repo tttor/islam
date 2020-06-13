@@ -1,18 +1,16 @@
 arabic/:
 book
 course
-dict
 listing.txt
 README.md
 
 arabic/book:
-essentials-of-quranic-arabic
+dict
 fahimna
 madina
 README.md
 
-arabic/book/essentials-of-quranic-arabic:
-README.md
+arabic/book/dict:
 
 arabic/book/fahimna:
 
@@ -22,6 +20,7 @@ arabic/course:
 bisa
 husna
 ismail
+README.md
 
 arabic/course/bisa:
 
@@ -30,5 +29,3 @@ README.md
 
 arabic/course/ismail:
 README.md
-
-arabic/dict:
