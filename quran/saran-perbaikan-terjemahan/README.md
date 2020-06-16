@@ -34,3 +34,5 @@
 * The largest Muslim population in a country is in Indonesia
   * https://en.wikipedia.org/wiki/Islam_by_country
 * https://diy.kemenag.go.id/2430-kemenag-luncurkan-terjemahan-al-qur039an-edisi-penyempurnaan.html
+* https://id.wikipedia.org/wiki/Lajnah_Pentashihan_Mushaf_Al-Qur%27an
+* https://lajnah.kemenag.go.id/
