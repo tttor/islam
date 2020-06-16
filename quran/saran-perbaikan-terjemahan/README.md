@@ -33,3 +33,4 @@
 * Exctinction of Indonesia language is almost impossible
 * The largest Muslim population in a country is in Indonesia
   * https://en.wikipedia.org/wiki/Islam_by_country
+* https://diy.kemenag.go.id/2430-kemenag-luncurkan-terjemahan-al-qur039an-edisi-penyempurnaan.html
