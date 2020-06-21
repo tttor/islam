@@ -4,6 +4,8 @@
   * http://www.toko.bisa.id/2016/12/80-kosakata-al-quran/
   * http://www.toko.bisa.id/2016/03/ilmu-nahwu-untuk-pemula/
   * http://www.toko.bisa.id/2016/03/ilmu-sharaf-untuk-pemula/
+  * https://www.bisa.id/produk/ilmu-sharaf-untuk-pemula/
+  * http://blc.bisa.id/
 * Dauroh Bahasa Arab, Ustadz Firanda
   * Sorof https://www.youtube.com/watch?v=60fm_sCWlag
   * Nahwu https://www.youtube.com/watch?v=cPzwvwvfvwQ
