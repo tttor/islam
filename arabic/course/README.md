@@ -11,3 +11,4 @@
 * Ustadz M Abduh Tuasikal
   * https://www.youtube.com/watch?v=h_QLMFUu5Uo
 * http://www.madinaharabic.com/
+* http://www.jogjamengaji.com/2014/07/bahasa-arab-kitab-muyassar-mukhtarot.html
