@@ -14,3 +14,4 @@
   * https://www.youtube.com/watch?v=h_QLMFUu5Uo
 * http://www.madinaharabic.com/
 * http://www.jogjamengaji.com/2014/07/bahasa-arab-kitab-muyassar-mukhtarot.html
+* Ammi Nur Baits https://www.youtube.com/watch?v=Yf3Pjy6RPwY
