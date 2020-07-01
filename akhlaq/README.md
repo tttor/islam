@@ -1,6 +1,8 @@
 # akhlaq
 
-* idfa billati hiya ahsan https://quran.com/41/34
+* idfa billati hiya ahsan 
+  * https://quran.com/41/34
+  * https://quran.com/23/96
 
 # Qanaah
 * https://muslim.or.id/6090-keutamaan-sifat-qonaah.html
