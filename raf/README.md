@@ -6,7 +6,9 @@
 
 # orang tua, mertua
 * Suami ataukah orang tua yang didahulukan bagi wanita, Ustadz Dr. Khalid Basalamah, MA https://www.youtube.com/watch?v=hfGq2YWATEk 
+* Wajibkah Berbakti Kepada Mertua - Ustadz DR. Syafiq Riza Basalamah, MA https://www.youtube.com/watch?v=Edab3IDp9SU
 * Sejauh Mana Seorang Suami Berbakti kepada Mertua? - Ustadz Abdullah Zaen https://www.youtube.com/watch?v=wIHRu089_2c
+* https://www.youtube.com/watch?v=Us0QQ93og6Y Apa Wanita Lepas Tanggung Jawab Pada Orang Tua Setelah Menikah? - Ustadz Abdurrahman Thoyib, Lc.
 * https://yufid.tv/23074-tanya-jawab-cara-berlaku-adil-dengan-orang-tua-dan-mertua-ustadz-subhan-bawazier.html
 * https://www.youtube.com/watch?v=gsVxZd5n9nM 
 
