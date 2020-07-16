@@ -5,3 +5,4 @@
 * Holy Quran: https://www.youtube.com/channel/UCAtXN50DVnmoYr5Yq9xLUcg
 * Ahmad Abu Ghazaleh
   * https://www.youtube.com/watch?v=B_BXXU5mLP8
+* https://www.youtube.com/c/iloveallahnl/playlists
