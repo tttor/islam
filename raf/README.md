@@ -1,9 +1,8 @@
 # raf: raising a family
 
-* Yufid Documentary: Cilembu Kampungnya Para Pencari Ilmu https://www.youtube.com/watch?v=Y_vy_q1s9qM
-* https://rumaysho.com/14530-nama-bayi-laki-laki-bahasa-arab.html
-* https://rumaysho.com/14534-nama-bayi-perempuan-bahasa-arab.html
-* https://rumaysho.com/1012-hadiah-di-hari-lahir-3-nama-nama-yang-terlarang-untuk-si-buah-hati.html
+# book
+* https://yufidstore.com/products/buku-islamic-parenting-aqwam
+* https://yufidstore.com/products/buku-prophetic-parenting-cara-nabi-mendidik-anak-pro-u-media
 
 # orang tua, mertua
 * Suami ataukah orang tua yang didahulukan bagi wanita, Ustadz Dr. Khalid Basalamah, MA https://www.youtube.com/watch?v=hfGq2YWATEk 
@@ -23,3 +22,8 @@
 * https://www.youtube.com/watch?v=mVvKLyhcKjw
   * https://muslim.or.id/10677-ganjaran-memelihara-dan-mendidik-anak-perempuan.html
 
+# misc
+* Yufid Documentary: Cilembu Kampungnya Para Pencari Ilmu https://www.youtube.com/watch?v=Y_vy_q1s9qM
+* https://rumaysho.com/14530-nama-bayi-laki-laki-bahasa-arab.html
+* https://rumaysho.com/14534-nama-bayi-perempuan-bahasa-arab.html
+* https://rumaysho.com/1012-hadiah-di-hari-lahir-3-nama-nama-yang-terlarang-untuk-si-buah-hati.html
