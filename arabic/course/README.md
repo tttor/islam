@@ -18,3 +18,10 @@
 * http://www.jogjamengaji.com/2014/07/bahasa-arab-kitab-muyassar-mukhtarot.html
 * Ammi Nur Baits https://www.youtube.com/watch?v=Yf3Pjy6RPwY
 * https://mahadumar.id/
+* Solihin Bunyamin: Belajar Arab dari Bahasa Al-Quran
+  * 01 Metode Granada, 8 Jam Belajar Bisa Menerjemah Al-Qur'an
+  * https://www.youtube.com/watch?v=jVmoL9pBzTQ
+  * https://vcd.belajararab.net/
+  * https://www.youtube.com/c/BelajarBahasaArabMudah/videos
+* https://bakkata.co.id/ Belajar Al Qur'an kata per kata
+  
