@@ -23,7 +23,18 @@
   * islam: berserah diri kepada Allah dengan mentauhidkan Allah dan tunduk/terikat dgn ketaatan, terbebas dari kesyirikan
 * Jika "iman" dan "islam" berkumpul maka iman berkait dgn batin dan islam terkait dzohir.
   * Jika terpisah maka saling mewakili
-  
+* makna laa ilaaha illallahu:
+* iman kepada takdi yang baik dan yang jelek
+  * bahwa Allah telah menentukan di awal
+  * Allah mengetahui apa yang terjadi
+  * semua terjadi atas ketetapan Allah
+* 4 macam takdir
+  * takdir berupa ilmu Allah, Adz-Dzaariyat: 9 
+  * takdir yang ditulis di Lauh Mahfudz (kitab catatan besar)
+    * takdir ini bisa Allah ubah
+    * Ar-radu: 39
+  * takdi dalam rahim: rezeki, ajal, sengsara atau bahagia
+  * takdir ketika waktunya terjadi, Al Qamar: 47-49
 # Hadist 1
 Umar; amirul mukminin
   abu hafsi: singa
