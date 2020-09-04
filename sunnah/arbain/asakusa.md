@@ -42,7 +42,12 @@
   * iman bahwa Allah telah menuliskan semua itu, termasuk yang tertulis di Lauh Mahfuzh
   * iman terhadap kehendak Allah yang pasti terlaksana
   * iman bahwa Allah menciptakan semua yang terjadi
-  
+* urutan rukun? rukum islam: zakat, sholat?
+  * ANS: rukun yang sifatnya amal maka urutan (tartib) adalah bagian dari rukun, misal rukun wudhu
+  * ANS: tentang rukum iman dan islam: tersirat/implicit maka berurutan, pertama Iman kepada Allah, .... juga shahadat, shalat, then zakat
+* Allah menetapkan/mengetahui: mana yang lebih dulu?
+  * ANS: dimulai dengan ilmu Allah
+
 # Hadist 1
 * Umar; amirul mukminin
   * abu hafsi: singa
