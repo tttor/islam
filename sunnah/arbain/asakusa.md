@@ -23,7 +23,7 @@
   * islam: berserah diri kepada Allah dengan mentauhidkan Allah dan tunduk/terikat dgn ketaatan, terbebas dari kesyirikan
 * Jika "iman" dan "islam" berkumpul maka iman berkait dgn batin dan islam terkait dzohir.
   * Jika terpisah maka saling mewakili
-* makna laa ilaaha illallahu:
+* makna laa ilaaha illallahu: ...
 * iman kepada takdir yang baik dan yang jelek
   * bahwa Allah telah menentukan di awal
   * Allah mengetahui apa yang terjadi
