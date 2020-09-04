@@ -7,6 +7,10 @@
 * ... tentang tanda-tanda hari kiamat:
   * budak wanita melahirkan tuannya
   * ...
+* yang datang adalah Jibril untuk mengajarkan agama
+* iman secara bahasa secara mutlak (umum): pembenaran
+* iman secara syariat: pembenaran rukun iman
+* islam: istilah terkair pelaksanaan kewajiban, terikat pada amal-amal zhohir
 
 # Hadist 1
 Umar; amirul mukminin
