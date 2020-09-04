@@ -1,3 +1,13 @@
+
+# Hadist 2
+* Kabarkan tentang islam: rukun islam
+* ... tentang iman: rukun iman
+* ... tentang ihsan: khusyuk beribadah, seakan melihat Allah, at least menyadari bahwa Allah melihat Anda
+* ... tentang hari kiamat: yang ditanya tidak lebih tahu dari yang bertanya
+* ... tentang tanda-tanda hari kiamat:
+  * budak wanita melahirkan tuannya
+  * ...
+
 # Hadist 1
 Umar; amirul mukminin
   abu hafsi: singa
@@ -51,6 +61,4 @@ bepergian di muka bumi
   untuk 3 masdih, aqsa
   untuk menjaga perbatasan
   mengunjungi teman karena Allah
-
-# Hadist 2
 
