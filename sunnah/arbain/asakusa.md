@@ -44,9 +44,10 @@
   * iman bahwa Allah menciptakan semua yang terjadi
 * urutan rukun? rukum islam: zakat, sholat?
   * ANS: rukun yang sifatnya amal maka urutan (tartib) adalah bagian dari rukun, misal rukun wudhu
-  * ANS: tentang rukum iman dan islam: tersirat/implicit maka berurutan, pertama Iman kepada Allah, .... juga shahadat, shalat, then zakat
+  * ANS: tentang rukum iman dan islam: tersirat/implicit maka berurutan, pertama Iman kepada Allah, .... juga shahadat, shalat, then zakat; also puasa vs zakat
 * Allah menetapkan/mengetahui: mana yang lebih dulu?
   * ANS: dimulai dengan ilmu Allah
+* Hadist: tiada satu jiwa daripada kamu kecuali Allah mengetahui tempatnya di Syurga atau Neraka, maka para sahabat bertanya: jadi kenapa kami perlu beramal? bukanlah kami lebih baik berserah diri saja? Nabi: tidak begitu, tetaplah beramal, karena setiap dari kalian akan dimudahkan untuk apa yang dia diciptakan untuknya. Kemudian Nabi membaca Al-lail: 5-10
 
 # Hadist 1
 * Umar; amirul mukminin
