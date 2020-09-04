@@ -24,7 +24,7 @@
 * Jika "iman" dan "islam" berkumpul maka iman berkait dgn batin dan islam terkait dzohir.
   * Jika terpisah maka saling mewakili
 * makna laa ilaaha illallahu:
-* iman kepada takdi yang baik dan yang jelek
+* iman kepada takdir yang baik dan yang jelek
   * bahwa Allah telah menentukan di awal
   * Allah mengetahui apa yang terjadi
   * semua terjadi atas ketetapan Allah
@@ -37,6 +37,11 @@
   * takdir ketika waktunya terjadi, Al Qamar: 47-49, 
     Al-Falaq: 1-2
 * Hadist: sedekat dan silaturahmi akan mencegah kematian yg jelek
+* tingkatan iman kepada takdir
+  * iman terhadap ilmu Allah yang mencakup segala sesuatu
+  * iman bahwa Allah telah menuliskan semua itu, termasuk yang tertulis di Lauh Mahfuzh
+  * iman terhadap kehendak Allah yang pasti terlaksana
+  * iman bahwa Allah menciptakan semua yang terjadi
   
 # Hadist 1
 * Umar; amirul mukminin
@@ -63,7 +68,6 @@
 * bepergian di muka bumi
   * menghindari sesuatu
   * mencari sesuatu
-
 * 6 classes
   * keluar dari negeri kafir yang memerangi negeri islam
     tetap berlaku sampai kiamat,
@@ -74,7 +78,6 @@
   * keluar dari negeri yang tercemar
     kabilah irainah, iraniyyin
   * keluar dari negeri yg mengancam hartanya (seperti kehormatan darahnya)
-
 * mencari (ada 9)
   * pergi untuk mencari ibrah (pelajaran)
   * pergi untuk haji
