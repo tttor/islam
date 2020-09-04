@@ -11,7 +11,19 @@
 * iman secara bahasa secara mutlak (umum): pembenaran
 * iman secara syariat: pembenaran rukun iman
 * islam: istilah terkair pelaksanaan kewajiban, terikat pada amal-amal zhohir
-
+* terkadang Allah membedakan antara iman dan islam
+ * See Al-Hujurat: 14, Al-Munafiqun: 1
+* Al-iman adalha syarat sahnya ber-Islam
+* terkadang Iman dan Islam saling menggantikan (mewakili)
+  * See Al-baqarah: 143, Asy-Syuraa: 52
+* Kitab 200 tanya jawab tentang aqidah islam (Hafidz bin Ahmad al-Hakami)
+  * iman: perkataan dan perbuatan,
+    perkataan hati dan lisan;
+    orang yang beriman itu bertingkat-tingkat, naik-turun iman
+  * islam: berserah diri kepada Allah dengan mentauhidkan Allah dan tunduk/terikat dgn ketaatan, terbebas dari kesyirikan
+* Jika "iman" dan "islam" berkumpul maka iman berkait dgn batin dan islam terkait dzohir.
+  * Jika terpisah maka saling mewakili
+  
 # Hadist 1
 Umar; amirul mukminin
   abu hafsi: singa
