@@ -9,3 +9,8 @@
 * https://muslim.or.id/6090-keutamaan-sifat-qonaah.html
 * https://rumaysho.com/1023-kaya-hati-itulah-kaya-senyatanya.html
 * https://rumaysho.com/3393-meraih-sifat-qana-ah.html
+
+# Misc
+* Kami ikut berbelasungkawa.
+“Bersabarlah dan berharaplah pahala dari Allah, sesungguhnya adalah hak Allah mengambil dan memberikan sesuatu, segala sesuatu di sisi-Nya ada batas waktu yang telah ditentukan.” [HR. Al-Bukhari dan Muslim]
+Referensi: https://almanhaj.or.id/4012-adab-adab-taziyah-bela-sungkawa-shalat-jenazah-dan-tata-cara-penguburannya.html
