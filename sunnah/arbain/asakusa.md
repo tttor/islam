@@ -1,6 +1,6 @@
 
 # Hadist 2
-* Kabarkan tentang islam: rukun islam
+* Kabarkan tentang islam: rukun islam (cenderung ke amal fisik)
 * ... tentang iman: rukun iman
 * ... tentang ihsan: khusyuk beribadah, seakan melihat Allah, at least menyadari bahwa Allah melihat Anda
 * ... tentang hari kiamat: yang ditanya tidak lebih tahu dari yang bertanya
@@ -20,7 +20,11 @@
   * iman: perkataan dan perbuatan,
     perkataan hati dan lisan;
     orang yang beriman itu bertingkat-tingkat, naik-turun iman
-  * islam: berserah diri kepada Allah dengan mentauhidkan Allah dan tunduk/terikat dgn ketaatan, terbebas dari kesyirikan
+  * islam: berserah diri kepada Allah dengan 
+    * 1) mentauhidkan Allah (syahadat) dan 
+    * 2) tunduk/terikat dgn ketaatan (jadi tidak hanya keyakinan), 
+    * 3) terbebas dari kesyirikan (syahadat)
+    * ref: buku 200 tanya jawab dalam masalah aqidah
 * Jika "iman" dan "islam" berkumpul maka iman berkait dgn batin dan islam terkait dzohir.
   * Jika terpisah maka saling mewakili
 * makna laa ilaaha illallahu: ...
@@ -33,7 +37,7 @@
   * takdir yang ditulis di Lauh Mahfudz (kitab catatan besar)
     * takdir ini bisa Allah ubah
     * Ar-radu: 39
-  * takdi dalam rahim: rezeki, ajal, sengsara atau bahagia
+  * takdir dalam rahim: rezeki, ajal, sengsara atau bahagia
   * takdir ketika waktunya terjadi, Al Qamar: 47-49, 
     Al-Falaq: 1-2
 * Hadist: sedekat dan silaturahmi akan mencegah kematian yg jelek
@@ -48,6 +52,10 @@
 * Allah menetapkan/mengetahui: mana yang lebih dulu?
   * ANS: dimulai dengan ilmu Allah
 * Hadist: tiada satu jiwa daripada kamu kecuali Allah mengetahui tempatnya di Syurga atau Neraka, maka para sahabat bertanya: jadi kenapa kami perlu beramal? bukanlah kami lebih baik berserah diri saja? Nabi: tidak begitu, tetaplah beramal, karena setiap dari kalian akan dimudahkan untuk apa yang dia diciptakan untuknya. Kemudian Nabi membaca Al-lail: 5-10
+* iman adalah perkataan dan perbuatan
+  * perkataan: hati (membenarkan) dan lisan (melafalkan syahadat)
+  * perbuatan: amal hati (takut, harap, tawakal) dan amal tubuh
+  * iman bertambah dgn ketaatan dan berkurang dgn kemaksiatan
 
 # Hadist 1
 * Umar; amirul mukminin
