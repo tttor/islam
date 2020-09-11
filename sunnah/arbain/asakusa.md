@@ -57,6 +57,27 @@
   * perbuatan: amal hati (takut, harap, tawakal) dan amal tubuh
   * iman bertambah dgn ketaatan dan berkurang dgn kemaksiatan
 
+## Al ihsan
+* engkau beribadah seakan-akan melihat Allah, 
+  jika tidak bisa maka minimal menyadari bahwa Allah melihat kamu
+  * "seakan-akan melihat Allah" karena melihat Allah hanya di Surga, 
+    dan merupakan kenikmatan yang paling tinggi kadarnya
+* tingkat (maqaam) ihsan disamakan dgn tingkat orang-orang yang jujur
+  * ash-shidqu: samanya kondisi saat rahasia dan terbuka, 
+    juga zhahir dan batin
+  * ikhlas: menjadikan Allah sebagai tujuan ibadah,
+    sedangkan shidqu: menjadikan Allah sebagai tujuan 
+    dan menghadirkan hati dalam ibadah
+* Rasulullah: 
+  sesungguhnya Allah melihat kamu apabila kamu lalai dalam sholat
+
+## Hari kiamat
+* Rasulullah: tidak tahu kapan terjadinya kiamat, 
+  bisa jadi kiamat itu sudah dekat
+* Ilmu tentang kapan terjadinya adalah hal yang dirasiakan
+* See: Al-Luqman: 34, https://quran.com/31/34
+  Al-Araf: 187 https://quran.com/7/187
+  
 # Hadist 1
 * Umar; amirul mukminin
   * abu hafsi: singa
