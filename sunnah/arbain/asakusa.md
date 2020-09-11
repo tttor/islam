@@ -80,7 +80,12 @@
 * Ilmu tentang kapan terjadinya adalah hal yang dirasiakan
 * See: Al-Luqman: 34, https://quran.com/31/34
   Al-Araf: 187 https://quran.com/7/187
-* Tanda-tanda kiamat
+* Tanda-tanda kiamat besar yang kecil 
+  (cf kiamat kecil: meninggalnya seseorang, 
+  taubat ditutup saat nya di kerongkongan)
+  * termasuk diutuskan nabi terkakhir
+  * cf tanda besar: matahari terbit dari barat
+    taubat: ditutup beberapa saat sebelum kiamat
 * Tanda: wanita budak melahirkan tuannya;
   * anak dari wanita budak dgn tuannya (bapak anak), 
     maka anak itu menjadi tuan dan wanita budak itu menjadi hartanya
