@@ -113,6 +113,8 @@
   * 5 dgn kebiasaan: makan, tidur, berjalan, nikah, buang air
   * 5 dgn kemuliaan: zuhud, kesucian hari, perjuangan terbaik, keindahan, kehormatan
   * 5 dgn diwariskan: kebaikan, hubungan, kemurahan hari, kejujuran, amanah
+* semuanya terjadi atas qadha dan qadr Allah:
+  sebagian terjadi karena sebab/usaha, sebagian tidak
 
 # Hadist 1
 * Umar; amirul mukminin
