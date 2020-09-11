@@ -1,5 +1,6 @@
 
 # Hadist 2
+## Islam dan Iman
 * Kabarkan tentang islam: rukun islam (cenderung ke amal fisik)
 * ... tentang iman: rukun iman
 * ... tentang ihsan: khusyuk beribadah, seakan melihat Allah, at least menyadari bahwa Allah melihat Anda
