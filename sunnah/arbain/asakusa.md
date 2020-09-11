@@ -89,12 +89,30 @@
   (fakir) kemudian berubah kondisinya: 
   mereka berlomba-lomba tentang dunia
  
-## Akhir hadist
+## Misc: akhir hadist, pelajaran
 * Riwayat yang diambil Imam Annawawi adalah dari Umar (HR Muslim)
 * Jibril datang untuk mengajari kalian tentang agama kalian 
   (islam, iman dan ihsan);
   * definisi ad-diin yang lain: pembalasan secara adil
-    
+* keimanan terhadap takdir adalah hal yang wajib,
+  wajibnya ridha terhadap ketentuan/qadha Allah
+* Kisah: seseorang datang ke imam Ahman bin Hambal untuk nasehat
+  * Jika Allah telah menjamin rejeki maka mengapa perhatian besarmu kepadanya
+  * Jika penggantian dari Allah adalah benar, mengapa bakhil?
+  Apapun yang kamu infakkan, maka Allah akan ganti
+  * Jika surga dan neraka benar, mengapa istirahat?
+  * Jika pertanyaan mungkar dan nakir dalam kubur benar, mengapa bersenang-senang?
+  * Jika kita tahu dunia ini fana maka mengapa tenang-tenang saja?
+  * Jika hisab itu benar, mengapa mengumpulkan harta?
+    Banyak harta, semakin panjang hisabnya
+  * Jika semua berdasarkan ketentuan Allah, mengapa takut?
+* Buku imam al-Ghozali
+  * membagi dunia menjadi 5 bagian
+  * 5 dgn qadha dan qadhar: rejeki, anak, keluarga, kekuasaan, usia
+  * 5 dgn kesungguhan: surga, neraka, kemampuan menunggang kuda, penulisan buku
+  * 5 dgn kebiasaan: makan, tidur, berjalan, nikah, buang air
+  * 5 dgn kemuliaan: zuhud, kesucian hari, perjuangan terbaik, keindahan, kehormatan
+  * 5 dgn diwariskan: kebaikan, hubungan, kemurahan hari, kejujuran, amanah
 
 # Hadist 1
 * Umar; amirul mukminin
