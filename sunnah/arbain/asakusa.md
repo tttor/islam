@@ -51,7 +51,7 @@
   * ANS: tentang rukum iman dan islam: tersirat/implicit maka berurutan, pertama Iman kepada Allah, .... juga shahadat, shalat, then zakat; also puasa vs zakat
 * Allah menetapkan/mengetahui: mana yang lebih dulu?
   * ANS: dimulai dengan ilmu Allah
-* Hadist: tiada satu jiwa daripada kamu kecuali Allah mengetahui tempatnya di Syurga atau Neraka, maka para sahabat bertanya: jadi kenapa kami perlu beramal? bukanlah kami lebih baik berserah diri saja? Nabi: tidak begitu, tetaplah beramal, karena setiap dari kalian akan dimudahkan untuk apa yang dia diciptakan untuknya. Kemudian Nabi membaca Al-lail: 5-10
+* Hadist: tiada satu jiwa daripada kamu kecuali Allah mengetahui tempatnya di Syurga atau Neraka, maka para sahabat bertanya: jadi kenapa kami perlu beramal? bukanlah kami lebih baik berserah diri saja? Nabi: tidak begitu, tetaplah beramal, karena setiap dari kalian akan dimudahkan untuk apa yang dia diciptakan untuknya. Kemudian Nabi membaca Al-lail: 5-10 https://quran.com/92/5-10
 * iman adalah perkataan dan perbuatan
   * perkataan: hati (membenarkan) dan lisan (melafalkan syahadat)
   * perbuatan: amal hati (takut, harap, tawakal) dan amal tubuh
