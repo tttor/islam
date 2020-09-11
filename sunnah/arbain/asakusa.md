@@ -29,6 +29,8 @@
 * Jika "iman" dan "islam" berkumpul maka iman berkait dgn batin dan islam terkait dzohir.
   * Jika terpisah maka saling mewakili
 * makna laa ilaaha illallahu: ...
+
+## Takdir
 * iman kepada takdir yang baik dan yang jelek
   * bahwa Allah telah menentukan di awal
   * Allah mengetahui apa yang terjadi
