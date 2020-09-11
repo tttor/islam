@@ -77,7 +77,25 @@
 * Ilmu tentang kapan terjadinya adalah hal yang dirasiakan
 * See: Al-Luqman: 34, https://quran.com/31/34
   Al-Araf: 187 https://quran.com/7/187
-  
+* Tanda-tanda kiamat
+* Tanda: wanita budak melahirkan tuannya;
+  * anak dari wanita budak dgn tuannya (bapak anak), 
+    maka anak itu menjadi tuan dan wanita budak itu menjadi hartanya
+  * seseorang dan wanita budak melahiran anak laki-laki, kemudian 
+    budak wanita itu dijual, kemudian anak itu membeli budak itu yang       adalah ibunya
+  * tafsir ke 3: ...
+* Tanda: 
+  orang pedalaman dan semisalnya yang dikenal tidak punya kekayaan 
+  (fakir) kemudian berubah kondisinya: 
+  mereka berlomba-lomba tentang dunia
+ 
+## Akhir hadist
+* Riwayat yang diambil Imam Annawawi adalah dari Umar (HR Muslim)
+* Jibril datang untuk mengajari kalian tentang agama kalian 
+  (islam, iman dan ihsan);
+  * definisi ad-diin yang lain: pembalasan secara adil
+    
+
 # Hadist 1
 * Umar; amirul mukminin
   * abu hafsi: singa
