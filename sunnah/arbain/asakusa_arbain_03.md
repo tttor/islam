@@ -93,3 +93,4 @@
   * mereka takut kepada akhirat dan berharap kepada Allah
 * ibadah yang bisa dititipkan/diwakilkan: zakat dan kurban
   * haji bisa dihajikan ketika tidak bisa: nadhar tapi meninggalkan duluan; fisik sudah lemah
+  * ibu dng anak kecil nya: boleh diniatkan haji dari dia dan anaknya, karena anaknya belum tahu tentang haji
