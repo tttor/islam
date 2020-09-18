@@ -91,4 +91,5 @@
   * tentang orang berilmu
   * di waktu malam, mereka sujud dan berdiri
   * mereka takut kepada akhirat dan berharap kepada Allah
-  
+* ibadah yang bisa dititipkan/diwakilkan: zakat dan kurban
+  * haji bisa dihajikan ketika tidak bisa: nadhar tapi meninggalkan duluan; fisik sudah lemah
