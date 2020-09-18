@@ -52,7 +52,8 @@
 * Zakat juga bermakna tumbuh, berkembang
 * Hadist: mewajibkan shodaqah dari yang kaya, untuk diberikan kepada yang fakir
   * here: zakat wajib: zakat fitr, dan zakat maal
-  
+* 
+
 ## puasa
 * Al-baqarah: 183
 * Al-baqarah: 185: tentang puasa ramadhan
@@ -85,7 +86,7 @@
   * Ibadah bathin dan zhohir
   * ibadah zhohir: dgn fisik, harta, keduanya 
   * ibadah melaksanakan, meninggalkan sesuatu
-* Az-zumar:
+* Az-zumar: 9
   * tentang orang berilmu
   * di waktu malam, mereka sujud dan berdiri
   * mereka takut kepada akhirat dan berharap kepada Allah
