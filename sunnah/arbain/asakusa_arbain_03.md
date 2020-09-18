@@ -45,4 +45,28 @@
 * urutan yang datang di riwayat ini: haji, kemudian syaum
   * namun urutan ini bukan secara hukum
   * di riwayat lain: syaum, kemudian hajj
+
+## syahadat
+* pintu masuk sebagai muslim, iman kepada Allah dan Rasul Nya
+  * An-Nuur: 62
+* Tidak ada Illah yang berhak disembahkan kecuali Allah
+  * Illah: yang diibadahi dgn memberikan rukun ibadah: cinta, harap, takut
+  * Al-Baqarah: 165, Al-Anbiya: 90
+* Makna syahadat kepada rasul
+  * membenarkan kabarnya
+  * mentaati perintahnya
+  * menjauhi yang dilarang
+  * mengikuti syariatnya dalam ibadah kepada Allah,
+    tidak menyembah Allah kecuali yang disyariatkan
+  
+  
+## tambahan
+* konsep ibadah dalam Islam
+  * Ibadah bathin dan zhohir
+  * ibadah zhohir: dgn fisik, harta, keduanya 
+  * ibadah melaksanakan, meninggalkan sesuatu
+* Az-zumar:
+  * tentang orang berilmu
+  * di waktu malam, mereka sujud dan berdiri
+  * mereka takut kepada akhirat dan berharap kepada Allah
   
