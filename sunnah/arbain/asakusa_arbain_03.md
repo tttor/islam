@@ -18,6 +18,8 @@
   * bisa juga dimaknai dgn "min"
     * 5 yang utama, sedangkan yang penyempurnananya adalah kewajiba yang lainnnya
     * Mu'minuun: 6; Al-Ma'aarij: 30
+* Hadist: Iman memiliki 70 cabang, yang paling tinggi adalah perkataan Laa Ilaaha Illallahu,
+  yang paling rendah adalah menyingkirkan gangguan dari jalan
 
 ## sholat
 * Sholat adalah tiang/tonggak agama,
@@ -38,3 +40,9 @@
   * pemisalan orang mukmin dan orang munafik, dengan bangunan fisik
   * bangunan orang mukmin, dimisalkan dgn bangunan yang kokoh
   * bangunan orang munafik, dimisalkan di dekat jurang, pondasi tidak kuat
+
+## haji
+* urutan yang datang di riwayat ini: haji, kemudian syaum
+  * namun urutan ini bukan secara hukum
+  * di riwayat lain: syaum, kemudian hajj
+  
