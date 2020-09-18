@@ -52,7 +52,8 @@
 * Zakat juga bermakna tumbuh, berkembang
 * Hadist: mewajibkan shodaqah dari yang kaya, untuk diberikan kepada yang fakir
   * here: zakat wajib: zakat fitr, dan zakat maal
-* 
+* zakat untuk harta yang dianggurkan
+  * secara ekonomi agar harta bisa produktif, bergerak
 
 ## puasa
 * Al-baqarah: 183
