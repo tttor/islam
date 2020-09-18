@@ -40,12 +40,31 @@
   * pemisalan orang mukmin dan orang munafik, dengan bangunan fisik
   * bangunan orang mukmin, dimisalkan dgn bangunan yang kokoh
   * bangunan orang munafik, dimisalkan di dekat jurang, pondasi tidak kuat
+* pensyariatan sholat: An-Nisa: 103, hadist ke 3 ini
+  * sholat adalah kewajiban yang pertama akan dihisab
+  * mengingkari wajibnya sholat, maka keluar dari Islam
+
+## zakat
+* At-taubah: 103
+  * pemerintah diperintahkan untuk mengambil harta untuk membersihkan mereka;
+    * here: zakat wajib: zakat fitr, dan zakat maal, zakat menafkahi keluarga, zakat yang dinazdarkan
+    * mengambil hak orang lain yang ada di mereka
+* Zakat juga bermakna tumbuh, berkembang
+* Hadist: mewajibkan shodaqah dari yang kaya, untuk diberikan kepada yang fakir
+  * here: zakat wajib: zakat fitr, dan zakat maal
+  
+## puasa
+* Al-baqarah: 183
+* Al-baqarah: 185: tentang puasa ramadhan
 
 ## haji
 * urutan yang datang di riwayat ini: haji, kemudian syaum
   * namun urutan ini bukan secara hukum
   * di riwayat lain: syaum, kemudian hajj
-
+* Al-Imran: 97
+* Konsep: semampu kalian (mastathotum)
+  * At-taghobun: 16: bertakwalah semampu kalian
+ 
 ## syahadat
 * pintu masuk sebagai muslim, iman kepada Allah dan Rasul Nya
   * An-Nuur: 62
@@ -58,7 +77,8 @@
   * menjauhi yang dilarang
   * mengikuti syariatnya dalam ibadah kepada Allah,
     tidak menyembah Allah kecuali yang disyariatkan
-  
+* Kedua syahadat ini tidak bisa dipisahkan
+  * An-nisa: 80: siapa yang mentaati Rasul maka ia mentaati Allah
   
 ## tambahan
 * konsep ibadah dalam Islam
