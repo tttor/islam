@@ -89,3 +89,8 @@
    tentang kenapa tidak "dimasukkan"
  * Ustadz Abu Yahya Purwanto, S.Si (Pembina Wahdah Islamiyah Bandung). Sumber dari: https://wahdah.or.id/pembina-wahdah-bandung-isi-kajian-rutin-di-masjid-aa-gym/
  * pencatatan: setiap tahun/lailatul qadar, sekali seumur hidup, sekali di buku induk lauh mahfuz
+* jenis iradah
+  * iradah kauniyah (tidak ada kecintaan Allah) dan 
+  * iradah syariyah
+* https://almanhaj.or.id/3574-kemudahan-dari-allah-subhanahu-wa-taala-dan-mengapa-kita-harus-beramal.html
+* https://rumaysho.com/20025-syarhus-sunnah-masuk-surga-dengan-takdir-allah.html
