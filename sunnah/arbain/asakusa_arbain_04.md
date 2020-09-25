@@ -79,3 +79,7 @@
      * membantu untuk merasa kurang di hadapan Allah, menghindari ujub
      * see also Ali-Imran 17 (setela sahur, beristigfar), 
      * Al Baqarah 199 (setelah wukuf, beristigfar)
+ 
+ # Q and A
+ * boleh keluar dari jamaah jika bacaan imam Al-fatihah nya rusak
+ * ada pahala juga dosa sebagai konsekuensi dari menjadi imam yang diberi amanat
