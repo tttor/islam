@@ -94,3 +94,5 @@
   * iradah syariyah
 * https://almanhaj.or.id/3574-kemudahan-dari-allah-subhanahu-wa-taala-dan-mengapa-kita-harus-beramal.html
 * https://rumaysho.com/20025-syarhus-sunnah-masuk-surga-dengan-takdir-allah.html
+* https://yufidstore.com/products/buku-panduan-lengkap-membenahi-akidah-darul-haq
+* 200 tanya-jawab akidah Islam, Hafidz Ahmad Al Hakami
