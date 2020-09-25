@@ -1,17 +1,22 @@
 # Hadist 1
+
 * Umar; amirul mukminin
   * abu hafsi: singa
   * abu bakr: bersegera
 * level ikhlas:
   budak, pedagang, hamba pilihan
+  
+## niat
 * tujuan niat
   * membedakan adat dan ibadah
   * membedakan jenis ibadah
 * tidak boleh mewakilkan niat
   * kecuali zakat dan pemotongan hewan kurban (walaupun mampu memotong sendiri)
   * kecuali haji (tapi ini harus yg tidak mampu, tidak boleh wakil jika mampu)
+  
+## hijrah
 * hijrah: menjauhi, meninggalkan
-* hijrah
+* jenis hijrah
   * mekkah ke habasyah, 5 tahun setelah kenabian
   * mekkah ke madinah, 13 tahun setelah kenabian
   * hijrah kabilah ke nabi untuk belajar dan kembali ke kaumnya
@@ -20,9 +25,9 @@
   * hijrah seorang muslim dari saudaranya lebih 3 hari
   * hijrah seorang suami dari istri
   * hijrah dari apa yang dilarang Allah
-* bepergian di muka bumi
-  * menghindari sesuatu
-  * mencari sesuatu
+
+## bepergian di muka bumi
+* a) menghindari sesuatu, atau b) mencari sesuatu
 * 6 classes
   * keluar dari negeri kafir yang memerangi negeri islam
     tetap berlaku sampai kiamat,
