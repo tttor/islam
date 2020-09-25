@@ -45,9 +45,11 @@
 ## maka catatan menduhuluinya
 * 4 tingkatan/tahap takdir
   * ilmu Allah
-  * pencatatan  di Lauh Mahfuz
-  * pencatatan di rahim (iraadah)
+  * pencatatan  di Lauh Mahfuz, pencatatan di rahim
+  * kehendah Allah (iraadah)
   * penciptaan (kholqu)
+  * see https://almanhaj.or.id/2061-tingkatan-qadha-dan-qadar.html
+    * https://konsultasisyariah.com/10440-memahami-iradah-syariyah-dan-kauniyah.html
 * yang menentukan adalah potongan waktu di ujung usian
   * kafir, berkata di ujung hayatnya, Laa Ilaah illahu, maka masuk surga
   * juga sebaliknya, muslim, berkata sebaliknya, maka masuk neraka
@@ -86,3 +88,4 @@
  * "ditiupkan ruh": tidak ada dalil tentang bagaimana proses "ditiupkan" nya itu, 
    tentang kenapa tidak "dimasukkan"
  * Ustadz Abu Yahya Purwanto, S.Si (Pembina Wahdah Islamiyah Bandung). Sumber dari: https://wahdah.or.id/pembina-wahdah-bandung-isi-kajian-rutin-di-masjid-aa-gym/
+ * pencatatan: setiap tahun/lailatul qadar, sekali seumur hidup, sekali di buku induk lauh mahfuz
