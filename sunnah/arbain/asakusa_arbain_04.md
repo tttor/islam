@@ -72,3 +72,10 @@
  * dalil tentang disunnahkanya bersumpah untuk memantapkan suatu perkara dalam jiwa
    * Adz Dzariyat: 23
    * At Taghabun: 7
+   * bersumpah dengan nama Allah
+ * jangan terjatuh dalam 2 extreem: a) menyerah tidak beramah atau b) ujub/sombong
+   * setiap orang akan dimudahkan amalah yang sudah ditetapkan
+   * setelah sholat, beristighfar 3 kali ...
+     * membantu untuk merasa kurang di hadapan Allah, menghindari ujub
+     * see also Ali-Imran 17 (setela sahur, beristigfar), 
+     * Al Baqarah 199 (setelah wukuf, beristigfar)
