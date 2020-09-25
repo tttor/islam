@@ -21,11 +21,23 @@
 * janin dari air mani dan telur wanita di perut/rahim ibunya, Ath-Tariq: 6, 7
 * semua penciptaan anggota badan di perut ibu
 * tahap 1: nuthfah terjadi di 40 hari pertama
-* tahap 2: kemudian segumpal darah ('alaqah): seperti lintah yang menempel, 40 hari pertama
+* tahap 2: kemudian segumpal darah ('alaqah): seperti lintah yang menempel di dinding rahim, 
+  40 hari pertama
 * tahap 3: hingga menjadi segumpal daging (mudhgah), 40 hari pertama
   * karena bentuknya seperti permen karet yang dikunyah
   * dan Allah menambahkan indra, dan mulut, dan bagian dalam tubuh dan usus,
-  * Ali-Imraan: 6: .... yang Maha perkasa dan Maha Bijaksana
+  * Ali-Imraan: 6: .... yang Maha perkasa/mampu dan Maha Bijaksana (Al-Aziz dan Al-Hakim)
 * kemudian, 4 bulan (3 x 40 hari), ditiupkan ruh
-  * Al-Hajj: 5
+* Al-Hajj: 5, tentang urutan penciptaan
+  * nuthfah, segumpal darah, segumpal daging, kemudian sempurna dan tidak sempurna
+  * mukhallaqah:
+    * ibbu abbas: apakah ada kekurangan secara fisik yang terlihat
+    * Mujahid: jadi atau keguguran
+* Ibnu Mas'ud: 
+  * malaikat bertanya: mukhallaqah atau ghairu mukhallaqh
+  * kemudian laki, perempuan, sengsara/bahagia, rejeki, di negeri mana ia meninggal
+  * kemudian dikatakan kepada malaikat, pergilah ke Lauh Mahfuuzh, maka didapati yang ditanyakan
+  * kemudian malaikat menuliskannya
+  * dikatakan: kebahagian ditentukan sebelum kelahiran
+  
   
