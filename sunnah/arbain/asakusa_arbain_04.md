@@ -83,3 +83,5 @@
  # Q and A
  * boleh keluar dari jamaah jika bacaan imam Al-fatihah nya rusak
  * ada pahala juga dosa sebagai konsekuensi dari menjadi imam yang diberi amanat
+ * "ditiupkan ruh": tidak ada dalil tentang bagaimana proses "ditiupkan" nya itu, 
+   tentang kenapa tidak "dimasukkan"
