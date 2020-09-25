@@ -85,3 +85,4 @@
  * ada pahala juga dosa sebagai konsekuensi dari menjadi imam yang diberi amanat
  * "ditiupkan ruh": tidak ada dalil tentang bagaimana proses "ditiupkan" nya itu, 
    tentang kenapa tidak "dimasukkan"
+ * Ustadz Abu Yahya Purwanto, S.Si (Pembina Wahdah Islamiyah Bandung). Sumber dari: https://wahdah.or.id/pembina-wahdah-bandung-isi-kajian-rutin-di-masjid-aa-gym/
