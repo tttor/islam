@@ -39,5 +39,36 @@
   * kemudian dikatakan kepada malaikat, pergilah ke Lauh Mahfuuzh, maka didapati yang ditanyakan
   * kemudian malaikat menuliskannya
   * dikatakan: kebahagian ditentukan sebelum kelahiran
-  
-  
+* Afrood Muslim: hadist yang sendirian diriwayatkan oleh Muslim, tetapi Bukhari tidak
+  * ada yang berpendapat: 40/42/45 hari dikirim malaikat 
+
+## maka catatan menduhuluinya
+* 4 tingkatan/tahap takdir
+  * ilmu Allah
+  * pencatatan  di Lauh Mahfuz
+  * pencatatan di rahim (iraadah)
+  * penciptaan (kholqu)
+* yang menentukan adalah potongan waktu di ujung usian
+  * kafir, berkata di ujung hayatnya, Laa Ilaah illahu, maka masuk surga
+  * juga sebaliknya, muslim, berkata sebaliknya, maka masuk neraka
+
+## pelajaran umum
+* tidak adanya kepastian masuk surga/neraka
+* petunjuka bahwa seseorang tidak berpangku tangan atas amalnya (percuma beramal, menyerah),
+  dan tidak ujub karena ia tidak tahu bagaimana keadaan akhirnya
+* hendaknya setiap orang meminta khusnul khatimah (akhir yang baik), 
+  dan berlindung dari shu'ul khatimah
+
+## tambahan
+* jika ditanyakan: Al-Kahfi: 30
+  * orang yang beramal shalih dng ikhlas maka akan diterima, tetapi kenapa bisa su'ul khatimah
+  * terkait dgn syarat diterima amal dan syarat husnul khatimah
+  * jawaban 1: amal itu menjadikan tidak kekal/tidak lama di neraka
+  * jawaban 2: orang yang ikhlas beramal akan mendapat khusnul khatimah,
+    klo ia mengotori amalnya dgn riya (yang tampak bagi manusia) 
+    atau sum'ah (niat yang tidak baik yang ingin dilihat orang lain), 
+  * peringatan: untuk memperbaiki apa yang hanya kita sendiri bisa lihat,
+    sama keimanannya dalam kesendirian dan terlihat orang lain
+ * dalil tentang disunnahkanya bersumpah untuk memantapkan suatu perkara dalam jiwa
+   * Adz Dzariyat: 23
+   * At Taghabun: 7
