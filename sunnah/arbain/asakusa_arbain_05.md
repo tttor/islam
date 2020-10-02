@@ -68,15 +68,15 @@ Sia-sianya (batalnya) amal amal yang mungkar dan bid'ah
   * case-by-case, all should be discussed by Ulama
 * dan banyak juga bid'ah yang jelas, secara umum yang ihtilaf tidak banyak
 
- # Q and A
- * tingkatan bidah: sehingga implikasi bertingkat (hanya sia-sia, tertolak, kemudian berdosa2)?
- * Ayat kursi sebagai penolak bala
- * https://en.wikipedia.org/wiki/Ibn_Hajar_al-Haytami
- * "fattaqullah mas tatha'tum" (Maka bertakwalah kepada Allah semampu kamu) surat At Taghabun: 16,
-  * Referensi: https://tafsirweb.com/1234-quran-surat-ali-imran-ayat-102.html
+# Q and A
+* tingkatan bidah: sehingga implikasi bertingkat (hanya sia-sia, tertolak, kemudian berdosa2)?
+* Ayat kursi sebagai penolak bala
+* https://en.wikipedia.org/wiki/Ibn_Hajar_al-Haytami
+* "fattaqullah mas tatha'tum" (Maka bertakwalah kepada Allah semampu kamu) surat At Taghabun: 16,
+  Referensi: https://tafsirweb.com/1234-quran-surat-ali-imran-ayat-102.html
 * https://www.rumahfiqih.com/ust/sarwat
 * Allahumma arinal haqqa haqqa warzuqnat tiba’ah, wa arinal bathila bathila warzuqna jtinabah
-  * Simak selengkapnya disini. Klik https://muslim.or.id/4457-buah-kejujuran.html
+  https://muslim.or.id/4457-buah-kejujuran.html
 * https://hadithanswers.com/reference-for-the-dua-allahumma-arinal-haqqa-haqqa/
   * Allahumma arinal haqqa haqqa warzuqnattiba’ah, wa arinal bathila bathila warzuqnajtinabah
     ‘’Ya Allah, tampakkanlah kepadaku kebenaran sebagai kebenaran dan kuatkanlah aku untuk mengikutinya serta tampakkanlah kepadaku kesalahan sebagai kesalahan dan kuatkan pula untuk menyingkirkannya.’‘
