@@ -64,7 +64,7 @@ Sia-sianya (batalnya) amal amal yang mungkar dan bid'ah
 * bacaan iktidal, bacaan adzan harus sesuai syariat
   * bedakan: tentang sarana, misal microphone, sajadah, ac, haji dgn pesawat, bukan inti dari ibadah
   * case-by-case, all should be discussed by Ulama
-* dan banyak juga bid'ah yang jelas
+* dan banyak juga bid'ah yang jelas, secara umum yang ihtilaf tidak banyak
 
  # Q and A
  * tingkatan bidah: sehingga implikasi bertingkat (hanya sia-sia, tertolak, kemudian berdosa2)?
