@@ -45,10 +45,22 @@ Sia-sianya (batalnya) amal amal yang mungkar dan bid'ah
    * ikut kepada ulama atas pilihan mereka berdasarkan ilmu untuk yang awam, sambil berusaha sebifa mungkin
      menambah ilmu syar'i terutama pada hal ibadah yg akan kita kerjakan
      
- # pengumpulan Al Quran
- * secara umum bernuansa bid'ah
-   * Abu Bakr pun sempat ragu, saat Umar meminta Abu Bakr untuk mengumpulkan Quran
-   * Akhirnya Abu Bakr yakin bahwa itu hal yg benar dan hal itu adalah bagian dari agama
-    
+ # Contoh kasus
+ * pengumpulan Al Quran
+   * secara umum bernuansa bid'ah
+     * Abu Bakr pun sempat ragu, saat Umar meminta Abu Bakr untuk mengumpulkan Quran
+     * Akhirnya Abu Bakr yakin bahwa itu hal yg benar dan hal itu adalah bagian dari agama
+     * Zaid bin Tsabit pun ragu
+     * Note: Abu Bakr, orang terbaik kedua setelah Rasullulah
+   * sehingga jumhur ulama: ini bukan bid'ah
+* Pengumpulan shalat tarawih oleh Umah
+  * bukan bid'ah
+* Bid'ah: sholat nisyfu Sya'baan, dan sholat raghaaib di Jumat pertama bulan Rajab
+  * sudah terjadi diskusi, hadist yang dijadikan dalil adalah palsu
+* tentang membiasakan membaca bacaan tertentu bacaan Al-Ikhlas
+  * dilaporkan kepada nabi: malah mendapat cinta dari Allah
+* tentang menggunakan alat bantu untuk berdzikir
+  * Hadist Saad bin Abi Waqah (hasan, namun ada ulama yang menyatakan dhaif)
+ 
  # Q and A
  * tingkatan bidah: sehingga implikasi bertingkat (hanya sia-sia, tertolak, kemudian berdosa2)?
