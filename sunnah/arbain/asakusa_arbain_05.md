@@ -61,6 +61,9 @@ Sia-sianya (batalnya) amal amal yang mungkar dan bid'ah
   * dilaporkan kepada nabi: malah mendapat cinta dari Allah
 * tentang menggunakan alat bantu untuk berdzikir
   * Hadist Saad bin Abi Waqah (hasan, namun ada ulama yang menyatakan dhaif)
- 
+* bacaan iktidal, bacaan adzan harus sesuai syariat
+  * bedakan: tentang sarana, misal microphone, sajadah, ac, bukan inti dari ibadah
+* dan banyak juga bid'ah yang jelas
+
  # Q and A
  * tingkatan bidah: sehingga implikasi bertingkat (hanya sia-sia, tertolak, kemudian berdosa2)?
