@@ -59,6 +59,8 @@ Sia-sianya (batalnya) amal amal yang mungkar dan bid'ah
   * sudah terjadi diskusi, hadist yang dijadikan dalil adalah palsu
 * tentang membiasakan membaca bacaan tertentu bacaan Al-Ikhlas
   * dilaporkan kepada nabi: malah mendapat cinta dari Allah
+    * nabi bertanya dulu kenapa melakukan kebiasaan itu
+    * kesiapan berdiskusi tentang dalil
 * tentang menggunakan alat bantu untuk berdzikir
   * Hadist Saad bin Abi Waqah (hasan, namun ada ulama yang menyatakan dhaif)
 * bacaan iktidal, bacaan adzan harus sesuai syariat
