@@ -109,5 +109,12 @@
   * ANS: ulama berpendapat itu adalah organ jantung (qalbu), bukan organ otak.
     Tentang penyakit hati, dari nash itu adalah datang dari qalbu (jantung).
     Qalb: organ jantung yang berpenyakit hati, amalan hati. 
+    Tidak dikonotasikan maknanya.
     Bagaimana mekanisme: wa'allahu alam.
 * arti kata: sum'ah: ... ?, ta'zir: ...?
+  * ANS: sum'ah: senang kalau nama dia diperbicangkan, cf riya
+  * takzir/tak·zir/ Ar n hukuman yang dijatuhkan atas dasar kebijaksanaan hakim karena tidak terdapat dalam Alquran dan hadis; https://kbbi.web.id/takzir
+  * ta’zir adalah hukuman yang belum ditetapkan oleh syara’,
+melainkan diserahkan kepada hakim, baik penentuannya maupun
+pelaksanaanya
+
