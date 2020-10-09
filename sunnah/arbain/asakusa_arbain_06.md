@@ -116,5 +116,6 @@
   * takzir/tak·zir/ Ar n hukuman yang dijatuhkan atas dasar kebijaksanaan hakim karena tidak terdapat dalam Alquran dan hadis; https://kbbi.web.id/takzir
   * ta’zir adalah hukuman yang belum ditetapkan oleh syara’,
 melainkan diserahkan kepada hakim, baik penentuannya maupun
-pelaksanaanya
+pelaksanaanya, http://digilib.uinsby.ac.id/5321/5/Bab%202.pdf
+  * ta'zir: hal yang ada dalil,... contrary to above?
 
