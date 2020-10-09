@@ -104,10 +104,10 @@
   * ANS: jika ada alternatif maka cari yang lain yang lebih jelas
 * Arti/definisi hati dalam "segumpal daging", apakah organ hati / jantung / otak?
   * ANS: al-qalb: jantung Nabi (indeed, organ nya, tidak dikiaskan) 
-    yang dibuka dan dibersihkan oleh malaikat, sebelum isra mikraj
+    yang dibuka, dibelah dadanya, dibawah, dicuci, dicampur dgn hikmah dan keimaman,
+    dan dibersihkan oleh malaikat, sebelum isra mikraj
   * ANS: ulama berpendapat itu adalah organ jantung (qalbu), bukan organ otak.
     Tentang penyakit hati, dari nash itu adalah datang dari qalbu (jantung).
     Qalb: organ jantung yang berpenyakit hati, amalan hati. 
     Bagaimana mekanisme: wa'allahu alam.
-  
 * arti kata: sum'ah: ... ?, ta'zir: ...?
