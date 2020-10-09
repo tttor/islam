@@ -98,4 +98,16 @@
   kuat? (mengingat keduanya saling bertolak belakang)
   * Abu Hanifah: yang halal adalah apa yang ditunjukkan oleh dalil tentang kehalalannya
   * Imam Syafii: yang haram adalah apa yang ditunjukkan oleh dalil tentang keharamannya
-* sum'ah: ... ?, ta'zir: ...?
+  * ANS: sama-sama kuat dari pandangan setiap imam, misal makan daging kuda,
+  tapi yang subhat itu sedikit
+* Kami hidup di daerah minoritas muslim. Kasusnya misal warung roti canai,, dan ada juga warung gurame goreng/bakar, pemiliknya non muslim. Zhahirnya dia jual makanan halal, tapi jual juga bir, karena kalo di daerah wisata statusnya sudah mirip minum coca cola bagi turis non muslim. apakah sebagai muslim boleh boleh saja makan menu halalnya disana?bagaimana pendapat ustadz?
+  * ANS: jika ada alternatif maka cari yang lain yang lebih jelas
+* Arti/definisi hati dalam "segumpal daging", apakah organ hati / jantung / otak?
+  * ANS: al-qalb: jantung Nabi (indeed, organ nya, tidak dikiaskan) 
+    yang dibuka dan dibersihkan oleh malaikat, sebelum isra mikraj
+  * ANS: ulama berpendapat itu adalah organ jantung (qalbu), bukan organ otak.
+    Tentang penyakit hati, dari nash itu adalah datang dari qalbu (jantung).
+    Qalb: organ jantung yang berpenyakit hati, amalan hati. 
+    Bagaimana mekanisme: wa'allahu alam.
+  
+* arti kata: sum'ah: ... ?, ta'zir: ...?
