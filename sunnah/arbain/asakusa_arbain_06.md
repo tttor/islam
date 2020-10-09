@@ -7,3 +7,13 @@
 * Sesungguhnya perkara halal telah jelas dan haram sudah jelas
 * dan di antara keduanya ada perkara yang samar/syubhat, kebanyakan manusia
   tidak mengetahuinya
+* siapa yang menjaga diri dari yang syubhat, maka ia telah menjaga agama dan kehormatannya
+* barangsiapa yang terjatuh ke dalam syhubhat, ia telah terjatuh dalam yang haram
+  * seperti penggembala yang menggembala di sekitar daerah terlarang, hampir saja ia
+   masuk ke dalamnya
+* Ketahuilah semua raja memiliki daerah terlarang, dan daerah yang terlarang adalah 
+  yang diharamkan
+* Ketahuilah di dalam tubuh ada segumpal daging, jika ia baik maka tubuh akan baik,
+  jika ia rusak maka tubuh akan rusak semuanya,
+* Oleh Bukhari dan Muslim
+   
