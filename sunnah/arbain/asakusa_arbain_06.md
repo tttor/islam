@@ -19,8 +19,8 @@
 * Oleh Bukhari dan Muslim
 
 # Halal, haram, subhat
-* Abu Hanifah: yang halal adalah ap ayang ditunjukkan oleh dalil tentang kehalalnya
-* Imam Syafii: yang haram, adalh apa yang ditunjukkan oleh dalil tentang keharamnya
+* Abu Hanifah: yang halal adalah apa yang ditunjukkan oleh dalil tentang kehalalannya
+* Imam Syafii: yang haram adalah apa yang ditunjukkan oleh dalil tentang keharamannya
 * Antara halal dan haram: ada perkara yang sama apakah hukumnya halal dan haram
 * Ketika telah hilang hal yang kesamarannya (shubhatnya), maka hilang pula kemakruhan perkara tersebut,
   bertanya-tanya tentang hal itu adalah bid'ah, makruh
@@ -47,7 +47,26 @@
     Karena jiwa ini, jika ia jatuh kemaksiatan maka bertahap dari yang kecil ke besar
     * Ali: imran 112: ... membunuh para nabi tanpa alasan yang benar,
       karena mereka durhaka sebelumnya dan melampau batas.
-      (Mereka bertahap dalam kemaksiatan, sampai bisa bunuh nabi)
-      
+      (Mereka bertahap dalam kemaksiatan, sampai bisa bunuh nabi)  
+    * Hadist: Allah mencela pencuri telor.
+      Pencuri itu meningkat dari mencuri benang hingga barang yg sampai batas dihukum
+      potong tangan (ie 1/4 dinar: batasan potong tangan pencuri)    
+* Hima: daerah terlarang, adalah wilayah yang dipagari orang lain
+  * siapa yang menggembala maka ia dekat untuk masuk kedalamnya
+  * misal kemaluan adalah sesuatu yang haram, maka hiamnya adal kedua pahanya 
+    karena seakan-akan menjadi pagar bagi yang diharamkan
+  * jangan dekat2 daerah yang terlarang
   
+# Hati
+* hati adalah raja, jika baik pemimpinnya maka baik bula rakyatnya,
+  jika pemimpinnya jelek maka jelek pula rakyatnya
+* penyakit hati: dengki, dendam, hasad, kikir, bakhil, sombong, 
+  merendahkan orang lain, ambisi buta, riya, sum'ah, makar, tamak, 
+  tidak ridha dgn takdir
   
+# Q and A
+* Dalil yang dipakai kedua imam berikut? apakah sama kuatnya, atau mana yang lebih
+  kuat? (mengingat keduanya saling bertolak belakang)
+  * Abu Hanifah: yang halal adalah apa yang ditunjukkan oleh dalil tentang kehalalannya
+  * Imam Syafii: yang haram adalah apa yang ditunjukkan oleh dalil tentang keharamannya
+* sum'ah: ... ?
