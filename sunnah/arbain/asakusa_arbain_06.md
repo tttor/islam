@@ -118,4 +118,6 @@
 melainkan diserahkan kepada hakim, baik penentuannya maupun
 pelaksanaanya, http://digilib.uinsby.ac.id/5321/5/Bab%202.pdf
   * ta'zir: hal yang ada dalil,... contrary to above?
-
+* https://almanhaj.or.id/2286-pembelahan-dada-nabi-shallallahu-alaihi-wa-sallam.html
+  * https://rumaysho.com/16369-faedah-sirah-nabi-pembelahan-dada-nabi.html
+* hadist tentang? "...jika kalian berhadats/batal dalam shalat maka peganglah hidungmu dan berpaling dari barisan..."
