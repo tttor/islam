@@ -63,10 +63,39 @@
 * penyakit hati: dengki, dendam, hasad, kikir, bakhil, sombong, 
   merendahkan orang lain, ambisi buta, riya, sum'ah, makar, tamak, 
   tidak ridha dgn takdir
+
+# Fathul Mubiin karya Ibnu Hajar al-Haitami
+* halal:
+  * ada nash dari Allah, rasulluah, ijma kaum muslim akan kehalalannya
+  * apa yang tidak diketahui ada larangan, menurut pendapat yang kuat
+  * apa yang tidak ada sifat haram dalam hal tersebut
+* haram
+  * ada nash
+  * apa yang diketahu ada hukuman (huduud), ta'zir, ancaman tentang hal tersebut
+  * apa yang ada sifat haram,
+    misal: jual beli tidak sah, memabukkan, see Al-Maidah: 3
+* tumbuhan: semua halal kecuali yang memberi mudharat: mematikan, menghilangkan akal
+* hewan: 
+  * semua nash akan halal/haram maka hukumnya itu,
+  * yang tidak ada nashnya, maka dikembalikan pada thobiatnya orang Arab Quraishy.
+    apakah menurut mereka menjijiknya maka hukumnya haram atau sebaliknya,
+    misal daging kuda,
+    see Al-Araf: 157
+* Subhat:
+  semua yang tidak jelas halal, haramnya, karena dalilnya bertentangan, juga
+  makna dan sebabnya saling tarik menarik.
+  Imam Ahmad: bercampurnya halal dan haram. maka jika dikeluarkan bagian haramnya, 
+  maka menjadi hala
+* Kasus: seorang memanah hewan buruan dan melukainya, lalu hewan itu
+  jatuh ke air/api, atau ada di sisi jurang kemuadian jatuh,
+  melepas anjing buruan, tetapi juga dibarengi oleh anjing bukan pemburu,
+  ada di atas pohon dan tertusuh dahan
+  * subhat: tentang ragu sebab kematian, maka hukumnya haram, karena tidak jelas
+    dan hukum asalnya adalah bangkai
   
 # Q and A
 * Dalil yang dipakai kedua imam berikut? apakah sama kuatnya, atau mana yang lebih
   kuat? (mengingat keduanya saling bertolak belakang)
   * Abu Hanifah: yang halal adalah apa yang ditunjukkan oleh dalil tentang kehalalannya
   * Imam Syafii: yang haram adalah apa yang ditunjukkan oleh dalil tentang keharamannya
-* sum'ah: ... ?
+* sum'ah: ... ?, ta'zir: ...?
