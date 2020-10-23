@@ -108,5 +108,10 @@
     fardhu kifayah; kewajiban sesuai kadar kemampuannya
     * boleh tidak memberi nasihat jika merasa tidak aman
       (terhadap gangguan, keselamatan diri)
-    
-  
+* dalam shohih Bukhari:
+  "jika seseorang meminta nasihat kepada saudaranya, maka berilah ia nasihat"
+  * nasehat itu wajib jika diminta
+  * yang dimaksud wajib jika diminta adalah tentang hal duniawi,
+    misal tentang menikah, pilihan pekerjaan
+  * yg tidak diminta, tapi wajib:
+    tatacara wudhu
