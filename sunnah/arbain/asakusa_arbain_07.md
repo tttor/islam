@@ -126,3 +126,11 @@
   * Imam An nawawi, Imam Al Baihaqi
     * tidak menjadikan hilangnya.menggugurkan ke ulamaan nya
     * tetapi tetap salah dalam hal itu
+* saling nasehat menasehat, kembali ke yang haq, ilmu; siap dikoreksi
+* tentang mahzab
+  * shahabat: serumpun di madinah
+  * mahzab sahabat terwakili mahzab yang ada (yang masih dalam kerangka pemahaman sahabat)
+  * mahzab karena buku dan murid yang melestarikan
+  * imam malik: ahli hadist (dilanjutkan imam ahmad bin hambal)
+  * imam abu hanifah
+  * Ust Ahmad Sarwat
