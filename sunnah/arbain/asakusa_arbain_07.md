@@ -65,7 +65,7 @@
 * berserah diri kepada Allah untuk ayat yang samar
   (cf ayat yang jelas)
   
-## nasihat kepada rasul
+## makna nasihat kepada rasul
 * membenarkan risalah nabi
 * mengimani semua yang dibawanya
 * mentaati perintah dan larangannya
@@ -82,4 +82,31 @@
 * mencintai keluarga nabi (ahlul bait) dan sahabat nya,
   dan menjauhi orang yang menentang sahabat
   
- 
+## makna nasihat kepada pemimpin kaum muslimim
+* menolong dan mentaati mereka dalam kebenaran baik 
+  perintah maupun larangan
+* memberi peringatan dgn lemah lembuh
+* memberitahukan hal hal yang mereka masih lalai didalamya,
+  atau hak hak kaum muslimin yang belum ditunaikan
+  * sahabat bertanya saat nabi kelebihan rakaat dalam sholat:
+    apakah hal baru atau lupa?
+* tidak keluar dari kepemimpinannya
+* Al-Khattobi: bentuk nasihat bagi mereka adalah 
+  * sholat di belakang mereka
+  * berjihad bersama mereka
+  * membayar zakat kepada mereka
+  * tidak memberontak dgn senjata ketika tampak kezaliman
+  * tidak menipu dgn pujian dusta
+  * mendoakan kebaikan bagi mereka
+* Ibnu Baththol: petunjuk bahwa nasihat dinamakan 
+  sebagai agama dan Islam
+  * pokok agama adalah nasehat,
+    semisal wukuf di arafah adalah pokok (di samping ada bagian kecil lain)
+  * agama seakan akan terwakili dgn nasehat
+    (cf agama: amal, perbuatan, perkataan)
+  * orang yang memberi nasehat akan mendapat pahala;
+    fardhu kifayah; kewajiban sesuai kadar kemampuannya
+    * boleh tidak memberi nasihat jika merasa tidak aman
+      (terhadap gangguan, keselamatan diri)
+    
+  
