@@ -56,6 +56,7 @@
 * tidak ada yang bisa membuat semisal dgnnya
 * mengagungkan dan membacanya dgn benar
   * utama: malam, dalam shalat malam
+    * https://tafsirweb.com/4683-quran-surat-al-isra-ayat-79.html
   * isi Quran: benar dan bermanfaat
 * khusyuk ketika membacanya
 * menegakkan hurufnya ketika membacanya
