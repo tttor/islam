@@ -126,6 +126,7 @@
   * Imam An nawawi, Imam Al Baihaqi
     * tidak menjadikan hilangnya.menggugurkan ke ulamaan nya
     * tetapi tetap salah dalam hal itu
+    * https://rumaysho.com/1628-ibnu-hajar-dan-imam-nawawi-dikatakan-mubtadi.html
 * saling nasehat menasehat, kembali ke yang haq, ilmu; siap dikoreksi
 * tentang mahzab
   * shahabat: serumpun di madinah
