@@ -120,7 +120,7 @@
 * salah/sesat: memaknai tangan dgn kekuasaan (mentakwil)
   * tetapi tidak sampai kufur
   * kufur: meragukan isi Quran
-  * menasehati sahabat dgn dalil, eg https://quran.com/42/11
+  * menasehati sahabat dgn dalil, eg https://quran.com/42/11, https://quran.com/11/37
   * memahami sifat Allah sebagaimana datangnya
     (Ibn Taimiyah)
   * Imam An nawawi, Imam Al Baihaqi
