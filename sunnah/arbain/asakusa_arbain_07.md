@@ -136,3 +136,4 @@
   * imam malik: ahli hadist (dilanjutkan imam ahmad bin hambal)
   * imam abu hanifah
   * Ust Ahmad Sarwat
+* https://islam.stackexchange.com/questions/16655/what-was-al-jassasah-the-beast-mentioned-in-hadith-96-book-33-tirmidhi
