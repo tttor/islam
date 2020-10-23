@@ -127,6 +127,7 @@
     * tidak menjadikan hilangnya.menggugurkan ke ulamaan nya
     * tetapi tetap salah dalam hal itu
     * https://rumaysho.com/1628-ibnu-hajar-dan-imam-nawawi-dikatakan-mubtadi.html
+    * https://staff.blog.ui.ac.id/komarudin74/penjelasan-hadits-di-mana-allah-oleh-imam-an-nawawi/
 * saling nasehat menasehat, kembali ke yang haq, ilmu; siap dikoreksi
 * tentang mahzab
   * shahabat: serumpun di madinah
