@@ -115,3 +115,14 @@
     misal tentang menikah, pilihan pekerjaan
   * yg tidak diminta, tapi wajib:
     tatacara wudhu
+
+## Q and A
+* salah/sesat: memaknai tangan dgn kekuasaan (mentakwil)
+  * tetapi tidak sampai kufur
+  * kufur: meragukan isi Quran
+  * menasehati sahabat dgn dalil, eg https://quran.com/42/11
+  * memahami sifat Allah sebagaimana datangnya
+    (Ibn Taimiyah)
+  * Imam An nawawi, Imam Al Baihaqi
+    * tidak menjadikan hilangnya.menggugurkan ke ulamaan nya
+    * tetapi tetap salah dalam hal itu
