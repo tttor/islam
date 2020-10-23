@@ -1,7 +1,12 @@
+# Asakusa note
+* Ust Dr. Topan Setiadipura 
+* kajian kitab alumni midori https://www.youtube.com/channel/UC9h1PcG2bUO4GATksIjHqvQ
+
+# Old note
 42 hadist pilihan
 yang dikumpulkan oleh imam An-Nawawi (631H - 676H: 45 tahun)
 
-# 1: niat
+## 1: niat
 * dari Umar bin Khattab
 * amalan itu bergantung niatnya
 * tingkatan sumber ilmu islam
@@ -10,7 +15,7 @@ yang dikumpulkan oleh imam An-Nawawi (631H - 676H: 45 tahun)
     * shahih muslim
   * ijma dan kias
 
-# 2: islam, iman, ihsan
+## 2: islam, iman, ihsan
 * dari Umar bin Khattab
 * 6 rukun iman
 * islam -> rukun islam (amalah fisik):
