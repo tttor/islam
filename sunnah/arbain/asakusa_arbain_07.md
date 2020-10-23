@@ -42,3 +42,44 @@
 * ikhlas dalam segala urusan, menjadikan Allah sebagi tujuan
 * menyeru dan mengajak orang lain kepada hal hal diatas
 * berlemah lembut kepada manusia dan siapa yang mungkin
+  * terkadang perlu dgn cara tegas:
+    Nabi mencabut cincin emas sahabat
+* dan hakikat kepada Allah manfaatnya kembali kepada hamba
+  * makna bagi Allah, dipalingkan menjadi hal hal di atas
+    * Allah maha kaya dari semua pemberi nasehat,
+    * Allah tidak perlu nasihat siapapun
+ 
+## makna nasihat bagi kitab Allah
+* mengimanani bagi Quran adalah kalamullah (bukan makhluk)
+  * ketika Quran makhluk: maka akan mengantar kepada adanya kekurangan
+* tidak menyerupakannya dgn perkataan manusia
+* tidak ada yang bisa membuat semisal dgnnya
+* mengagungkan dan membacanya dgn benar
+  * utama: malam, dalam shalat malam
+  * isi Quran: benar dan bermanfaat
+* khusyuk ketika membacanya
+* menegakkan hurufnya ketika membacanya
+* membelanya dari penakwilan orang orang yang menyimpang dan 
+  penentangan orang yang menentangnya
+* memahami kisah di Quran
+* berserah diri kepada Allah untuk ayat yang samar
+  (cf ayat yang jelas)
+  
+## nasihat kepada rasul
+* membenarkan risalah nabi
+* mengimani semua yang dibawanya
+* mentaati perintah dan larangannya
+* menolong beliau ketika hidup atau setelah meninggal
+* mencitai dan memusuhi orang yang mencintai dan memusuhinya
+* mengagungkan haknya 
+* menghidupkan dan mendakwahkan sunnah
+* memahami sunnah dan menyeru orang kepada sunnahnya
+* bersikap lemah lembut dalam belajar dan mengajarkannya
+* menjaga adab ketika membaca kalam Nabi
+* menahan diri dari berkata tentang sunnahnya tanpa ilmu
+* mengagungkan seseorang karena keberpihakannya kepada sunnah
+* ber akhlaq dan ber adap dgn adab nabi
+* mencintai keluarga nabi (ahlul bait) dan sahabat nya,
+  dan menjauhi orang yang menentang sahabat
+  
+ 
