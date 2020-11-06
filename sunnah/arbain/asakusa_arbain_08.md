@@ -9,12 +9,12 @@ Dari Ibnu Umar (Abdullah Ibnu Umar, putra dari Umar bin Khattab)
 * untuk memerangi manusia, hingga mereka 
   * bisa bersaksi Laillahaillah, wa anna muhammad rasullullah (2 kalimat syahadat)
   * mereka menegakkan sholat
-  * menunaukan zakat
+  * menunaikan zakat
 * Jika mereka mengerjakan itu maka terjaga dariku darah dan harta mereka kecuali karena hal Islam
 * dan hisab terhadap 3 hal di atas diserahkan kepada Allah
 * "Uqaatil"
   * memerangi secara umum
-  * object: manusiaL kafir harbi
+  * object: manusia: kafir harbi
   * dalam Islam, sesuatu yang dikomando oleh pimpinan (negara)
   * Abu Bakr memerangi siapapun yang membedakan yang meninggalkan zakat
 
