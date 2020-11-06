@@ -79,3 +79,7 @@ Dari Ibnu Umar (Abdullah Ibnu Umar, putra dari Umar bin Khattab)
      * QS at taubah 29
    * Kafir Harbiy: yang memerangi orang Islam
      * QS Al Baqarah: 190 ... tidak boleh melampau batas... tidak membunuh anak, wanita, ...
+* Piagam madinah
+  * sebagai warga kota Madinah, mereka adalah satu kesatuan yang harus bersatu 
+    ketika ada serangan dari luar
+  * hal ini dikhianati oleh Yahudi pada perang Ahzab
