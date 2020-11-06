@@ -66,6 +66,7 @@ Dari Ibnu Umar (Abdullah Ibnu Umar, putra dari Umar bin Khattab)
 * orang kafir berbeda tingkatannya, walaupun sama dalam hal tidak Islam
   * QS Mumtahanah: 8, 9
   * https://tafsirweb.com/10854-quran-surat-al-mumtahanah-ayat-8.html
+  * https://tafsirweb.com/10855-quran-surat-al-mumtahanah-ayat-9.html
 * Kesepakatan para ulama dalam membagi orang kafir
   * kafir mu'aahad: ada perjanjian damai dgn orang Islam,
     * perjanjian Hudaibiyah, 6 H (1.4K muslims) to 8 H 
@@ -95,3 +96,6 @@ Dari Ibnu Umar (Abdullah Ibnu Umar, putra dari Umar bin Khattab)
     * sebagai nasehat kepada pemimpin (sesuai koridor syariat dan aturan setempat)
     * demo yang tidak melanggar syariat, tidak melanggar aturan/kepakatan/hukum;
       seorang muslim menghormati aturan di tempat ia tinggal
+* zakat sebagai cara untuk keadilan sosial
+* https://tafsirweb.com/10960-quran-surat-at-taghabun-ayat-16.html
+  * Maka bertakwalah kamu kepada Allah menurut kesanggupanmu dan dengarlah serta taatlah dan nafkahkanlah nafkah yang baik untuk dirimu.
