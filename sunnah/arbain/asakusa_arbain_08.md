@@ -16,18 +16,31 @@ Dari Ibnu Umar (Abdullah Ibnu Umar, putra dari Umar bin Khattab)
   * memerangi secara umum
   * object: manusiaL kafir harbi
   * dalam Islam, sesuatu yang dikomando oleh pimpinan (negara)
+  * Abu Bakr memerangi siapapun yang membedakan yang meninggalkan zakat
 
 * Shaum dan Haji bagian dari rukun Islam, mengapa tidak disebutkan?
   * ANS: meniggalkan shaum berdosa, tetapi tidak sampai diperangi, begitupun haji
   * Sahabat Mu'adz diutus untuk berdakwah ke Yaman, nabi berpesan tiga hal, 
     tetapi tidak shaum dan haji
   
-* diperangi dalam menegakkan keadilan
+* orang muslim diperangi dalam menegakkan keadilan jika
   * orang yang memberontak, pembegal, perampok, 
   * menolak menunaikan zakat,
   * menolak memberi air bagi yang membutuhkan dan hewan ternak,
   * pelaku kejahatan, 
   * orang yang menolak membayar hutang padahal mampu
+  * orang sudah menikah yang berzina (dilaksanakan oleh pemerintah)
+  * meninggalkan (mengingkari) sholat jumat dan wudhu
+  * sholat berjamaah (ada 2 pendapat: fardu ain, dan fardu kifayah)
+  
+## Hisab/perhitungan amam mereka diserahkan kepada Allah
+* yakni yang mengucapkan syahadat, sholat, zakat
+* bila ia mengerjakannya dgn niat yang iklash dan baik, maka ia adalah orang yang beriman
+* jika ia melakukannya karena pura-pura (orang munafik, fenomena setelah kemanangan peran Badr, 
+  saat Islam mulai kuat), maka perhitunggannya diserahkan kepada Allah
+  * penilaain seorang muslim sesuai yang tampak, penilaian diserahkan kepada Allah
+    * misal: kita menilai orang yang sholat, walaupun sebanarnya dia tidak wudhu, 
+      juga tentang orang yang puasa, tapi pura-pura
 
 ## Hadist pesan Nabi ke Muadz (karakter Dinul Islam)
 * mendatangi ahli kitab di Yaman
@@ -39,4 +52,3 @@ Dari Ibnu Umar (Abdullah Ibnu Umar, putra dari Umar bin Khattab)
   lindungulah dirimu dari doa orang yang teraniaya (terdzalimi), (harta, darah, kehormatan),
   kerena tidak ada hijab antara doanya dan Allah
   
-
