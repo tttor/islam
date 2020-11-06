@@ -51,4 +51,31 @@ Dari Ibnu Umar (Abdullah Ibnu Umar, putra dari Umar bin Khattab)
 * jika mereka mentaatimu, maka jauhkanlah diri (jangan mengambil) dari harta terbaik mereka dan
   lindungulah dirimu dari doa orang yang teraniaya (terdzalimi), (harta, darah, kehormatan),
   kerena tidak ada hijab antara doanya dan Allah
+
+## kisah Usamah bin Zaid
+* yang membunuh seorang yang telah mengucapkan syahadat
+* tidak boleh menasahban nasab kita, tidak boleh mengadopsi, (boleh: mengasuh anak yatim)
+* Nabi: apakah kamu tetap membunuhnya setelah ia mengucapkan Laa Illaha Illa Allah?
+  * teguran keras Nabi
   
+## Apakah semua manusia diperangi?
+* Tidak semua, hanya orang kafir yang memerangi atau membantu memerangi kaum muslimin 
+  (ie kafir harbi)
+  * tidak setiap kali bertemu orang kafir: syahadat, sholat, zakat ... vs... perang
+* orang kafir berbeda tingkatannya, walaupun sama dalam hal tidak Islam
+  * QS Mumtahanah: 8, 9
+  * https://tafsirweb.com/10854-quran-surat-al-mumtahanah-ayat-8.html
+* Kesepakatan para ulama dalam membagi orang kafir
+  * kafir mu'aahad: ada perjanjian damai dgn orang Islam,
+    * perjanjian Hudaibiyah, 6 H (1.4K muslims) to 8 H 
+      (Fathu Mekkah karena mereka mengkhianati, 10K muslim)
+    * kondisi yang kondusif untuk berdakwah
+    * HR Bukhari: siapa yang membunuh kafir mu'ahad ia tidak akan mencium bau surga,
+      padahal sesungguhnya bau surga bisa dicium ...
+   * kafir musta-man: yang diberi pengamanan (suaka), atau posisi mereka sebagai utusan
+     * QS At-Taubah: 6
+     * Dzimmah (jaminan keamanan) kaum muslim itu satu, diusahakan oleh orang yang paling bawah sekalipun (rakyat biaas, bukan pejabat neraka)
+   * Kafir Dzimmi
+     * QS at taubah 29
+   * Kafir Harbiy: yang memerangi orang Islam
+     * QS Al Baqarah: 190 ... tidak boleh melampau batas... tidak membunuh anak, wanita, ...
