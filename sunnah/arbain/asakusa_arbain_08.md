@@ -14,7 +14,7 @@ Dari Ibnu Umar (Abdullah Ibnu Umar, putra dari Umar bin Khattab)
 * dan hisab terhadap 3 hal di atas diserahkan kepada Allah
 * "Uqaatil"
   * memerangi secara umum
-  * object: manusia: kafir harbi
+  * jika object yang dimaksud adalah manusia, maka manusia yang kafir harbi
   * dalam Islam, sesuatu yang dikomando oleh pimpinan (negara)
   * Abu Bakr memerangi siapapun yang membedakan yang meninggalkan zakat
 
@@ -33,7 +33,7 @@ Dari Ibnu Umar (Abdullah Ibnu Umar, putra dari Umar bin Khattab)
   * meninggalkan (mengingkari) sholat jumat dan wudhu
   * sholat berjamaah (ada 2 pendapat: fardu ain, dan fardu kifayah)
   
-## Hisab/perhitungan amam mereka diserahkan kepada Allah
+## Hisab/perhitungan amal mereka diserahkan kepada Allah
 * yakni yang mengucapkan syahadat, sholat, zakat
 * bila ia mengerjakannya dgn niat yang iklash dan baik, maka ia adalah orang yang beriman
 * jika ia melakukannya karena pura-pura (orang munafik, fenomena setelah kemanangan peran Badr, 
@@ -46,8 +46,9 @@ Dari Ibnu Umar (Abdullah Ibnu Umar, putra dari Umar bin Khattab)
 * mendatangi ahli kitab di Yaman
 * hal pertama yang disampaikan adalah syahadat, sampai mereka mentauhidkan Allah
 * jika mereka mentaatimu, maka sampaikanlah bahwa Allah mewajibkan kepada mereka shalat 5 waktu
-* jika mereka mentaatimu adalah Allah mewajibkan shadaqah yang diambil dari orang kaya untuk 
-  diberikan kepada orang kafir
+* jika mereka mentaatimu adalah Allah mewajibkan shadaqah (=zakat mal) yang diambil dari orang kaya untuk 
+  diberikan kepada orang miskin (fuqara)
+  * tidak serta merta tujuannya dibagikan kepada orang miskin, tetapi perlu digabungkan dgn dalil lain
 * jika mereka mentaatimu, maka jauhkanlah diri (jangan mengambil) dari harta terbaik mereka dan
   lindungulah dirimu dari doa orang yang teraniaya (terdzalimi), (harta, darah, kehormatan),
   kerena tidak ada hijab antara doanya dan Allah
@@ -83,3 +84,9 @@ Dari Ibnu Umar (Abdullah Ibnu Umar, putra dari Umar bin Khattab)
   * sebagai warga kota Madinah, mereka adalah satu kesatuan yang harus bersatu 
     ketika ada serangan dari luar
   * hal ini dikhianati oleh Yahudi pada perang Ahzab
+
+## Q and A
+* zakat fitri (bukat fitrah)
+  * siapapun yang bernyawa yang hidup sampai ifthor terakhir maka wajib berzakat fitri
+  * untuk fakir dan miskin (tidak ke 8 asnaf)
+* fiqih, per definisi: hasil ijtihad
