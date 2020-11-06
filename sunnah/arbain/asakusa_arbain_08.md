@@ -53,7 +53,7 @@ Dari Ibnu Umar (Abdullah Ibnu Umar, putra dari Umar bin Khattab)
   lindungulah dirimu dari doa orang yang teraniaya (terdzalimi), (harta, darah, kehormatan),
   kerena tidak ada hijab antara doanya dan Allah
 
-## kisah Usamah bin Zaid
+## Kisah Usamah bin Zaid
 * yang membunuh seorang yang telah mengucapkan syahadat
 * tidak boleh menasahban nasab kita, tidak boleh mengadopsi, (boleh: mengasuh anak yatim)
 * Nabi: apakah kamu tetap membunuhnya setelah ia mengucapkan Laa Illaha Illa Allah?
@@ -89,4 +89,4 @@ Dari Ibnu Umar (Abdullah Ibnu Umar, putra dari Umar bin Khattab)
 * zakat fitri (bukat fitrah)
   * siapapun yang bernyawa yang hidup sampai ifthor terakhir maka wajib berzakat fitri
   * untuk fakir dan miskin (tidak ke 8 asnaf)
-* fiqih, per definisi: hasil ijtihad
+* fiqih, per definisi: hasil ijtihad ulama
