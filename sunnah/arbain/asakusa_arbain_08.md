@@ -90,8 +90,8 @@ Dari Ibnu Umar (Abdullah Ibnu Umar, putra dari Umar bin Khattab)
   * siapapun yang bernyawa yang hidup sampai ifthor terakhir maka wajib berzakat fitri
   * untuk fakir dan miskin (tidak ke 8 asnaf)
 * fiqih, per definisi: hasil ijtihad ulama
-* Hadist: penguasa yang semena-mena, apakah memerangi mereka? Nabi: tidak diperangi, tetapi juga tidak membenarkan
+* Hadist: penguasa yang semena-mena, apakah memerangi mereka? Nabi: tidak diperangi, tetapi juga tidak membenarkan, tidak mengabaikan
   * kritik di sosmed, demo: pengingkaran atau peperangan (secara pikiran)?
-    * sebagai nasehat kepada pemimpin
+    * sebagai nasehat kepada pemimpin (sesuai koridor syariat dan aturan setempat)
     * demo yang tidak melanggar syariat, tidak melanggar aturan/kepakatan/hukum;
       seorang muslim menghormati aturan di tempat ia tinggal
