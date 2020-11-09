@@ -16,3 +16,5 @@
 Referensi: https://almanhaj.or.id/4012-adab-adab-taziyah-bela-sungkawa-shalat-jenazah-dan-tata-cara-penguburannya.html
 * “Semoga Allah memberkahi anak ini untukmu dan menjadikannya orang baik yang bertaqwa”. Aamiin.
 https://muslimah.or.id/7189-macam-macam-doa-untuk-yang-baru-dikaruniai-anak.html
+* Maasyaallaah, Baarakallahu laka fiih.
+https://konsultasisyariah.com/24593-kapan-kita-mengucapkan-subhanallah-dan-masyaallah.html
