@@ -42,11 +42,11 @@ Pertanyaan seperti apa yang dilarang?
 * pertanyaan dibagi menjadi berikut...
 * Jenis 1) pertanyaan orang tidak tahu tentang hal yang wajib dalam agama.
   eg wudhu, sholat, shaum, muamalah
-  * jenis ini wajib 
+  * jenis ini wajib bertanya 
   * Menuntut ilmu adalah wajib bagi semua muslim (mencakup muslimah)
   * seseorang tidak boleh diam atas ketidaktahuannya
   * An-Nahl: 43
-  * Ibnu Abbas (ulama junior di kalangan sahabat) mengabarkan tentang kondis dirinya
+  * Ibnu Abbas (ulama junior di kalangan sahabat) mengabarkan tentang kondisi dirinya
     * saya memiliki lisan yang selalu bertanya dan hati yang berfikir
 * Jenis 2) pertanyaan dalam rangka memahami agama Allah lebih dalam (tafaquh fiddin)
   * harus bertanya
@@ -60,10 +60,10 @@ Pertanyaan seperti apa yang dilarang?
       adapun setelah agama Islam sempurna, maka hilanglah larangan  itu
   * misal Ali Imran: 97 ... pergi haji bagi yang mampu...
     * seseorang bertanya: apakah setiap tahun?
-      rasul: hampir saja saya jawab iya, bil diwajibkan maka kalian tidak sanggup
+      rasul: hampir saja saya jawab iya, bila diwajibkan maka kalian tidak sanggup
   * Al Maidah: 101
   * Kisah dalam surah Al Baqarah
-    * menyembelih sapi, kemuadia bertanya detil tentang jenis sapi
+    * menyembelih sapi, kemudian bertanya detil tentang jenis sapi
 * Hadist: akan ada orang dari ummatku, merepotkan ulama mereka dgn masalah sepele,
   mereka adalah orang terburuk dari umatku
 * Zaid bin Tsabit dan Ubay bin Kaab (keduanya ulama senior di kalangan sahabat)
