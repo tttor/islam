@@ -18,3 +18,4 @@ Referensi: https://almanhaj.or.id/4012-adab-adab-taziyah-bela-sungkawa-shalat-je
 https://muslimah.or.id/7189-macam-macam-doa-untuk-yang-baru-dikaruniai-anak.html
 * Maasyaallaah, Baarakallahu laka fiih.
 https://konsultasisyariah.com/24593-kapan-kita-mengucapkan-subhanallah-dan-masyaallah.html
+* Ya Allah Wahai Tuhan segala manusia, hilangkanlah penyakitnya, sembukanlah ia. (Hanya) Engkaulah yang dapat menyembuhkannya, tidak ada kesembuhan melainkan kesembuhan dariMu, kesembuhan yang tidak kambuh lagi.” ( HR. Bukhari, no. 5742; Muslim, no. 2191)
