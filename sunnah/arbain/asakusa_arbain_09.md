@@ -16,6 +16,8 @@ Pertanyaan seperti apa yang dilarang?
 * Abu Hurairah
   * sebab penamaan, membawa hirah (kucing), wahai Abu Hurairah (penamaan dari Nabi)
   * masuk Islam pada peperangan Khaibar, 7 H
+    * https://en.wikipedia.org/wiki/Khaybar
+    * https://en.wikipedia.org/wiki/Safiyya_bint_Huyayy
   * banyak meriwayatkan hadist, didoakan oleh nabi agar bisa menghafal hadist
   * di zaman Umar: menjadi pimpinan Bahrain
   * meninggal di usia 78 tahun, 59 H 
