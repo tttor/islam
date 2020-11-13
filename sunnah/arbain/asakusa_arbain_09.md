@@ -45,7 +45,7 @@ Pertanyaan seperti apa yang dilarang?
   * jenis ini wajib bertanya 
   * Menuntut ilmu adalah wajib bagi semua muslim (mencakup muslimah)
   * seseorang tidak boleh diam atas ketidaktahuannya
-  * An-Nahl: 43
+  * An-Nahl: 43 https://tafsirweb.com/4391-quran-surat-an-nahl-ayat-43.html
   * Ibnu Abbas (ulama junior di kalangan sahabat) mengabarkan tentang kondisi dirinya
     * saya memiliki lisan yang selalu bertanya dan hati yang berfikir
 * Jenis 2) pertanyaan dalam rangka memahami agama Allah lebih dalam (tafaquh fiddin)
@@ -86,4 +86,6 @@ Pertanyaan seperti apa yang dilarang?
 * Apa hikmahnya terdapat larangan makruh? 
   Larangan yang makruh ini sering menjadi perdebatan diantara  kaum muslimin.
   * ANS: tidak tahu pasti, tetapi pasti ada hikmahnya dari Allah, kita ittiba Nabi,
-    ada yang wajib bisa dikatakan 
+    ada yang 
+    
+    bisa dikatakan 
