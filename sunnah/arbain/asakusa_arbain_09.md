@@ -72,8 +72,9 @@ Pertanyaan seperti apa yang dilarang?
   * 4 hakim nya sahabat: 2 sahabat dia atas, plus Ali dan Umar (dan Ibnu Mas'ud)
   * namun, dalam pengajaran boleh mengajarkan dengan "kalau ..." jika bermanfaat,
     misal dalam ilmu fikih "kalau tidak ada air"
-* Contoh pertanyaan tidak disukai: Imam Malik ditanya tentang Ar-Rahman: 5,
+* Contoh pertanyaan uang tidak disukai: Imam Malik ditanya tentang Al-A’raaf: 54
   * Al istiwa maklum (diketahui) secara bahasa, namun bagaimananya tidak diketahui
+  * https://almanhaj.or.id/3258-ahlus-sunnah-menetapkan-istiwa-bersemayam-ahlus-sunnah-menetapkan-maiyyah-kebersamaan-allah.html
 * maksud dari: "madzab as-salaf lebih selamat, madzab al-khalaf lebih mengetahui"
   yang dinukil oleh Imam An-Nawawi
   * generasi khalaf banyak menerangkan banyak hal karena adanya pertanyaan yang sebelumnya belum ada,
