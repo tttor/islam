@@ -76,7 +76,7 @@ Pertanyaan seperti apa yang dilarang?
   * Al istiwa maklum (diketahui) secara bahasa, namun bagaimananya tidak diketahui
   * https://almanhaj.or.id/3258-ahlus-sunnah-menetapkan-istiwa-bersemayam-ahlus-sunnah-menetapkan-maiyyah-kebersamaan-allah.html
 * maksud dari: "madzab as-salaf lebih selamat, madzab al-khalaf lebih mengetahui"
-  yang dinukil oleh Imam An-Nawawi
+  (sebuah pernyataan yang dinukil oleh Imam An-Nawawi)
   * generasi khalaf banyak menerangkan banyak hal karena adanya pertanyaan yang sebelumnya belum ada,
     yang tidak perlu didiskusikan di jaman salaf
   * jaman salaf: 3 generasi pertama
