@@ -56,7 +56,18 @@ Pertanyaan seperti apa yang dilarang?
 * Jenis 3) bertanya sesuau yang tidak diwajib kepada nya juga selainnya
   * pertanyaan inilah yang dimaksud dalam hadist di atas
   * dilarang bertanya, karena terkadang akan memunculkan pembebanan
+    * larangan ini khusus pada masa hidupnya Rasullullah, 
+      adapun setelah agama Islam sempurna, maka hilanglah larangan  itu
   * misal Ali Imran: 97 ... pergi haji bagi yang mampu...
     * seseorang bertanya: apakah setiap tahun?
       rasul: hampir saja saya jawab iya, bil diwajibkan maka kalian tidak sanggup
   * Al Maidah: 101
+  * Kisah dalam surah Al Baqarah
+    * menyembelih sapi, kemuadia bertanya detil tentang jenis sapi
+* Hadist: akan ada orang dari ummatku, merepotkan ulama mereka dgn masalah sepele,
+  mereka adalah orang terburuk dari umatku
+* Zaid bin Tsabit dan Ubay bin Kaab (keduanya ulama senior di kalangan sahabat)
+  menyaring pertanyaan yang sudah terjadi saja untuk dijawab
+  * Umar melaknat orang yang bertanya akan hal yang belum terjadi
+  * 4 hakim nya sahabat: 2 sahabat dia atas, plus Ali dan Umar (dan Ibnu Mas'ud)
+  
