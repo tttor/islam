@@ -70,4 +70,19 @@ Pertanyaan seperti apa yang dilarang?
   menyaring pertanyaan yang sudah terjadi saja untuk dijawab
   * Umar melaknat orang yang bertanya akan hal yang belum terjadi
   * 4 hakim nya sahabat: 2 sahabat dia atas, plus Ali dan Umar (dan Ibnu Mas'ud)
+  * namun, dalam pengajaran boleh mengajarkan dengan "kalau ..." jika bermanfaat,
+    misal dalam ilmu fikih "kalau tidak ada air"
+* Contoh pertanyaan tidak disukai: Imam Malik ditanya tentang Ar-Rahman: 5,
+  * Al istiwa maklum (diketahui) secara bahasa, namun bagaimananya tidak diketahui
+* maksud dari: "madzab as-salaf lebih selamat, madzab al-khalaf lebih mengetahui"
+  yang dinukil oleh Imam An-Nawawi
+  * generasi khalaf banyak menerangkan banyak hal karena adanya pertanyaan yang sebelumnya belum ada,
+    yang tidak perlu didiskusikan di jaman salaf
+  * jaman salaf: 3 generasi pertama
+  * misal: Imam Syafii menulis ar risalah, orang bekam langsung sholat tanpa taharah
   
+# Q and A
+* Apa hikmahnya terdapat larangan makruh? 
+  Larangan yang makruh ini sering menjadi perdebatan diantara  kaum muslimin.
+  * ANS: tidak tahu pasti, tetapi pasti ada hikmahnya dari Allah, kita ittiba Nabi,
+    ada yang wajib bisa dikatakan 
