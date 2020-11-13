@@ -40,7 +40,7 @@ Pertanyaan seperti apa yang dilarang?
 ## Sebab kehancuran umat dahulu
 * sebab: banyak bertanya dan menyelisihi nabi mereka
 * pertanyaan dibagi menjadi berikut...
-* 1) pertanyaan orang tidak tahu tentang hal yang wajib dalam agama.
+* Jenis 1) pertanyaan orang tidak tahu tentang hal yang wajib dalam agama.
   eg wudhu, sholat, shaum, muamalah
   * jenis ini wajib 
   * Menuntut ilmu adalah wajib bagi semua muslim (mencakup muslimah)
@@ -48,14 +48,15 @@ Pertanyaan seperti apa yang dilarang?
   * An-Nahl: 43
   * Ibnu Abbas (ulama junior di kalangan sahabat) mengabarkan tentang kondis dirinya
     * saya memiliki lisan yang selalu bertanya dan hati yang berfikir
-* 2) pertanyaan dalam rangka memahami agama Allah lebih dalam (tafaquh fiddin)
+* Jenis 2) pertanyaan dalam rangka memahami agama Allah lebih dalam (tafaquh fiddin)
   * harus bertanya
   * at Taubah 122: ... hendaklah sebagian ada yang memperdalah agama... 
      menuntut ilmu adalah fardhu kifayah
   * Rasulullah: ingatlah, hendaknya yang hadir mengajarkan kepada yang tidak hadir
-* 3) bertanya sesuau yang tidak diwajib kepada nya juga selainnya
+* Jenis 3) bertanya sesuau yang tidak diwajib kepada nya juga selainnya
   * pertanyaan inilah yang dimaksud dalam hadist di atas
   * dilarang bertanya, karena terkadang akan memunculkan pembebanan
   * misal Ali Imran: 97 ... pergi haji bagi yang mampu...
     * seseorang bertanya: apakah setiap tahun?
       rasul: hampir saja saya jawab iya, bil diwajibkan maka kalian tidak sanggup
+  * Al Maidah: 101
