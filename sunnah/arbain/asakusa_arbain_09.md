@@ -22,7 +22,7 @@ Pertanyaan seperti apa yang dilarang?
   * di zaman Umar: menjadi pimpinan Bahrain
   * meninggal di usia 78 tahun, 59 H 
   
-## Jauhi larangan dan kerjankan perintah
+## Jauhi larangan dan kerjakan perintah
 * jauhi larangan secara total:
   tidak mengerjakannya ataupun sebagian darinya
   * untuk yang dilarang secara haram
