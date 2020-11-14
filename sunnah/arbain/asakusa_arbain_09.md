@@ -7,7 +7,7 @@ Apa perbedaan antara 'perintah' dan 'larangan' Allah ta'ala?
 Apa hal yang menyebabkan umat terdahulu celaka?
 Pertanyaan seperti apa yang dilarang?
 
-## matan
+## Matan
 * Dari Abu Hurairah Abdirrahman bin Shokhrin berkata Rasullullah bersabda
   * apa saja yang saya larang maka jauhilah
   * dan apa yang saya perintahkan laksanakanlah semampu kalian
