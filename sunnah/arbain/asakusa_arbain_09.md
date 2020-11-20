@@ -53,7 +53,7 @@ Pertanyaan seperti apa yang dilarang?
     * saya memiliki lisan yang selalu bertanya dan hati yang berfikir
 * Jenis 2) pertanyaan dalam rangka memahami agama Allah lebih dalam (tafaquh fiddin)
   * harus bertanya
-  * at Taubah 122: ... hendaklah sebagian ada yang memperdalah agama... 
+  * at Taubah 122: ... hendaklah sebagian ada yang memperdalam agama (misal: tingkatan hadist) 
      menuntut ilmu adalah fardhu kifayah
   * Rasulullah: ingatlah, hendaknya yang hadir mengajarkan kepada yang tidak hadir
 * Jenis 3) bertanya sesuau yang tidak diwajib kepada nya juga selainnya
