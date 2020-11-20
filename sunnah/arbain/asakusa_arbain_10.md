@@ -83,13 +83,13 @@ Adab berdo'a dan sebab-sebab dikabulkannya do'a?
   * bertaubat setelah makan yang haram, meminta ampun kepada Allah,
     secara umum jika bertobat (dan diterima Allah: menyesal, optimal tidak mengulangi) maka ia bisa bersih
   * tidak benar: menharamkan yang halal, sama halnya: mehalalkan yang haram
-* berdoa dalam sholat, dalam sujud, sebelum salam,
+* berdoa dalam sholat, ie dalam sujud, dan sebelum salam,
   * syaratnya: 
     * komunikasi dgn Allah, dan 
-    * berbahasa Arab
+    * berbahasa Arab, dilafadzan (bukan di dalam hati)
   * dilarang membaca ayat Quran di sujud: berdoa dgn lafazd yang diambil dari Quran
   * https://rumaysho.com/8514-berdoa-dengan-selain-bahasa-arab-dalam-shalat.html
   * https://konsultasisyariah.com/5592-doa-sujud.html
   * https://muslim.or.id/56873-berdoa-dengan-bahasa-indonesia-di-dalam-shalat.html
-  
-  
+  * pendapat: mengulangi doa-doa yang sudah ada dalilnya (tauqifiyah, ada nash nya)
+  * pendapat: boleh dalam hati, sehingga bisa non-arab
