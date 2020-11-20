@@ -91,5 +91,7 @@ Adab berdo'a dan sebab-sebab dikabulkannya do'a?
   * https://rumaysho.com/8514-berdoa-dengan-selain-bahasa-arab-dalam-shalat.html
   * https://konsultasisyariah.com/5592-doa-sujud.html
   * https://muslim.or.id/56873-berdoa-dengan-bahasa-indonesia-di-dalam-shalat.html
+  * Bolehkah Berdoa Di Sujud Terakhir ? - Ustadz DR Syafiq Riza Basalamah MA https://www.youtube.com/watch?v=irQ-KqAFn30
+  * Bacaan Sholat: Doa setelah Tahiyat Akhir sebelum Salam https://www.youtube.com/watch?v=JZx14dMLiTY
   * pendapat: mengulangi doa-doa yang sudah ada dalilnya (tauqifiyah, ada nash nya)
   * pendapat: boleh dalam hati, sehingga bisa non-arab
