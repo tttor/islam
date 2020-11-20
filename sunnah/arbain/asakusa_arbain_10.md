@@ -95,3 +95,6 @@ Adab berdo'a dan sebab-sebab dikabulkannya do'a?
   * Bacaan Sholat: Doa setelah Tahiyat Akhir sebelum Salam https://www.youtube.com/watch?v=JZx14dMLiTY
   * pendapat: mengulangi doa-doa yang sudah ada dalilnya (tauqifiyah, ada nash nya)
   * pendapat: boleh dalam hati, sehingga bisa non-arab
+  * https://konsultasisyariah.com/29283-hukum-berdoa-dalam-hati.html
+  * Membaca do’a yang berasal dari Al Qur’an ketika sujud itu dibolehkan selama niatannya bukanlah untuk tilawah, namun untuk berdo’a
+    * https://rumaysho.com/1095-bolehkah-ketika-sujud-membaca-doa-yang-asalnya-dari-al-quran.html
