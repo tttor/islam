@@ -60,3 +60,20 @@ Adab berdo'a dan sebab-sebab dikabulkannya do'a?
     "segala puji milik Allah yang telah memberi saya kenikmatan ini, dan memberi saya rejekii ini,
     tanpa data dan kekuatan dari", maka diampuni dosa nya (HR Abu Daud)
   
+# orang yang berdoa, yang ...
+* makannya haram, ia dipenuhi dgn yang haram
+  * QS Al Kahfi: 62
+* tidak mungkin dikabulkan doa orang tersebut,
+  * syarat dikabulkan doa: makan yg halal
+    * Imam Nawawi: namun yang benar itu bukan syarat, misal Allah mengabulkan iblis: 
+      pengguhan, menangguhkan ... see Al Araf: 15,
+      https://tafsirweb.com/2469-quran-surat-al-araf-ayat-15.html
+* Tiga doa yang tidak tertolah
+  * musafir, safar diantara dikabulkan doa
+    * kondisi acak acakan dan berdebu diantara sebab dikabulkan doa
+    * tampil secara sederhana untuk sholat istiqa
+  * orang yang di zhalimi
+  * orang tua terhadap anaknya
+* mengangkat tangan ketiak berdoa merupakan sunnah kecuali dalm sholat, begitu pula qunut
+  * Hadist, sesungguhnya Allah Maha Malu dan Maha Mulia, Allah malu terhadap hamnya apabila berdoa mengangkat
+    tangan kemudia mengembalikannya tanpa mendapat apa apa
