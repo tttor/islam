@@ -77,3 +77,19 @@ Adab berdo'a dan sebab-sebab dikabulkannya do'a?
 * mengangkat tangan ketiak berdoa merupakan sunnah kecuali dalm sholat, begitu pula qunut
   * Hadist, sesungguhnya Allah Maha Malu dan Maha Mulia, Allah malu terhadap hamnya apabila berdoa mengangkat
     tangan kemudia mengembalikannya tanpa mendapat apa apa
+
+# Q and A
+* Jika pada seorang muslim sudah tumbuh daging hasil memakan yang diharamkan, apakah selamanya doanya tidak dikabulkan Allah? Bagaimana caranya agar badannya bebas dari daging haram yang tumbuh itu? 
+  * bertaubat setelah makan yang haram, meminta ampun kepada Allah,
+    secara umum jika bertobat (dan diterima Allah: menyesal, optimal tidak mengulangi) maka ia bisa bersih
+  * tidak benar: menharamkan yang halal, sama halnya: mehalalkan yang haram
+* berdoa dalam sholat, dalam sujud, sebelum salam,
+  * syaratnya: 
+    * komunikasi dgn Allah, dan 
+    * berbahasa Arab
+  * dilarang membaca ayat Quran di sujud: berdoa dgn lafazd yang diambil dari Quran
+  * https://rumaysho.com/8514-berdoa-dengan-selain-bahasa-arab-dalam-shalat.html
+  * https://konsultasisyariah.com/5592-doa-sujud.html
+  * https://muslim.or.id/56873-berdoa-dengan-bahasa-indonesia-di-dalam-shalat.html
+  
+  
