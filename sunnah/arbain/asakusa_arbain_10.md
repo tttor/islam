@@ -98,3 +98,19 @@ Adab berdo'a dan sebab-sebab dikabulkannya do'a?
   * https://konsultasisyariah.com/29283-hukum-berdoa-dalam-hati.html
   * Membaca do’a yang berasal dari Al Qur’an ketika sujud itu dibolehkan selama niatannya bukanlah untuk tilawah, namun untuk berdo’a
     * https://rumaysho.com/1095-bolehkah-ketika-sujud-membaca-doa-yang-asalnya-dari-al-quran.html
+* Do’a setelah makan yang
+  menyebabkan diampuni dosa.
+  Dari Mu’adz bin Anas, dari ayahnya
+  ia berkata, Rasuulullah
+  shallallahu’alahi wasallam
+  bersabda, “ Barang siapa yang
+  makan kemudian mengucapkan:
+  ‘segala puji milik Allah yang telah
+  memberi saya kenikmatan ini, dan
+  memberi saya rezeki ini, tanpa daya
+  dan kekuatan dariku’, maka
+  diampuni dosanya yang telah lalu.
+  [HR. Abu Daud no.4043, Tirmidzi
+  No.3458, Ibnu Majah no.3285, Imam
+  Tirmidzi dan Ibnu Hajar al-Asqalani
+  mengatakan hadits ini hasan.]
