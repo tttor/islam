@@ -35,8 +35,24 @@ Mengapa meninggalkan hal yang ada keraguan?
    * ar-riibah: keraguan ...
    * keyakinan berdasar ilmu, menghormati/menerima perbedaan pendapat dari Ulama yang berdalil
  * Recall: hadist 6:
-   Siapa yang berlindun dari syubhat, maka ia telah menjaga agama dan kehormatannya,
-   * yaituL mengejar keterjagaan dan keselamatan agamanya dari syubhat
-   *
+   Siapa yang berlindung dari syubhat, maka ia telah menjaga agama dan kehormatannya,
+   * yaitu mengejar keterjagaan dan keselamatan agamanya dari syubhat
+ * Siapa yang terjatuh dalam syubhat (yang meragukan), maka ia jatuh dalam ham yang haram
+   * makna 1: ia memang terjatuh ke dalam hal yang haram, namun mengira ahwa ia tidak terjatuh dalam
+     yang haram
+   * makna 2: ia hampir terjatuh ke dalam yang haram, bit by bit to haram
+     * kemaksiatan adalah pembawa kekufuran
+     * Ali Imran: 112
+ 
+ # syarah tambahan 
+ * yang lebih shohih adalah anjuran meniggalkan syubhat
+ * Hadists: seorang hamba tidak akan menjadi takwa hingga ia meniggalkan hal yang tiada apa-apa
+   karena takut terjatuh ke dalam dosa (HR Tirmidzi)
+   * memotong jalan yang dapat membawa kita ke keharaman
+ * Abu Dzar berkata
+   kesempurnaan takwa adalah meninggalkan sebagian yang halal kerena takut menjadi 
+   (mengantarkan pada yang) haram
+   
+       
   
     
