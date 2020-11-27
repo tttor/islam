@@ -70,9 +70,11 @@ Mengapa meninggalkan hal yang ada keraguan?
    * https://rumaysho.com/22996-syarhus-sunnah-mereka-yang-keluar-dari-neraka.html
    * https://rumaysho.com/15533-mukmin-masuk-neraka-mustahil-masuk-surga-bagai-unta-masuk-lubang-jarum.html
    * https://rumaysho.com/3768-banyak-siksa-kubur-disebabkan-kencing-yang-tidak-bersih.html
+   * https://almanhaj.or.id/3830-peristiwa-peristiwa-di-alam-kubur.html
  * Khilâfah nubuwwah (rasyîdah mahdiyyah) berlangsung tiga puluh tahun. Kemudian Allah akan memberikan kekuasaan kepada siapa yang Dia kehendaki. 
    [HR Ahmad, Abu Dawûd, at-Tirmidzi, dan al-Hâkim; dengan sanad yang shahîh]
    * https://almanhaj.or.id/13982-khilafah-di-bumi-2.html 
    * https://rumaysho.com/22734-hadits-arbain-28-ikutilah-sunnah-tinggalkanlah-bidah-taat-pemimpin.html
-   * Definisi
+   * Definisi Khilâfah nubuwwah (rasyîdah mahdiyyah): khilafag yang berlangsung tiga puluh tahun itu yang disebutkan dalam hadist
+     * https://almanhaj.or.id/13982-khilafah-di-bumi-2.html
     
