@@ -33,7 +33,8 @@ Mengapa meninggalkan hal yang ada keraguan?
   * yaitu berpaling kepada hal yang tidak ada keraguaan didalamnya berupa makan yang hari dan jiwa
     tenang terhadap ke halal nya
    * ar-riibah: keraguan ...
-   * keyakinan berdasar ilmu, menghormati/menerima perbedaan pendapat dari Ulama yang berdalil
+   * keyakinan berdasar ilmu, menghormati/menerima perbedaan pendapat dari Ulama yang berdalil,
+     mengetahui adanya hal-hal yang dibolekan berikrilaf (perbedaan pendapat)
  * Recall: hadist 6:
    Siapa yang berlindung dari syubhat, maka ia telah menjaga agama dan kehormatannya,
    * yaitu mengejar keterjagaan dan keselamatan agamanya dari syubhat
