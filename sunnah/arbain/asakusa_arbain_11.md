@@ -74,5 +74,5 @@ Mengapa meninggalkan hal yang ada keraguan?
    [HR Ahmad, Abu Dawûd, at-Tirmidzi, dan al-Hâkim; dengan sanad yang shahîh]
    * https://almanhaj.or.id/13982-khilafah-di-bumi-2.html 
    * https://rumaysho.com/22734-hadits-arbain-28-ikutilah-sunnah-tinggalkanlah-bidah-taat-pemimpin.html
-  
+   * Definisi
     
