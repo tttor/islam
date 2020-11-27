@@ -54,5 +54,16 @@ Mengapa meninggalkan hal yang ada keraguan?
    (mengantarkan pada yang) haram
    
        
+ # Q and A
+ * tidak ada perubahan kondisi dalam alam kubur, 
+   langsung terbagi jadi 2: ahli neraka, dan ahli surga
+   * tetapi tidak sama keadaannya manusia, sebagaimana tingkatan surga
+   * yang semua akhirnya masuk surga, maka menikmati nikmat kubur
+     * mungkin ada berbedaan tingkatan kenikmatan
+     * yang ahli neraka (yang akan masuk neraka): 
+        maka adzab kubur: diperlihatkan tempatnya di neraka
+    * bisa jadi orang yang akhirnya masuk surga, akan menerima adzab kubur
+      * berbeda-beda tingkatan adzab nya
+   * wa'allahu alam
   
     
