@@ -8,20 +8,20 @@ Mari kita belajar Hadits Nabi Muhammad Shallallahu'alaihi wasallam melalui tulis
 
 # matan
 * Dari Abu Hurairah (masuk Islam, 7 H)
-* Di antara kebaikan islam seseorang adalah meninggalkan apa yang tidak bermanfaat baginya.
+* Rasullullah: Di antara kebaikan islam seseorang adalah meninggalkan apa yang tidak bermanfaat baginya.
 * Hadist hasan oleh at-Tirmidzi
-
-# dari Fathul Mubin karya Ibnu Hajar Al-Haitami
-* hadist ini adalah seperempat Islam
-  * bahkan setengah Islam, atau secara keseluruhan
-* karena Islam itu
-  * mengerjakan yang bermanfaat
-  * meninggalkan apa yang tidak bermanfaat
+* dari Fathul Mubin karya Ibnu Hajar Al-Haitami
+  * hadist ini adalah seperempat Islam
+    * bahkan setengah Islam, atau secara keseluruhan
+  * karena Islam itu
+    * mengerjakan yang bermanfaat
+    * meninggalkan apa yang tidak bermanfaat
 
 # syarah
 * Dari rasullullah:
   di antara kebaikan Islam seseorang adalah meninggalkan hal yang tidak bermanfaat baginya
   yaitu .... baik perkataan dan perbuatan, baik dunia atau akhirat
+* Imam Nawawi menjelaskan dgn diskusi Abu Dzar berikut.
 
 ## diskusi Abu Dzar dan rasullullah tentang suhuf Ibrahim yang isinya permisalan-permisalan
 * wahai penguasa yang terperdaya sesungguhnya Aku tidak mengutusmu untuk mengumpulkan harta tetapi
