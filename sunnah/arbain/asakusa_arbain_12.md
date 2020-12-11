@@ -38,7 +38,7 @@ Mari kita belajar Hadits Nabi Muhammad Shallallahu'alaihi wasallam melalui tulis
   * waktu merenungkan dirinya sendiri
   * waktu berkholwat kepada Allah (Waktu ia untuk keperluan, eg makan dan minum)
   * dan waktu yang ke-4 itu untuk 3 waktu yang lain
-* bagi orang yang berakal, tidak berusaan kecuali dalam 3 hal
+* bagi orang yang berakal, tidak berurusan kecuali dalam 3 hal
   * berbekal untuk akhirat
   * mencari bekal untuk penghidupan
   * merasakan kenikmatan pada selain yang diharamkan
@@ -52,13 +52,15 @@ Mari kita belajar Hadits Nabi Muhammad Shallallahu'alaihi wasallam melalui tulis
 * di dalamnya berisi pelajaran/ibrah
 * mengherankan kondisi orang yang meyakini adanya, bgmn mereka bisa tertawa?
 * mengherankan kondisi orang yang meyakini kematian, bgmn mereka bisa bergembira?
-* mengherankan kondis orang yang melihat dunia, ...
-* mengherankan kondis orang yang yakinin hisab, tetapi tidak beramal
+* mengherankan kondisi orang yang melihat dunia, ...
+* mengherankan kondisi orang yang yakinin hisab, tetapi tidak beramal
 
 ## Abu Dzar: apakah masih tersisa dari kedua suhuf itu
 * Rasulullah: Al 'ala: 14 - 19
 * https://quran.com/87/14-19
-
+* https://almanhaj.or.id/3837-bagaimana-cara-allah-subhanahu-wa-taala-menjaga-dan-memelihara-sunnah.html
+  * garansi kemurnian tidak berlaku pada kitab/syuhuf lain: Ibrahim, Musa, Isa
+  
 ## Abu Dzar: Nasihatilah saya
 * bertakwa kepada Allah, karena itu adalah pokok semua urusanmu
   * takwa: takut, menjaga diri dari apa yang ia takuti
