@@ -75,3 +75,15 @@ Mari kita belajar Hadits Nabi Muhammad Shallallahu'alaihi wasallam melalui tulis
   membebankan dirinya dgn hal yang tidak bermanfaat baginya
 * Rasulullah: Wahai Abu Dzar, tidak ada akal seperti akal yang terkendali, 
   tiada wara' seperti menahan diri, tiada kabaikan seperti akhlak yang baik
+
+# tambahan dari Fathul Mubiin
+* jika seorang mencukupkan pada hal yang bermanfaat, maka ia akan selamat dari keburukan
+  * hal itu menunjukkan kebaikan islamnya, kekuatan imannya dan hakikat ketakwaannya, dan
+    kemampuannya menjauhkan hawa nafsu karena kesibukan dgn kebaikan ukhrawi dan penolakannya
+    terhadap tujuan syahwat dunia semata
+* waktu/hari sebagai kantong amal
+  * hadist: hari akan datang sebagai makluk pada hari kiamat
+* Dari Al Hasan: di antara tanda penolakan Allah terhadap seorang adalah Allah menjadikannya sibuk
+  dalam hal yang tidak berguna baginya
+* Dari Anas: jihad bisa batal dgn bicara yang asal, dan ia bakhil dgn apa yang ia tidak perlukan
+* Hadist: tidaklah bergeser kedua kaki seorang hamba nanti pada kiatam sehingga ...
