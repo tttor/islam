@@ -65,3 +65,13 @@ Mari kita belajar Hadits Nabi Muhammad Shallallahu'alaihi wasallam melalui tulis
 * bacalah Quran dan banyaklah ingat (dzikir) Allah, maka Allah akan mengingatmu di langit
   * dzikir yang utama adalah dgn Quran
 * berjihadlah karena jihad adalah rabbaniyah nya orang beriman
+* Diamlah karena diam dapat mengusir setan darimu dan membantumu atas perkara agamamu
+  * berkata baik atau diam
+  * jumhur ulama: berkata baik (aktif) itu lebih baik dari diam
+* Katakanlah kebenaran meskipun itu pahit
+* Janganlah menghalangimua dari Allah, celaan orang orang yang mencela
+* Sambunglah hubungan meskipun ia memutuskanmu
+* Keburukan seseorang sesuai dgn ketidaktahuannya terhadap dirinya dan 
+  membebankan dirinya dgn hal yang tidak bermanfaat baginya
+* Rasulullah: Wahai Abu Dzar, tidak ada akal seperti akal yang terkendali, 
+  tiada wara' seperti menahan diri, tiada kabaikan seperti akhlak yang baik
