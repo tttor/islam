@@ -82,8 +82,8 @@ Mari kita belajar Hadits Nabi Muhammad Shallallahu'alaihi wasallam melalui tulis
     kemampuannya menjauhkan hawa nafsu karena kesibukan dgn kebaikan ukhrawi dan penolakannya
     terhadap tujuan syahwat dunia semata
 * waktu/hari sebagai kantong amal
-  * hadist: hari akan datang sebagai makluk pada hari kiamat
   * https://tafsirweb.com/37385-quran-surat-al-ashr.html
+  * ada hadist: hari akan datang sebagai makluk pada hari kiamat
 * Dari Al Hasan: di antara tanda penolakan Allah terhadap seorang adalah Allah menjadikannya sibuk
   dalam hal yang tidak berguna baginya
 * Dari Anas: jihad bisa batal dgn bicara yang asal, dan ia bakhil dgn apa yang ia tidak perlukan
