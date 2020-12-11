@@ -71,7 +71,7 @@ Mari kita belajar Hadits Nabi Muhammad Shallallahu'alaihi wasallam melalui tulis
   * berkata baik atau diam
   * jumhur ulama: berkata baik (aktif) itu lebih baik dari diam
 * Katakanlah kebenaran meskipun itu pahit
-* Janganlah menghalangimua dari Allah, celaan orang orang yang mencela
+* Janganlah menghalangimu dari Allah, celaan orang orang yang mencela
 * Sambunglah hubungan meskipun ia memutuskanmu
 * Keburukan seseorang sesuai dgn ketidaktahuannya terhadap dirinya dan 
   membebankan dirinya dgn hal yang tidak bermanfaat baginya
@@ -90,3 +90,7 @@ Mari kita belajar Hadits Nabi Muhammad Shallallahu'alaihi wasallam melalui tulis
   dalam hal yang tidak berguna baginya
 * Dari Anas: jihad bisa batal dgn bicara yang asal, dan ia bakhil dgn apa yang ia tidak perlukan
 * Hadist: tidaklah bergeser kedua kaki seorang hamba nanti pada kiatam sehingga ...
+
+# Q and A
+* https://republika.co.id/berita/lxy715/kisah-sahabat-nabi-saad-bin-abi-waqqash-lelaki-penghuni-surga
+  * https://tafsirweb.com/7499-quran-surat-luqman-ayat-15.html
