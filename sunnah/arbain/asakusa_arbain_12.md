@@ -22,19 +22,46 @@ Mari kita belajar Hadits Nabi Muhammad Shallallahu'alaihi wasallam melalui tulis
 * Dari rasullullah:
   di antara kebaikan Islam seseorang adalah meninggalkan hal yang tidak bermanfaat baginya
   yaitu .... baik perkataan dan perbuatan, baik dunia atau akhirat
-* diskusi Abu Dzar dan rasullullah tentang suhuf Ibrahim yang isinya permisalan-permisalan
-  * wahai penguasa yang terperdaya sesungguhnya Aku tidak mengutusmu untuk mengumpulkan harta tetapi
-    mengutusmu untuk menolah/mencegah dari Ku doanya orang-orang yang dizhalimi,
-    sesungguhnya Aku tidak akan menolak doa mereka meskipun dari orang kafir
-  * tidak boleh dzalim (termasuk kepada orang kafir), kaedah Islam: menegakkan keadilan,
-    karena ia seorang manusia
-  * bagi orang yang berakal, selama akalnya tidak dikalahkan, seharusnya ia memiliki 4 waktu
-    * waktu untuk bermunajat (meminta) kepada Rabbnya
-    * waktu untuk berfikir tentang ciptaan Allah
-    * waktu merenungkan dirinya sendiri
-    * waktu berkholwat kepada Allah (Waktu ia untuk keperluan, eg makan dan minum)
-    * dan waktu yang ke-4 itu untuk 3 waktu yang lain
-  * bagi orang yang berakal, tidak berusaan kecuali dalam 3 hal
-    * berbekal untuk akhirat
-    * mencari bekal untuk penghidupan
-    * merasakan kenikmatan pada selain yang diharamkan
+
+## diskusi Abu Dzar dan rasullullah tentang suhuf Ibrahim yang isinya permisalan-permisalan
+* wahai penguasa yang terperdaya sesungguhnya Aku tidak mengutusmu untuk mengumpulkan harta tetapi
+  mengutusmu untuk menolah/mencegah dari Ku doanya orang-orang yang dizhalimi,
+  sesungguhnya Aku tidak akan menolak doa mereka meskipun dari orang kafir
+  * https://tafsirweb.com/4674-quran-surat-al-isra-ayat-70.html hak manusia, hak asasi manusia
+  * http://alquranalhadi.com/index.php/kajian/tema/1748/allah-memuliakan-anak-turunan-adam
+  * hak manusia meningkat sesuai dgn sifatnya, eg tetangga, seorang muslim, etc
+* tidak boleh dzalim (termasuk kepada orang kafir), kaedah Islam: menegakkan keadilan,
+  karena ia seorang manusia
+* bagi orang yang berakal, selama akalnya tidak dikalahkan, seharusnya ia memiliki 4 waktu
+  * waktu untuk bermunajat (meminta) kepada Rabbnya
+  * waktu untuk berfikir tentang ciptaan Allah
+  * waktu merenungkan dirinya sendiri
+  * waktu berkholwat kepada Allah (Waktu ia untuk keperluan, eg makan dan minum)
+  * dan waktu yang ke-4 itu untuk 3 waktu yang lain
+* bagi orang yang berakal, tidak berusaan kecuali dalam 3 hal
+  * berbekal untuk akhirat
+  * mencari bekal untuk penghidupan
+  * merasakan kenikmatan pada selain yang diharamkan
+* bagi orang yang berakal
+  * memahami zamannya
+  * memperhatikan keadaannya
+  * menjaga lisannya
+* Siapa yang menilai kalam sebagai bagian ... ucapannya akan sedikit yaitu pada yang bermanfaat
+
+## Abu Dzar bertanya tentang shuhuf Musa
+* di dalamnya berisi pelajaran/ibrah
+* mengherankan kondisi orang yang meyakini adanya, bgmn mereka bisa tertawa?
+* mengherankan kondisi orang yang meyakini kematian, bgmn mereka bisa bergembira?
+* mengherankan kondis orang yang melihat dunia, ...
+* mengherankan kondis orang yang yakinin hisab, tetapi tidak beramal
+
+## Abu Dzar: apakah masih tersisa dari kedua suhuf itu
+* Rasulullah: Al 'ala: 14 - 19
+* https://quran.com/87/14-19
+
+## Abu Dzar: Nasihatilah saya
+* bertakwa kepada Allah, karena itu adalah pokok semua urusanmu
+  * takwa: takut, menjaga diri dari apa yang ia takuti
+* bacalah Quran dan banyaklah ingat (dzikir) Allah, maka Allah akan mengingatmu di langit
+  * dzikir yang utama adalah dgn Quran
+* berjihadlah karena jihad adalah rabbaniyah nya orang beriman
