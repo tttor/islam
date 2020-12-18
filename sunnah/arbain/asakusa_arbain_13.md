@@ -26,3 +26,10 @@ Nasihat al-Ghazali tentang Hasad.
 * datang ke Badr, tetapi tidak terhitung sbg ahli Badr
 * meninggal di Basrah, 90 H, usia sekitar 99/100 tahun, sahabat yang terakhir meniggal di Basrah
   * di 100 H, semua sahabat telah meninggal, Abu Tufail Amir 
+
+# syarah
+* memaknai hadist ini kepada persaudaraan yang umum (al insaniyah) termasuk orang kafir dan orang muslim
+  * agar orang kafir itu untuk bisa memeluk agama Islam,
+    * disunnahkan: doa agar yang kafir bisa menjadi muslim
+  * agar saudara muslimnya bisa istiqomah di atas agama Islam
+  
