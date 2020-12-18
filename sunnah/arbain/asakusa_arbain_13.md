@@ -79,3 +79,7 @@ Nasihat al-Ghazali tentang Hasad.
     * hilangnya ancaman di akhirat
     * menjadi kecil kemungkinan mengulang
     * taubat tanpa dihukumpun bisa, kecuali terkait dgn hak seorang
+ * pembeda utamnya adalah kalimat La illahalillah
+   * cf. sikat nabi terhadap orang munafik 
+     (yang akbar, masuk Islam ingin melindungi dirinya, terjadi setelah perang Badr)
+ * https://rumaysho.com/17362-bulughul-maram-adab-enam-hak-sesama-muslim.html
