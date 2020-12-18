@@ -63,4 +63,19 @@ Nasihat al-Ghazali tentang Hasad.
 * Apa kau cinta surga? saya berkata, ya: maka cintailah bagi saudaramu apa yang kai cintai 
   untuk dirimu (Musnad Imam Ahmad)
 
-  
+# Q and A
+* berdosakah seorang muslim jika tidak pernah bisa memaafkan orang yang pernah mendzoliminya? 
+  * tidak memaafkan: diberlakukan hukum sesuai syariat adalah boleh
+  * menyerahkan urusan itu kepada hukum
+  * yang lebih baik memaafkan, kalau pemberian maaf itu membawa yang baik
+  * marah/kesal/dendam berkesimbungan adalah musibah bagi kita
+  * Nabi adalah seorang yang pemaaf
+  * menyadari Allah adalah maha Bijaksana, semua yg terjadi atas izin Allah,
+    semua yang terjadi adalah ujian bagi kita, 
+    tidak ada manfaatnya dendam
+  * dgn qisas itu, dgn ditegakkan hukum Islam:
+    * penegakan hukum adalah keberhakan bagi orang tersebut
+    * bisa menjadi sebab dosanya hilang, 
+    * hilangnya ancaman di akhirat
+    * menjadi kecil kemungkinan mengulang
+    * taubat tanpa dihukumpun bisa, kecuali terkait dgn hak seorang
