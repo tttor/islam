@@ -53,3 +53,14 @@ Nasihat al-Ghazali tentang Hasad.
     orang lain itu lebih tinggi darinya dari sisi kenikmatan
   * ketiganya haram karena tidak ridha terhadap pembagian dari Allah, 
     * https://tafsirweb.com/9228-quran-surat-az-zukhruf-ayat-32.html
+    * tiap manusia wajib mengobati dan mengarahkan jiwanya untuk ridha atas ketetapan Allah
+
+# tambahan
+* cintailah bagi manusia apa yang Engkau cintai untuk dirimu, 
+  maka Engkau menjadi seorang muslim (HR Tirmidzi)
+* Iman yang paling baik adalha kau cinta bagi manusia apa yang kau cintai,
+  dan benci bagi mereka apa yang kau benci untuk dirimu (HR Ahmad)
+* Apa kau cinta surga? saya berkata, ya: maka cintailah bagi saudaramu apa yang kai cintai 
+  untuk dirimu (Musnad Imam Ahmad)
+
+  
