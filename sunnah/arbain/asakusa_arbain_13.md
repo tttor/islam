@@ -32,4 +32,24 @@ Nasihat al-Ghazali tentang Hasad.
   * agar orang kafir itu untuk bisa memeluk agama Islam,
     * disunnahkan: doa agar yang kafir bisa menjadi muslim
   * agar saudara muslimnya bisa istiqomah di atas agama Islam
-  
+* hadist ini juga dimaknai sbg penafian terhadap kesempurnaan iman
+  * yang hilang adalah *kesempurnaan* iman
+  * bukan berarti hilang secara total keimanannya
+* Lafadz dari Imam Ahmad
+  * seorang hamba tidak akan mencapai hakikat keimanan ... bagi manusia yang 
+    kita senangi berupa kebaikan
+* Yg dimaksud cinta adalah menghendaki kebaikan dan kemanfaatan (bagi yang dicintai)
+  * yg dimaksud adalah cinta sbg bentuk .... cinta al basyariyah
+    * cinta yang timbul/dibentuk oleh agama
+  * karena jiwa/tabi'at manusia seringkali membenci adanya kebaikan/keunggulan orang lain terhadapnya
+    * tabi'at ini wajib dilawan
+    * otherwise, seorang terjatuh dalam hasad, dengki
+* tingkatan hasad
+  * 1: berharap hilangnya kenikmatan pada orang lain dan berpindah kenikmatan itu bagi nya
+  * 2: berharap hilangnya kenikmatan orang lain, meskipun hal itu memang telah ia miliki,
+    atau ia tidak senang saudaranya mendapatkan hal itu
+    * lebih buruk dari yang pertama
+  * 3: ia tidak berharap hilangnya kenikmatan dari orang lain, namun ia membenci kondisi bahwa 
+    orang lain itu lebih tinggi darinya dari sisi kenikmatan
+  * ketiganya haram karena tidak ridha terhadap pembagian dari Allah, 
+    * https://tafsirweb.com/9228-quran-surat-az-zukhruf-ayat-32.html
