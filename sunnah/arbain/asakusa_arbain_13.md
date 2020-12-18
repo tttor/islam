@@ -79,6 +79,8 @@ Nasihat al-Ghazali tentang Hasad.
     * hilangnya ancaman di akhirat
     * menjadi kecil kemungkinan mengulang
     * taubat tanpa dihukumpun bisa, kecuali terkait dgn hak seorang
+  * https://tafsirweb.com/677-quran-surat-al-baqarah-ayat-178.html
+  * https://tafsirweb.com/679-quran-surat-al-baqarah-ayat-179.html
  * pembeda utamnya adalah kalimat La illahalillah
    * cf. sikat nabi terhadap orang munafik 
      (yang akbar, masuk Islam ingin melindungi dirinya, terjadi setelah perang Badr)
@@ -87,4 +89,6 @@ Nasihat al-Ghazali tentang Hasad.
    * Jika ada halangan/udzur, maka wajib menjawab, meng infokan, 
      eg sakit, hari yang panas/dingin (cuaca), sibuk dalam menjaga harta (tidak terbatas pada hal ini)
 * Seorang muslim adalah cermin bagi saudaranya
-
+* https://bincangsyariah.com/khazanah/ubay-bin-kaab-allah-perintah-nabi-membacakan-al-quran-kepadanya/
+  * Dalam kitab Fadhail al-Shahabat karya Imam al-Nasa’i disebutkan bahwa Rasulullah saw bersabda kepada ubay bin Ka’ab, “Sungguh Allah swt memerintahkanku untuk membacakan al-Quran kepadamu.” Ubay menanyakan, “Dia menyebut namaku?” Rasul menegaskan, “Ya, Dia menyebut namamu.” Tumpahlah air mata Ubay bin Ka’ab.
+* Ahli kitab: Yahudi dan Nasrani
