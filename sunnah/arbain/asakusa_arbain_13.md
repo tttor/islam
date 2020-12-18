@@ -83,3 +83,8 @@ Nasihat al-Ghazali tentang Hasad.
    * cf. sikat nabi terhadap orang munafik 
      (yang akbar, masuk Islam ingin melindungi dirinya, terjadi setelah perang Badr)
  * https://rumaysho.com/17362-bulughul-maram-adab-enam-hak-sesama-muslim.html
+   * Sedangkan Imam Ash-Shan’ani rahimahullah dalam Subul As-Salam menyatakan bahwa yang wajib adalah menghadiri undangan walimah nikah karena ada ancaman dalam hadits jika tidak menghadirinya, sedangkan undangan lainnya dihukumi sunnah.
+   * Jika ada halangan/udzur, maka wajib menjawab, meng infokan, 
+     eg sakit, hari yang panas/dingin (cuaca), sibuk dalam menjaga harta (tidak terbatas pada hal ini)
+* Seorang muslim adalah cermin bagi saudaranya
+
