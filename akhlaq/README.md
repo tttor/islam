@@ -11,7 +11,10 @@
 * https://rumaysho.com/3393-meraih-sifat-qana-ah.html
 
 # Misc
-* Kami ikut berbelasungkawa.
+* Assalamualaikum warahmatullahi wabarakaatuh, kami ikut berbelasungkawa.
+Semoga Allah memuliakanlah tempat kembali Ayahanda,
+melapangkan kuburnya, memberinya nikmat kubur, dan memasukkannya ke dalam surga Allah kelak.
+Aamiin.Kami ikut berbelasungkawa.
 “Bersabarlah dan berharaplah pahala dari Allah, sesungguhnya adalah hak Allah mengambil dan memberikan sesuatu, segala sesuatu di sisi-Nya ada batas waktu yang telah ditentukan.” [HR. Al-Bukhari dan Muslim]
 Referensi: https://almanhaj.or.id/4012-adab-adab-taziyah-bela-sungkawa-shalat-jenazah-dan-tata-cara-penguburannya.html
 * “Semoga Allah memberkahi anak ini untukmu dan menjadikannya orang baik yang bertaqwa”. Aamiin.
