@@ -88,6 +88,8 @@ Adab berdo'a dan sebab-sebab dikabulkannya do'a?
     * komunikasi dgn Allah, dan 
     * berbahasa Arab, dilafadzan (bukan di dalam hati)
   * dilarang membaca ayat Quran di sujud: berdoa dgn lafazd yang diambil dari Quran
+    * Membaca do’a yang berasal dari Al Qur’an ketika sujud itu dibolehkan selama niatannya bukanlah untuk tilawah, namun untuk berdo’a
+    * https://rumaysho.com/1095-bolehkah-ketika-sujud-membaca-doa-yang-asalnya-dari-al-quran.html
   * https://rumaysho.com/8514-berdoa-dengan-selain-bahasa-arab-dalam-shalat.html
   * https://konsultasisyariah.com/5592-doa-sujud.html
   * https://muslim.or.id/56873-berdoa-dengan-bahasa-indonesia-di-dalam-shalat.html
@@ -96,8 +98,9 @@ Adab berdo'a dan sebab-sebab dikabulkannya do'a?
   * pendapat: mengulangi doa-doa yang sudah ada dalilnya (tauqifiyah, ada nash nya)
   * pendapat: boleh dalam hati, sehingga bisa non-arab
   * https://konsultasisyariah.com/29283-hukum-berdoa-dalam-hati.html
-  * Membaca do’a yang berasal dari Al Qur’an ketika sujud itu dibolehkan selama niatannya bukanlah untuk tilawah, namun untuk berdo’a
-    * https://rumaysho.com/1095-bolehkah-ketika-sujud-membaca-doa-yang-asalnya-dari-al-quran.html
+  * [00:52, 23/12/2020] Topan Setiadipura: Imam Nawawi berkata: (al-adzkar nya Imam Nawawi. Di gasal yg ke-14).
+‘Ketahuilah, bahwa dzikir-dzikir yang disyari’atkan dalam sholat atau selainnya, baik wajib ataupun sunnah/mustahab, tidak terhitung sebagai dzikir dan tidak dianggap dzikir hingga ia melafadzkan dzikir tersebut dimana ia sendiri dapat mendengarnya apabila pendengarannya baik, tidak ada yang menghalanginya (untuk mendengar).’
+  
 * Do’a setelah makan yang
   menyebabkan diampuni dosa.
   Dari Mu’adz bin Anas, dari ayahnya
