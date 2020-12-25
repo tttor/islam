@@ -49,12 +49,14 @@ Pada dasarnya darah seorang muslim adalah terhormat dan tidak boleh ditumpahkan,
   sehingga aku menyangka bahwa ia akan memberikannya warisan
 * Nabi berkata: siapa yang mengganggu tetangganya, maka Allah menguasakan ia terhadap rumahnya
 * QS An nisa: 36
+  * https://tafsirweb.com/1568-quran-surat-an-nisa-ayat-36.html
 * Tetangga itu berlaku pada 4 kondisi
   * orang yang tinggal bersama dalam rumah
   * orang yang tinggal tepat disamping rumah Anda
   * 40 rumah dari setiap penjuru
   * siapa yang tinggal bersamamu dalam satu negeri/daerah
     * QS Al Ahzab 60
+    * https://tafsirweb.com/7672-quran-surat-al-ahzab-ayat-60.html
  * maka tetangga yang dekat dan muslim ia memiliki 3 hak (dekat, tetangga, muslim)
    * sedangkan tetanga muslim yang jauh ia punya 2 hak (tetangga, muslim)
    * orang yang muslim namun jauh (beda daerah/negeri), maka ia punya 1 hak (muslim)
