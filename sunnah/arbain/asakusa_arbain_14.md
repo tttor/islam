@@ -62,4 +62,7 @@ Pada dasarnya darah seorang muslim adalah terhormat dan tidak boleh ditumpahkan,
  * Apakah menjamu tamu itu berlaku bagi orang yg menetap atau yang nomaden?
    * Imam Syafii, Imam Malik: khusus pada yang nomaden saja
    
-  
+  # Q and A
+  * mempersilakan tamu, mengimami shalat, termasuk memuliakan tamu?
+    * ans: secara umum, tidak termasuk 
+   
