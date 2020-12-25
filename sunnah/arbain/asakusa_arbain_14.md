@@ -77,3 +77,8 @@ Pada dasarnya darah seorang muslim adalah terhormat dan tidak boleh ditumpahkan,
     * orang yang ber-agama punya prinsip: semua akan dibalas secara adil oleh Allah;
       motivasi akhirat dalam berbuat baik (walau tidak dibalas didunia),
       de-motivasi untuk berbuat zalim (karena balasan di akhirat adalah pasti)
+* Seorang muslim: memberikan kabahagian bagi seorang
+  * takziah: semangat memberikan kabahagiaan bagi yg sedih
+* syaikh ibnu utsaimin: baik dalam ucapannya dan baik dalam maksud yang diucapkannya 
+  * juga baik cara dan isi ucapannya
+  
