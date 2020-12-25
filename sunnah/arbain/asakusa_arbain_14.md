@@ -15,7 +15,7 @@ Pada dasarnya darah seorang muslim adalah terhormat dan tidak boleh ditumpahkan,
   * dia memuliakan tamunya
 * HR Bukhari Muslim
 
-# syarah
+# syarah, part 1
 * iman itu perkataan/amalan hati dan perkataan/amalan lisan
 * Imam Syafii: Jika seorang hendak bicara maka hendaklah ia berfikir
   * jika tidak ada mudharat, maka lanjut bicara
@@ -26,4 +26,19 @@ Pada dasarnya darah seorang muslim adalah terhormat dan tidak boleh ditumpahkan,
   * Jangan marah
   * tidak berima seorang dari kalian, hingga ia mencitai bagi saudaranya hal yang ia cintai 
     untuk dirinya sendiri
-  
+* Diam pada waktunya adalah sifar para tokoh sebagaimana halnya bicara pada waktunya,
+  merupakan sifat orang yang mulia
+  * Siapa yang diam terhadap kebenaran, maka ia adalah setan bisu
+* Manusia tidak seharusnya mengeluarkan ucapan kecuali apa yang dibutuhkan
+  * sebagaimana ia tidak mengeluarkan dari usahnya apa yang dibutuhkan
+* Dari Nabi: di antara tanda kefahaman agama seorang adalh sedikit bicara dalam 
+  apa yang tidak berguna baginya
+* Dari Nabi (hadist dhaif/lemah): Keselamatan terletak pada 10 bagian.
+  Sembilan darinya terletak pada diam kecuali untuk dzikit kepada Allah 
+* Siapa yang diam maka ia selamat, sbgmn orang yang berkata maka ia akan mendapat sesuatu.
+* Mengapa Anda membiasakan diri untuk diam.
+  Karena kita tidak pernah menyesal atas diamnya kita,
+  dan kita sering menyesal kita sering menyesal
+* Luka (karena) lisan seperti luka tangan
+  * Lisan itu seperti anjing yang mengigit, jika dibiarkan maka ia akan menggigit
+
