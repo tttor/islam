@@ -69,3 +69,11 @@ Pada dasarnya darah seorang muslim adalah terhormat dan tidak boleh ditumpahkan,
     * ans: secara umum, tidak termasuk 
     * ahlul bait punya hak untuk memimpin
 * Ada hak tuan rumah, untuk menutup pintu, tidak menerima tamu
+* Iman kepada Allah dan hari Akhir sering disandingkan bersama 
+  karena 2 iman itu adalah top-2 yang dapat membuat seorang bisa berubah,
+  * top-1: iman kepada Allah
+  * iman kepada hari akhir: akan mati, adzab/nikmat kubur, hisab, ada surga dan neraka
+    * https://tafsirweb.com/53-quran-surat-al-fatihah-ayat-4.html
+    * orang yang ber-agama punya prinsip: semua akan dibalas secara adil oleh Allah;
+      motivasi akhirat dalam berbuat baik (walau tidak dibalas didunia),
+      de-motivasi untuk berbuat zalim (karena balasan di akhirat adalah pasti)
