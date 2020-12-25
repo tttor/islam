@@ -22,16 +22,16 @@ Pada dasarnya darah seorang muslim adalah terhormat dan tidak boleh ditumpahkan,
   * namun jika mendatangkan mudharat atau ragu, maka hendalkah menahan diri/tidak bicara
 * Semua adab kebaikan berasal dari 4 hadists berikut
   * Siapa yang beriman kepada Allah dan hari akhir ...
-  * Diantara kebaika Islam seseorang adalah meninggalkan apa yang tidak bermanfaat
+  * Diantara kebaikan Islam seseorang adalah meninggalkan apa yang tidak bermanfaat
   * Jangan marah
-  * tidak berima seorang dari kalian, hingga ia mencitai bagi saudaranya hal yang ia cintai 
+  * tidak beriman seorang dari kalian, hingga ia mencintai bagi saudaranya hal yang ia cintai 
     untuk dirinya sendiri
-* Diam pada waktunya adalah sifar para tokoh sebagaimana halnya bicara pada waktunya,
+* Diam pada waktunya adalah sifat para tokoh sebagaimana halnya bicara pada waktunya,
   merupakan sifat orang yang mulia
   * Siapa yang diam terhadap kebenaran, maka ia adalah setan bisu
 * Manusia tidak seharusnya mengeluarkan ucapan kecuali apa yang dibutuhkan
-  * sebagaimana ia tidak mengeluarkan dari usahnya apa yang dibutuhkan
-* Dari Nabi: di antara tanda kefahaman agama seorang adalh sedikit bicara dalam 
+  * sebagaimana ia tidak mengeluarkan dari usahanya apa yang dibutuhkan
+* Dari Nabi: di antara tanda kefahaman agama seorang adalah sedikit bicara dalam 
   apa yang tidak berguna baginya
 * Dari Nabi (hadist dhaif/lemah): Keselamatan terletak pada 10 bagian.
   Sembilan darinya terletak pada diam kecuali untuk dzikit kepada Allah 
@@ -43,11 +43,11 @@ Pada dasarnya darah seorang muslim adalah terhormat dan tidak boleh ditumpahkan,
   * Lisan itu seperti anjing yang mengigit, jika dibiarkan maka ia akan menggigit
 
 # syarah, part 2
-* muliakan tetangga ddan tamu
-* siapa yang komitmen pada syariat Islam, maka ia memuliakn tamu dan tetangga
+* muliakan tetangga dan tamu
+* siapa yang komitmen pada syariat Islam, maka ia memuliakan tamu dan tetangga
 * Nabi bersabda: Jibril terus menerus berwasiat kepadaku untuk berbuat baik pada tetangga, 
   sehingga aku menyangka bahwa ia akan memberikannya warisan
-* Nabi berkata: siapa yang menggaggu tetangganya, maka Allah menguasakna ia terhadap rumahnya
+* Nabi berkata: siapa yang mengganggu tetangganya, maka Allah menguasakan ia terhadap rumahnya
 * QS An nisa: 36
 * Tetangga itu berlaku pada 4 kondisi
   * orang yang tinggal bersama dalam rumah
@@ -65,4 +65,4 @@ Pada dasarnya darah seorang muslim adalah terhormat dan tidak boleh ditumpahkan,
   # Q and A
   * mempersilakan tamu, mengimami shalat, termasuk memuliakan tamu?
     * ans: secara umum, tidak termasuk 
-   
+    * ahlul bait punya hak untuk memimpin
