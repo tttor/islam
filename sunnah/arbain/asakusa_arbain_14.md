@@ -57,14 +57,15 @@ Pada dasarnya darah seorang muslim adalah terhormat dan tidak boleh ditumpahkan,
   * siapa yang tinggal bersamamu dalam satu negeri/daerah
     * QS Al Ahzab 60
     * https://tafsirweb.com/7672-quran-surat-al-ahzab-ayat-60.html
- * maka tetangga yang dekat dan muslim ia memiliki 3 hak (dekat, tetangga, muslim)
-   * sedangkan tetanga muslim yang jauh ia punya 2 hak (tetangga, muslim)
-   * orang yang muslim namun jauh (beda daerah/negeri), maka ia punya 1 hak (muslim)
- * menjamu tamu adalah adab islam dan akhlak para nabi dan orang shalih
- * Apakah menjamu tamu itu berlaku bagi orang yg menetap atau yang nomaden?
-   * Imam Syafii, Imam Malik: khusus pada yang nomaden saja
+* maka tetangga yang dekat dan muslim ia memiliki 3 hak (dekat, tetangga, muslim)
+  * sedangkan tetanga muslim yang jauh ia punya 2 hak (tetangga, muslim)
+  * orang yang muslim namun jauh (beda daerah/negeri), maka ia punya 1 hak (muslim)
+* menjamu tamu adalah adab islam dan akhlak para nabi dan orang shalih
+* Apakah menjamu tamu itu berlaku bagi orang yg menetap atau yang nomaden?
+  * Imam Syafii, Imam Malik: khusus pada yang nomaden saja
    
-  # Q and A
-  * mempersilakan tamu, mengimami shalat, termasuk memuliakan tamu?
+ # Q and A
+* mempersilakan tamu, mengimami shalat, termasuk memuliakan tamu?
     * ans: secara umum, tidak termasuk 
     * ahlul bait punya hak untuk memimpin
+* Ada hak tuan rumah, untuk menutup pintu, tidak menerima tamu
