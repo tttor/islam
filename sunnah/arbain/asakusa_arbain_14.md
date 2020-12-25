@@ -42,3 +42,21 @@ Pada dasarnya darah seorang muslim adalah terhormat dan tidak boleh ditumpahkan,
 * Luka (karena) lisan seperti luka tangan
   * Lisan itu seperti anjing yang mengigit, jika dibiarkan maka ia akan menggigit
 
+# syarah, part 2
+* muliakan tetangga ddan tamu
+* siapa yang komitmen pada syariat Islam, maka ia memuliakn tamu dan tetangga
+* Nabi bersabda: Jibril terus menerus berwasiat kepadaku untuk berbuat baik pada tetangga, 
+  sehingga aku menyangka bahwa ia akan memberikannya warisan
+* Nabi berkata: siapa yang menggaggu tetangganya, maka Allah menguasakna ia terhadap rumahnya
+* QS An nisa: 36
+* Tetangga itu berlaku pada 4 kondisi
+  * orang yang tinggal bersama dalam rumah
+  * orang yang tinggal tepat disamping rumah Anda
+  * 40 rumah dari setiap penjuru
+  * siapa yang tinggal bersamamu dalam satu negeri/daerah
+    * QS Al Ahzab 60
+ * maka tetangga yang dekat dan muslim ia memiliki 3 hak (dekat, tetangga, muslim)
+   * sedangkan tetanga muslim yang jauh ia punya 2 hak (tetangga, muslim)
+   * orang yang muslim namun jauh (beda daerah/negeri), maka ia punya 1 hak (muslim)
+ * menjamu tamu adalah adab islam dan akhlak para nabi dan orang shalih
+  
