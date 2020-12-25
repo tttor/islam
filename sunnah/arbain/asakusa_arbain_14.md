@@ -59,4 +59,7 @@ Pada dasarnya darah seorang muslim adalah terhormat dan tidak boleh ditumpahkan,
    * sedangkan tetanga muslim yang jauh ia punya 2 hak (tetangga, muslim)
    * orang yang muslim namun jauh (beda daerah/negeri), maka ia punya 1 hak (muslim)
  * menjamu tamu adalah adab islam dan akhlak para nabi dan orang shalih
+ * Apakah menjamu tamu itu berlaku bagi orang yg menetap atau yang nomaden?
+   * Imam Syafii, Imam Malik: khusus pada yang nomaden saja
+   
   
