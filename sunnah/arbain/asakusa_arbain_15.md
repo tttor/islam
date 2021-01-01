@@ -80,6 +80,7 @@ Apa saja? dan bagaimana pelajaran2 dari hadits ini?
   mereka yang menyebabkan mereka diperangi (eg tidak mau bayar zakat)
 
 # Q and A
-* https://rumaysho.com/10453-membela-diri-dari-tukang-begal-hingga-syahid.html
+* https://almanhaj.or.id/6333-hukum-bunuh-menanti-para-pembegal.html
+  * https://rumaysho.com/10453-membela-diri-dari-tukang-begal-hingga-syahid.html
   * https://konsultasisyariah.com/24410-hukum-membunuh-begal.html
   
