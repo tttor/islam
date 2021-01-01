@@ -40,4 +40,24 @@ Apa saja? dan bagaimana pelajaran2 dari hadits ini?
 * yaitu dgn syarat kesetaraan, 
   * maka tidak dibunuh seorang muslim yg membunuh kafir
   * begitupun orang yang merdeka
+* Al baqarah: 179
+  * https://tafsirweb.com/679-quran-surat-al-baqarah-ayat-179.html
+  * 1: orang tidak akan mudah membunuh orang lain (sbg bentuk pencegahan)
+  * 2: sebagai cara untuk menghapus kesalahan tersebut (tergantung penerimaan nya terhadap hukuman)
+
+# dan orang yang meninggalkan agama ...
+* yaitu orang yang murtad, semoga Allah melindungi kia dari hal ini
+* meninggalkan agama Islam, karena hadist ini bicara tentang seorang muslim
+* dalam riwayat Muslim: "... meninggalkan Islam"
+  * seorang perawi (setelah tingkatan ilmu yg tinggi) boleh meriwayatkan dgn makna
+* orang yang menghina agama secara batih maupun dhohir
+  * sujud kpd makhluk
+  * menyembelih atas nama seseorang
+  * melempar quran, buku hadist buku ilmu Islam pada tempat yang hina (meskipun suci, eg ludah)
+* tidak termasuk dalam hal ini, orang non-muslim pindah ke muslim
+  * kafir dimmi, kafir harbi
+* keluar dari jamaah kaum muslimin, misal kaum khawarij, orang yang memberontak dari kepemimpinan
+  kaum muslimim, atau yang menolak penegakan kewajiban 
+  mereka yang menyebabkan mereka diperangi (eg tidak mau bayar zakat)
+
   
