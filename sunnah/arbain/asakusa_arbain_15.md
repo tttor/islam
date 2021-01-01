@@ -40,6 +40,8 @@ Apa saja? dan bagaimana pelajaran2 dari hadits ini?
     * yang merdeka
     * terjadi hubungan badan dalam nikah yg sah
   * yg tidak mukhson: 100 cambukan dan diasingkan selama 1 tahun, sejauh perjalan yg menyebabkan qasar
+* zina: telah masuk kepala kemaluan pria pada kemaluan wanita, 
+  dan jelas orangnya, faktanya (diperlukan 4 saksi)
   
 # dan jiwa dgn jiwa
 * yaitu dgn syarat kesetaraan, 
