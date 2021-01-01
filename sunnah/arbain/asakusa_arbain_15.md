@@ -15,4 +15,15 @@ Apa saja? dan bagaimana pelajaran2 dari hadits ini?
   * orang yang sudah menikah yang melakukan zina
   * jiwa dibalas dgn jiwa
   * orang yg meninggalkan agamanya lagi memisahkan diri dari jamaah (kaum muslimin)
+    * murtad keluar dari agama Islam
 * Lafalz imam Bukhari
+
+# dari fathul mubin
+* Hadist ini termasuk kaidah yang perlu hati2 saat membahas
+  karena terkait dgn hal yang bahaya, ie darah seorang muslim
+* pada asalnya darah seorang muslim terjaga
+  * orang yang menolong pembunuhan seorang muslim dgn sepotong kata, 
+    ia akan bertemu Allah dgn tertulis di antara kedua matanya: orang yg putus asa dari rahmat Allah
+* Yang meneksekusi adalh pemimpin, pemerintah, tidak individual
+  * karena ada maslahat umum dari penegakan hukum ini,
+    yaitu penjagaan jiwa, nasab, dan agama
