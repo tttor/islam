@@ -47,6 +47,10 @@ Apa saja? dan bagaimana pelajaran2 dari hadits ini?
   * 1: sengaja membunuh (yg dihukum dgn qisas)
     * kalau dimaafkan oleh keluarga dari orang yg dibunuh maka ia wajib membayar sesuatu (diyat)
       kepada keluarga tersebut dgn segera
+    * orang yg membunuh baligh dan berakal
+    * ornng yg membunuh bukan bapak dari yang dibunuh
+      (tetap sebagai dosa besar, tetapi secara hukum tidak di qisas)
+    * orang yang membunuh setara dgn yg dibunuh
   * 2: tidak sengaja membunuh
   * 3: sengaja tetapi salah, eg sengaja memukul tetapi sampai mati
 * Hadist: Hilangnya dunia lebih ringan di sisi Allah daripada terbunuhnya seorang muslim tanpa haq
