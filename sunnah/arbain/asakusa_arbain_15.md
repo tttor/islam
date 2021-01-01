@@ -28,7 +28,7 @@ Apa saja? dan bagaimana pelajaran2 dari hadits ini?
     yaitu penjagaan jiwa, nasab, dan agama
 
 # orang yang telah menikah berzina
-* adalah orang yang terlah menikah secara sah lalu berzina setelah itu maka ia dirajam
+* adalah orang yang telah menikah secara sah lalu berzina setelah itu maka ia dirajam
   * dan telah berhubungan badan
   * dikubur sampai kepala, kemudian dilempar batu
 * meskipun, apabila ketika ia berzina sedang tidak menikah tetap dihukumi rajam karena
@@ -74,8 +74,12 @@ Apa saja? dan bagaimana pelajaran2 dari hadits ini?
   * melempar quran, buku hadist buku ilmu Islam pada tempat yang hina (meskipun suci, eg ludah)
 * tidak termasuk dalam hal ini, orang non-muslim pindah ke muslim
   * kafir dimmi, kafir harbi
+    * https://tafsirweb.com/10854-quran-surat-al-mumtahanah-ayat-8.html
 * keluar dari jamaah kaum muslimin, misal kaum khawarij, orang yang memberontak dari kepemimpinan
   kaum muslimim, atau yang menolak penegakan kewajiban 
   mereka yang menyebabkan mereka diperangi (eg tidak mau bayar zakat)
 
+# Q and A
+* https://rumaysho.com/10453-membela-diri-dari-tukang-begal-hingga-syahid.html
+  * https://konsultasisyariah.com/24410-hukum-membunuh-begal.html
   
