@@ -8,7 +8,6 @@ Pada dasarnya darah seorang muslim adalah terhormat dan tidak boleh ditumpahkan,
 namun hadits ini mengajarkan beberapa kondis yang bisa menyebabkan sesuatu yang asalnya terhormat itu boleh ditumpahkan. 
 Apa saja? dan bagaimana pelajaran2 dari hadits ini?   
 
-
 # matan
 * Dari Ibnu Mas'ud, Rasullullah bersabda
 * Tidak halal darah seorang muslim (mereka yg bersyahadat) kecuali salah satu dari 3 perkara
@@ -44,6 +43,13 @@ Apa saja? dan bagaimana pelajaran2 dari hadits ini?
   * https://tafsirweb.com/679-quran-surat-al-baqarah-ayat-179.html
   * 1: orang tidak akan mudah membunuh orang lain (sbg bentuk pencegahan)
   * 2: sebagai cara untuk menghapus kesalahan tersebut (tergantung penerimaan nya terhadap hukuman)
+* pembunuhan ada 3 jenis
+  * 1: sengaja membunuh (yg dihukum dgn qisas)
+    * kalau dimaafkan oleh keluarga dari orang yg dibunuh maka ia wajib membayar sesuatu (diyat)
+      kepada keluarga tersebut dgn segera
+  * 2: tidak sengaja membunuh
+  * 3: sengaja tetapi salah, eg sengaja memukul tetapi sampai mati
+* Hadist: Hilangnya dunia lebih ringan di sisi Allah daripada terbunuhnya seorang muslim tanpa haq
 
 # dan orang yang meninggalkan agama ...
 * yaitu orang yang murtad, semoga Allah melindungi kia dari hal ini
