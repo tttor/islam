@@ -34,6 +34,12 @@ Apa saja? dan bagaimana pelajaran2 dari hadits ini?
 * meskipun, apabila ketika ia berzina sedang tidak menikah tetap dihukumi rajam karena
   disifati sbg al-ihshoon
   * jika cerai, atau ditinggal mati
+* 2 jenis orang berzina
+  * yg mukhson: hukumnya dirajam
+    * baligh dan berakal (both: mukallaf)
+    * yang merdeka
+    * terjadi hubungan badan dalam nikah yg sah
+  * yg tidak mukhson: 100 cambukan dan diasingkan selama 1 tahun, sejauh perjalan yg menyebabkan qasar
   
 # dan jiwa dgn jiwa
 * yaitu dgn syarat kesetaraan, 
