@@ -27,3 +27,17 @@ Apa saja? dan bagaimana pelajaran2 dari hadits ini?
 * Yang meneksekusi adalh pemimpin, pemerintah, tidak individual
   * karena ada maslahat umum dari penegakan hukum ini,
     yaitu penjagaan jiwa, nasab, dan agama
+
+# orang yang telah menikah berzina
+* adalah orang yang terlah menikah secara sah lalu berzina setelah itu maka ia dirajam
+  * dan telah berhubungan badan
+  * dikubur sampai kepala, kemudian dilempar batu
+* meskipun, apabila ketika ia berzina sedang tidak menikah tetap dihukumi rajam karena
+  disifati sbg al-ihshoon
+  * jika cerai, atau ditinggal mati
+  
+# dan jiwa dgn jiwa
+* yaitu dgn syarat kesetaraan, 
+  * maka tidak dibunuh seorang muslim yg membunuh kafir
+  * begitupun orang yang merdeka
+  
