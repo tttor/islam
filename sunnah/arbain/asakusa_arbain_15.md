@@ -23,7 +23,7 @@ Apa saja? dan bagaimana pelajaran2 dari hadits ini?
 * pada asalnya darah seorang muslim terjaga
   * orang yang menolong pembunuhan seorang muslim dgn sepotong kata, 
     ia akan bertemu Allah dgn tertulis di antara kedua matanya: orang yg putus asa dari rahmat Allah
-* Yang meneksekusi adalh pemimpin, pemerintah, tidak individual
+* Yang meng-eksekusi adalh pemimpin, pemerintah, tidak individual
   * karena ada maslahat umum dari penegakan hukum ini,
     yaitu penjagaan jiwa, nasab, dan agama
 
