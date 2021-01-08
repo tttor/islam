@@ -31,6 +31,21 @@ Tapi bagiamana cara kita menahan amarah? Simak pesan nabi Isa yg dinukil Imma Na
   Tidakla kamu melihat salah seorang dali kalian.
   Ketika ia marah, bagaimana kedua matanya menjadi merah, urat jadi tegang.
   Jika seorang dali kalian merasakan jal tiu, maka berbaringlah atau tiduranlah.
+* Hadist: Ya rasullullah, ajarkan kepadaku suatu ilmu yang mendekatkanku kepada surga dan menjauhkanku dari neraka.
+  Beliau: "Jangan marah, dan bagimu surga"
+* Marah dari syaitan, dari api, maka jika marah hendaklah berwudhu
+* Hadist: dari Abu Dzar al Ghifari, rasullulah berkata
+  * jika seorang dari kaliam marah, dan ia sedang berdiri, hendaklah duduk, jika rasa marah tidah hilang maka berbaringlah
+* Berkata Isa: sesungguhnya saya mengajari kamu ilmu yang bermanfaat, "Janganlah marah".
+  * bagaimana caranya?
+  * Jika dikatakan kepadamu apa yang terdapat pada dirimu maka katakanlah: 
+    Dosa yang kamu sebutkan, saya mohon ampun kepada Allah.
+  * Jika yang dikatakan tidak terdapat, bersyukurlah bahwa keburuhan itu tidak ada pada diri kita
+* Hadist: dari Amr bin al-'Ash ... "jangan marah"
+* Luqman berkata kepada putranya,
+  jika kamu hendak menjadikan seseorang sbg saudaramu, maka buatlah ia marah.
+  Jika ia berlaku adil kepadamu pada saat marah, maka jadikanlah sbg saudara.
+  Jika tidak maka berhati-hatilah terhadapnya
   
 
 # F and Q
@@ -38,3 +53,4 @@ Tapi bagiamana cara kita menahan amarah? Simak pesan nabi Isa yg dinukil Imma Na
   * Letakkan tangannya pada bagian tubuh yg sakit
   * Bismillah 3x
   * Doa 7 kali: Aku berlindung dgn kemuliaan Allah dan kekuasaan dari keburukan yang kudapat dan kutakutan
+* https://almanhaj.or.id/12160-jangan-marah-kamu-akan-masuk-surga-2.html
