@@ -1,5 +1,40 @@
 # asakusa_arbain_16.md
 8 Jan 2021
 
-Tahan amarah, bagimu surga.
-Surga adalah cita-cita utama kita, dalam hadits ini Rasuulullah mengajarkan salah satu cara mendapatkannya yaitu dengan menahan amarah kita. Tapi bagiamana cara kita menahan amarah? Simak pesan nabi Isa yg dinukil Imma Nawawi dalam penjelasan hadits ini.      
+Tahan amarah (Laa tagdhob), bagimu surga.
+Surga adalah cita-cita utama kita, dalam hadits ini Rasuulullah mengajarkan salah satu cara mendapatkannya yaitu dengan menahan amarah kita. 
+Tapi bagiamana cara kita menahan amarah? Simak pesan nabi Isa yg dinukil Imma Nawawi dalam penjelasan hadits ini.      
+
+# matan
+* dari Abu Hurairah (sahabat yg paling banyak meriwayatkan hadist)
+* seseorang bertanya kepada nabi, berilah saya nasihat
+* Rasullullah bersabda: jangan marah
+* Orang itu mengulanginya berkali-kali, 
+  beliau menjawab ulang berkali kali: Jangan marah
+  
+# siapa orang tersebut
+* 1) probably: Abu Darda, sebagaimana diriwayatkan dari Ath-Thabrani
+  * Dari Abu Darda, Aku berkata: Ya rasulullah, tunjukkan kepada amalan yang bisa menyebabkan aku masuh surga
+    "janganlah kamu marah bagimu
+* 2) probably Jariyah bin Qudamah
+    
+# syarah
+* perkataan "jangan marah" bermakna
+  jangan luapkan amarahmu, bukan larangan untuk timbulnya rasa marah
+  * karena rasa marah adalah tabi'at manusia dan tidak mungkin manusia menghindarinya
+* https://tafsirweb.com/9126-quran-surat-asy-syura-ayat-36.html
+  * https://tafsirweb.com/9127-quran-surat-asy-syura-ayat-37.html
+  * * https://tafsirweb.com/9132-quran-surat-asy-syura-ayat-42.html
+* https://tafsirweb.com/1265-quran-surat-ali-imran-ayat-133.html
+  * https://tafsirweb.com/1266-quran-surat-ali-imran-ayat-134.html
+* Hadist: janganlah kalian marah, karena kemarahan adalah bara api yang menyala nyala di hati manusia,
+  Tidakla kamu melihat salah seorang dali kalian.
+  Ketika ia marah, bagaimana kedua matanya menjadi merah, urat jadi tegang.
+  Jika seorang dali kalian merasakan jal tiu, maka berbaringlah atau tiduranlah.
+  
+
+# F and Q
+* dari kita Ad-dzakar Imam Nawawi
+  * Letakkan tangannya pada bagian tubuh yg sakit
+  * Bismillah 3x
+  * Doa 7 kali: Aku berlindung dgn kemuliaan Allah dan kekuasaan dari keburukan yang kudapat dan kutakutan
