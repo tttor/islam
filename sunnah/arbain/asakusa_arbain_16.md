@@ -47,6 +47,10 @@ Tapi bagiamana cara kita menahan amarah? Simak pesan nabi Isa yg dinukil Imma Na
   Jika ia berlaku adil kepadamu pada saat marah, maka jadikanlah sbg saudara.
   Jika tidak maka berhati-hatilah terhadapnya
   
+# Marah jikalau kehormatan syara' dilanggar dan membantu untuk kemenangan Agama Allah
+* https://pusatalquran.org/2017/05/13/riyadhus-shalihin-bab-77-marah-jikalau-kehormatan-kehormatan-syara-dilanggar-dan-membantu-untuk-kemenangan-agama-allah-taala/
+* https://tafsirweb.com/5766-quran-surat-al-hajj-ayat-30.html
+* https://tafsirweb.com/9643-quran-surat-muhammad-ayat-7.html
 
 # F and Q
 * dari kita Ad-dzakar Imam Nawawi
@@ -54,3 +58,5 @@ Tapi bagiamana cara kita menahan amarah? Simak pesan nabi Isa yg dinukil Imma Na
   * Bismillah 3x
   * Doa 7 kali: Aku berlindung dgn kemuliaan Allah dan kekuasaan dari keburukan yang kudapat dan kutakutan
 * https://almanhaj.or.id/12160-jangan-marah-kamu-akan-masuk-surga-2.html
+  * Barangsiapa menahan amarah padahal ia mampu melakukannya, pada hari Kiamat Allah k akan memanggilnya di hadapan seluruh makhluk, kemudian Allah menyuruhnya untuk memilih bidadari yang ia sukai.
+  * Hasan. HR Ahmad (III/440), Abu Dawud (no. 4777), at-Tirmidzi (no. 2021), dan Ibnu Majah (no. 4286) dari Sahabat Mu’adz bin Anas al-Juhani Radhiyallahu anhu. Dihasankan oleh Syaikh al-Albâni dalam Shahîh al-Jâmi’ish Shaghîr (no. 6522).
