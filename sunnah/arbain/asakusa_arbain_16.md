@@ -65,3 +65,4 @@ Tapi bagiamana cara kita menahan amarah? Simak pesan nabi Isa yg dinukil Imma Na
   * bersabar dan bersifat lemah lembut
   * memberi contoh
   * https://almanhaj.or.id/13410-perintahkan-keluargamu-untuk-mendirikan-shalat-2.html
+* Dr. Shalih bin Ghanim assadlan, Fiqih shalat berjama'ah, Pustaka Assunah, 2011 
