@@ -13,10 +13,10 @@ Tapi bagiamana cara kita menahan amarah? Simak pesan nabi Isa yg dinukil Imma Na
   beliau menjawab ulang berkali kali: Jangan marah
   
 # siapa orang tersebut
-* 1) probably: Abu Darda, sebagaimana diriwayatkan dari Ath-Thabrani
+1) probably: Abu Darda, sebagaimana diriwayatkan dari Ath-Thabrani
   * Dari Abu Darda, Aku berkata: Ya rasulullah, tunjukkan kepada amalan yang bisa menyebabkan aku masuh surga
     "janganlah kamu marah bagimu
-* 2) probably Jariyah bin Qudamah
+2) probably Jariyah bin Qudamah
     
 # syarah
 * perkataan "jangan marah" bermakna
