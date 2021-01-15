@@ -66,3 +66,12 @@ Mari kita simak bagaiman nasihat Rasuulullah shallallahu'alaihiwasallam dan penj
 
 # Q and A
 * https://rumaysho.com/16305-hadits-arbain-17-berbuat-ihsan-pada-segala-sesuatu.html
+* Sepertinya terkait ihsan dalam beribadah: melihat Allah?
+Dari Jabir Radhiyallahu anhu, dia mengatakan bahwa Rasulullah Shallallahu ‘alaihi wa sallam bersabda:
+“Sesungguhnya jika salah seorang dari kalian berdiri untuk shalat, maka sesungguhnya Allah Tabaraka wa Ta’ala berada di hadapannya. ..."
+REF:  Shahih: [Shahiih Muslim (IV/2303 no. 3008)] dan Sunan Abi Dawud (‘Aunul Ma’buud) (II/144 no. 477).
+Referensi: https://almanhaj.or.id/589-dimakruhkan-dalam-shalat-diperbolehkan-dalam-shalat-dan-yang-membatalkan-shalat.html
+* Di mana / bagaimana posisi infak di masjid dalam konteks QS An Nisa 36?
+Apakah infak di masjid adalah sebagai salah satu sarana/jalur saja?
+"...Dan berbuat baiklah kepada dua orang ibu-bapa, karib-kerabat, anak-anak yatim, orang-orang miskin, tetangga yang dekat dan tetangga yang jauh, dan teman sejawat, ibnu sabil dan hamba sahayamu..."
+Referensi: https://tafsirweb.com/1568-quran-surat-an-nisa-ayat-36.html
