@@ -10,7 +10,7 @@ Mari kita simak bagaiman nasihat Rasuulullah shallallahu'alaihiwasallam dan penj
 * Sesungguhnya Allah memerintahkan berbuat baik terhadap segala sesuatu.
 * Jika kalian membunuh, maka bunuhlah dgn cara yang baik,
   dan jika kalian menyembelih, maka sembelihlah dgn cara yang baik,
-  dan hendaklah salah seorang dari kalian menajamkan pisaunya serta membuat hewanny merasa nyaman.
+  dan hendaklah salah seorang dari kalian menajamkan pisaunya serta membuat hewannya merasa nyaman.
 * HR Muslim
 * kataba: menulis, dalam hal ini berarti 
   * menuntut, mewajibkan, 
@@ -22,7 +22,6 @@ Mari kita simak bagaiman nasihat Rasuulullah shallallahu'alaihiwasallam dan penj
 * Al-ihsan adalah hal hal yang dinilai baik oleh syariat bukan oleh akal semata, 
   (berbeda dgn pemahaman mu'tazilah)
 * Al-ihsan adalah memperbaiki amal amal yang disyariatkan, tidak semata memberi kebaikan pada orang lain
-  * karena makna yang perta
   * Ihsan dalam amalan kembali kepada kita dan orang lain
   * Mengerjakan ibadah apapun dgn sebaik mungkin
 * dalam setiap makhluk yang ada hatinya (manusia, hewan), maka kebaikan terhadapnya mendapatkan pahala
@@ -35,8 +34,8 @@ Mari kita simak bagaiman nasihat Rasuulullah shallallahu'alaihiwasallam dan penj
 
 # syarah Imam Nawawi
 * termasuk dalam kategori berbuat baik:
-  ketika seorang muslim dalma hukum qishash adalah dgn mencari
-* tidak boleh memoton sesuatu dari bagian tubuhnya hingga mati, tidak mengasah pisau di depan hewan tersebut,
+  ketika seorang muslim dalam hukum qishash adalah dgn mencari
+* tidak boleh memotong sesuatu dari bagian tubuhnya hingga mati, tidak mengasah pisau di depan hewan tersebut,
   dan memberi air kepadanya sebelum disembelih
 * tidak menyembelih hewan yang sedang menyusui dan memiliki anak hingga anak hewan tersebut tidak butuh terhadap susunya,
   jangan menyembelih di depan hewan yang lain
@@ -51,17 +50,16 @@ Mari kita simak bagaiman nasihat Rasuulullah shallallahu'alaihiwasallam dan penj
    * https://tafsirweb.com/9017-quran-surat-fussilat-ayat-35.html  
 * ada juga bentuk ihsan dalam shalat: seakan-akan melihat Allah, meyakini dilihat Allah
   * https://rumaysho.com/26-mengenal-tingkatan-islam.html
-  * "seakan melihat Allah", merupakan majas, disini merasa Allah ada di depannya
+  Dalam pengertian ihsan ini terdapat dua tingkatan. Tingkatan pertama disebut tingkatan musyahadah yaitu seseorang beribadah kepada Allah, seakan-akan dia melihat-Nya. Perlu ditekankan bahwa yang dimaksudkan di sini adalah bukan melihat zat Allah, namun melihat sifat-sifat-Nya. Apabila seorang hamba sudah memiliki ilmu dan keyakinan yang kuat terhadap sifat-sifat Allah, dia akan mengembalikan semua tanda kekuasaan Allah pada sifat-sifat-Nya. Dan inilah tingkatan tertinggi dalam derajat Ihsan.
+  * "**seakan** melihat Allah", merupakan majas, disini merasa Allah ada di depannya
     * bukan seperti melihat Allah disurga; Allah hanya bisa dilihat oleh ahlul surga
     * https://almanhaj.or.id/12078-syarah-hadits-jibril-tentang-islam-iman-dan-ihsan-3.html
-    ia merasakan kedekatan Allah dan ia berada di depan Allah seolah-olah melihatNya. 
+    ia merasakan kedekatan Allah dan ia berada di depan Allah **seolah-olah** melihatNya. 
     Hal ini menimbulkan rasa takut, segan dan mengagungkan Allah, 
     seperti dalam riwayat Abu Hurairah: “Hendaknya engkau takut kepada Allah seolah-olah engkau melihatNya”.
-      Artinya, sepenuhnya ikhlas untuk beribadah hanya kepada Allah dengan penuh perhatian, sehingga seolah-olah engkau         melihatNya. Jika engkau tidak mampu seperti itu, 
+    ... Artinya, sepenuhnya ikhlas untuk beribadah hanya kepada Allah dengan penuh perhatian, sehingga seolah-olah engkau         melihatNya. Jika engkau tidak mampu seperti itu, 
       maka ingatlah bahwa Allah senantiasa melihatmu dan mengetahui apapun yang ada pada dirimu.
+  *  “Ihsan adalah engkau beribadah kepada Allah seakan-akan engkau melihat-Nya” maksudnya ibadah tersebut dibangun di atas keikhlasan dan ittiba’ (mengikuti tuntunan) Rasulullah shallallahu ‘alaihi wa sallam. Seakan-akan melihat-Nya maksudnya adalah ibadah itu dilakukan atas dasar cinta kepada Allah. Sebab cinta inilah yang mendorong seseorang melakukan ibadah. https://rumaysho.com/16868-hadits-arbain-02-ihsan-dan-tanda-kiamat.html
 
-Referensi: https://almanhaj.or.id/12078-syarah-hadits-jibril-tentang-islam-iman-dan-ihsan-3.html 
-  
 # Q and A
-
-
+* https://rumaysho.com/16305-hadits-arbain-17-berbuat-ihsan-pada-segala-sesuatu.html
