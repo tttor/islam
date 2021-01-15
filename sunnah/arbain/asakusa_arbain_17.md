@@ -17,5 +17,11 @@ Mari kita simak bagaiman nasihat Rasuulullah shallallahu'alaihiwasallam dan penj
   * memerintah secara umum (ada yang sunnah dan ada yang wajib)
     * eg wajib: berbuat baik kepada orang tua
 
-# syarah 
-* 
+# syarah dari fathul mubin (Ibnu Hajar al Haitami)
+* Al ihsan, bentuk asal dari "berbuat baik (ahsana)" jika seorang mengerjakan kebaikan
+* Al-ihsan adalah hal hal yang dinilai baik oleh syariat bukan oleh akal semata, 
+  (berbeda dgn pemahaman mu'tazilah)
+* Al-ihsan adalah memperbaiki amal amal yang disyariatkan, tidak semata memberi kebaikan pada orang lain
+  * karena makna yang perta
+  * Ihsan dalam amalan kembali kepada kita dan orang lain
+  * Mengerjakan ibadah apapun dgn sebaik mungkin
