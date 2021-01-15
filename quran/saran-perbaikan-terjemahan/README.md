@@ -36,3 +36,5 @@
 * https://diy.kemenag.go.id/2430-kemenag-luncurkan-terjemahan-al-qur039an-edisi-penyempurnaan.html
 * https://id.wikipedia.org/wiki/Lajnah_Pentashihan_Mushaf_Al-Qur%27an
 * https://lajnah.kemenag.go.id/
+* https://tdjamaluddin.wordpress.com/2020/03/25/benarkah-besi-diturunkan-dari-langit/
+  * https://muslim.okezone.com/read/2020/08/07/614/2258380/alquran-dan-sains-ungkap-asal-usul-besi-dalam-surah-al-hadid
