@@ -43,6 +43,7 @@ Mari kita simak bagaiman nasihat Rasuulullah shallallahu'alaihiwasallam dan penj
 * An Nisa 36 https://tafsirweb.com/1568-quran-surat-an-nisa-ayat-36.html ... berbuat baik kepada
   * ibu bapak, karib kerabat, anak yatim, orang miskin, tetangga dekat dan jauh, teman sejawat, 
     ibnu sabil (orang yang sedang dalam perjalanan), hamba sahaya
+  * note: tidak semua kerabat, tidak semua anak yatim membutuhkan bantuan finansial, cf miskin
  * https://tafsirweb.com/9016-quran-surat-fussilat-ayat-34.html
    ... Tolaklah (kejahatan itu) dengan cara yang lebih baik ...
    * adalah sunnah, batas minimum tidak membalas lebih, tidak melampaui batas
