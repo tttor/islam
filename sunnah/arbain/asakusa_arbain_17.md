@@ -51,3 +51,17 @@ Mari kita simak bagaiman nasihat Rasuulullah shallallahu'alaihiwasallam dan penj
    * https://tafsirweb.com/9017-quran-surat-fussilat-ayat-35.html  
 * ada juga bentuk ihsan dalam shalat: seakan-akan melihat Allah, meyakini dilihat Allah
   * https://rumaysho.com/26-mengenal-tingkatan-islam.html
+  * "seakan melihat Allah", merupakan majas, disini merasa Allah ada di depannya
+    * bukan seperti melihat Allah disurga; Allah hanya bisa dilihat oleh ahlul surga
+    * https://almanhaj.or.id/12078-syarah-hadits-jibril-tentang-islam-iman-dan-ihsan-3.html
+    ia merasakan kedekatan Allah dan ia berada di depan Allah seolah-olah melihatNya. 
+    Hal ini menimbulkan rasa takut, segan dan mengagungkan Allah, 
+    seperti dalam riwayat Abu Hurairah: “Hendaknya engkau takut kepada Allah seolah-olah engkau melihatNya”.
+      Artinya, sepenuhnya ikhlas untuk beribadah hanya kepada Allah dengan penuh perhatian, sehingga seolah-olah engkau         melihatNya. Jika engkau tidak mampu seperti itu, 
+      maka ingatlah bahwa Allah senantiasa melihatmu dan mengetahui apapun yang ada pada dirimu.
+
+Referensi: https://almanhaj.or.id/12078-syarah-hadits-jibril-tentang-islam-iman-dan-ihsan-3.html 
+  
+# Q and A
+
+
