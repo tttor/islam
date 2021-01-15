@@ -31,6 +31,7 @@ Mari kita simak bagaiman nasihat Rasuulullah shallallahu'alaihiwasallam dan penj
 * berkata Al Khothobi: 
   karena para ulama adalah pewaris nabi dan diantara yang mereka warisi dari nabi adalah mengajarkan manusia al-ihsan,
   cara berlaku ihsaan dan memerintahkan kebaikan kepada segala sesuatu
+  * para ulama memainkan peran para nabi
 
 # syarah Imam Nawawi
 * termasuk dalam kategori berbuat baik:
@@ -49,4 +50,4 @@ Mari kita simak bagaiman nasihat Rasuulullah shallallahu'alaihiwasallam dan penj
      eg memaafkan pembunuh
    * https://tafsirweb.com/9017-quran-surat-fussilat-ayat-35.html  
 * ada juga bentuk ihsan dalam shalat: seakan-akan melihat Allah, meyakini dilihat Allah
-  
+  * https://rumaysho.com/26-mengenal-tingkatan-islam.html
