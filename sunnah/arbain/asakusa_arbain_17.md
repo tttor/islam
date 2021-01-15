@@ -21,7 +21,7 @@ Mari kita simak bagaiman nasihat Rasuulullah shallallahu'alaihiwasallam dan penj
 * Al ihsan, bentuk asal dari "berbuat baik (ahsana)" jika seorang mengerjakan kebaikan
 * Al-ihsan adalah hal hal yang dinilai baik oleh syariat bukan oleh akal semata, 
   (berbeda dgn pemahaman mu'tazilah, ie sekte yang mementingkan akal dibandingkan dgn syariat;
-  bukan ahlul ro'yi eg imam Abu Hanifah)
+  note bukan ahlul ro'yi eg imam Abu Hanifah)
 * Al-ihsan adalah memperbaiki amal amal yang disyariatkan, tidak semata memberi kebaikan pada orang lain
   * Ihsan dalam amalan kembali kepada kita dan orang lain
   * Mengerjakan ibadah apapun dgn sebaik mungkin
