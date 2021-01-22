@@ -16,7 +16,7 @@ Berusaha Taqwa Dimana Saja, Kapan Saja
 * Yg bisa membantu untuk bertakwa kepada Allah
   * dgn menghadirkan keyakinan bahwa Allah melihat hamba dalam setiap
   * https://tafsirweb.com/10761-quran-surat-al-mujadilah-ayat-7.html
-* Taqwa adalha kalimat yang maknanya mengumpulkan semua hal berupa pengamalan hal yang wajib dan
+* Taqwa adalah kalimat yang maknanya mengumpulkan semua hal berupa pengamalan hal yang wajib dan
   meninggalkan hal yang dilarang
 
 # Part 1b: Ikutilah keburukan dgn kebaikan, maka kebaikan akan menghapusnya
@@ -38,7 +38,7 @@ Berusaha Taqwa Dimana Saja, Kapan Saja
   * muhasabah dalah wajib, 
     * https://tafsirweb.com/10816-quran-surat-al-hasyr-ayat-18.html
     
-# Part 2: perlakukanlan manusia dgn akhlaq yang baik
+# Part 2: perlakukanlah manusia dgn akhlaq yang baik
 * akhlaq yang baik adalah kalimat yang mencakup semua perbuatan baik kepada manusia 
   dan menahan diri dari berlaku buruk pada mereka
 * yg terbaik diantara kalian adalah yang paling baik akhlaqnya
@@ -46,7 +46,7 @@ Berusaha Taqwa Dimana Saja, Kapan Saja
 * mukmin yang paling sempurna imannya adalah yang terbaik akhlaqnya, dan yang terbaik diantara mereka
   adalah yg paling baik akhlaqnya terhadap istri-istri mereka
 * Dari rasullullah: Allah memilihkan Islam untuk menjadi agama kalian 
-  .... sesungguhnya keimana tidak sempurna tanpa akhlaq yang mulia dan dermawan
+  .... sesungguhnya keimanan tidak sempurna tanpa akhlaq yang mulia dan dermawan
 * https://tafsirweb.com/2653-quran-surat-al-araf-ayat-199.html 
   * memberi maaf
   * hubungkan silaturhmi pada orang yang memotongnya
@@ -65,4 +65,4 @@ Berusaha Taqwa Dimana Saja, Kapan Saja
   * “Sebaik-baik kalian adalah orang yang mempelajari Al-Qur`an dan mengajarkannya”. (HR. Bukhori).
     * https://muslim.or.id/56281-makna-hadits-sebaik-baik-kalian-adalah-yang-mempelajari-alquran-dan-mengajarkannya.html
   * “Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia” (HR. Ahmad, ath-Thabrani, ad-Daruqutni. Hadits ini dihasankan oleh al-Albani di dalam Shahihul Jami’ no:3289)
-     * //muslimah.or.id/6435-pribadi-yang-bermanfaat.html
+     * https://muslimah.or.id/6435-pribadi-yang-bermanfaat.html
