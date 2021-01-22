@@ -41,6 +41,20 @@ Berusaha Taqwa Dimana Saja, Kapan Saja
 # Part 2: perlakukanlan manusia dgn akhlaq yang baik
 * akhlaq yang baik adalah kalimat yang mencakup semua perbuatan baik kepada manusia 
   dan menahan diri dari berlaku buruk pada mereka
-
-    
+* yg terbaik diantara kalian adalah yang paling baik akhlaqnya
+* hadist: seorang mendatangi rasullulah dan berkata apa amal yang paling baik, rasulullah menjawab: akhlaq mulia.
+* mukmin yang paling sempurna imannya adalah yang terbaik akhlaqnya, dan yang terbaik diantara mereka
+  adalah yg paling baik akhlaqnya terhadap istri-istri mereka
+* Dari rasullullah: Allah memilihkan Islam untuk menjadi agama kalian 
+  .... sesungguhnya keimana tidak sempurna tanpa akhlaq yang mulia dan dermawan
+* https://tafsirweb.com/2653-quran-surat-al-araf-ayat-199.html 
+  * memberi maaf
+  * hubungkan silaturhmi pada orang yang memotongnya
+  * tetap memberi pada orang yang enggan memberi
+  * https://tafsirweb.com/9016-quran-surat-fussilat-ayat-34.html
+    * balas dgn yang lebih baik
+* https://tafsirweb.com/11092-quran-surat-al-qalam-ayat-4.html
+  * aklaq rasul adalah al quran
+* Hadist shahih:
+  yang paling aku cintai dan yang paling dekat majelisnya dgnku adalah orang yang akhlaqnya mulia
   
