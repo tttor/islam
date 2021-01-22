@@ -7,7 +7,7 @@ Berusaha Taqwa Dimana Saja, Kapan Saja
 * Dari Abu Dzar Jundub bun Janadah dan Abu Abdirrahman, dari rasullullah
 * bertakwalah dimanapun kalian berada dan ikutilah kemaksiatan dgn kebaikan 
   maka kebaikan akan menghapusnya.
-  Perlakukanla manusia dgn akhlaq yang baik
+  Perlakukanlah manusia dgn akhlaq yang baik
 * HR Tirmidzi, Hasan, dalam sebagian naskah lain: hasan shohih (kriteria khas Imam Tirmidzi)
 
 # Part 1a: Bertaqwalah dimanapun kalian berada
@@ -58,3 +58,11 @@ Berusaha Taqwa Dimana Saja, Kapan Saja
 * Hadist shahih:
   yang paling aku cintai dan yang paling dekat majelisnya dgnku adalah orang yang akhlaqnya mulia
   
+# Q and A
+* https://almanhaj.or.id/12179-bertakwa-kepada-allah-dan-ahlak-yang-terpuji.html
+* “Hai manusia, sesungguhnya Kami menciptakan kamu dari seorang laki-laki dan seorang perempuan dan menjadikan kamu berbangsa-bangsa dan bersuku-suku supaya kamu saling kenal-mengenal. Sesungguhnya orang yang paling mulia di antara kamu di sisi Allah ialah orang yang paling taqwa di antara kamu. Sesungguhnya Allah Maha Mengetahui lagi Maha Mengenal.” (QS. Al Hujurat: 13)
+  * https://rumaysho.com/2029-yang-paling-mulia-yang-paling-bertakwa.html
+  * “Sebaik-baik kalian adalah orang yang mempelajari Al-Qur`an dan mengajarkannya”. (HR. Bukhori).
+    * https://muslim.or.id/56281-makna-hadits-sebaik-baik-kalian-adalah-yang-mempelajari-alquran-dan-mengajarkannya.html
+  * “Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia” (HR. Ahmad, ath-Thabrani, ad-Daruqutni. Hadits ini dihasankan oleh al-Albani di dalam Shahihul Jami’ no:3289)
+     * //muslimah.or.id/6435-pribadi-yang-bermanfaat.html
