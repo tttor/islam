@@ -56,12 +56,11 @@ maka mereka tidak bisa kecuali yang ditetapkan
     * Nabi: Jangan seperti itu, karena begitulah makhluk. Jadikanlah aku tidak perlu dari makhluk yang jelek
 * Adapun bergantung kepada makhluk adalah tidak boleh
   * boleh: meminta tolong dalam bermuamalah
-* riwayat tidak terlalu terpercyaHadist Qudsi-Nya, Allah swt berfirman :
- Apakah engkau mengetuh pintu selain Ku, 
- Benar benar akan saya pakaikan pakaina kehinaan 
- 
-  “Duhai hamba-Ku, kapan pintu-Ku tertutup sehingga engkau mengetuk pintu-pintu selain-Ku.”
-  * https://www.khazanahalquran.com/ketuklah-pintu-nya/
+* riwayat tidak terlalu terpercaya
+ Hadist Qudsi-Nya, Allah swt berfirman :
+ Apakah engkau mengetuh pintu selain Ku, ... akan dipakaikan pakaian kehinaan 
+ * “Duhai hamba-Ku, kapan pintu-Ku tertutup sehingga engkau mengetuk pintu-pintu selain-Ku.”
+   * https://www.khazanahalquran.com/ketuklah-pintu-nya/
 * https://tafsirweb.com/3381-quran-surat-yunus-ayat-107.html
 * nabi Musa berikhtiar, mencari sebab keselamatan
   * https://tafsirweb.com/7083-quran-surat-al-qashash-ayat-33.html
