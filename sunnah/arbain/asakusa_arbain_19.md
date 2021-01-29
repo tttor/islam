@@ -17,7 +17,7 @@ maka mereka tidak akan bisa beri manfaaat kecuali yang ditetapkan oleh Allah
 * dan jika umat ini berkumpul untuk memberi keburukan kepadamu,
 maka mereka tidak bisa kecuali yang ditetapkan
 * pena-pena telah diangkat, dan catatan takdir telah kering
-* HR Shohih: hasan shahih
+* HR Tirmidzi: hasan shahih
 * dalam riwayat lain
   * berkenalanlah kepada Allah dalam keadaan lapang/senang, maka Allah akan mengenalimu pada saat kesusahan
   * ketahuilah bahwa apa yang luput darimu tidak akan menimpamu,
@@ -26,4 +26,17 @@ maka mereka tidak bisa kecuali yang ditetapkan
   * dan jalan keluar ada beserta kesusahan
   * dan beserta kesulitan ada kemudahan
   
-# syarah
+# Jagalah Allah
+* yaitu jaga dan kerjakan perintah Allah dan jauhi larangan Nya
+* jika kau lakukan itu maka Allah akan menjagamu dalam berbagai keadaanmu, di dunia dan akhirat
+* An Nahl 97 https://tafsirweb.com/4445-quran-surat-an-nahl-ayat-97.html
+* https://tafsirweb.com/9120-quran-surat-asy-syura-ayat-30.html
+* amal sholeh akan bermanfaat dan menyelamatkan pelakunya di masa sulit
+  * dan amalan yang jelek akan mengantarkan pelakunya pada kesulitan
+  * nabi Yunus rajin bertasbih
+    * https://tafsirweb.com/8265-quran-surat-as-saffat-ayat-143.html
+    * https://tafsirweb.com/8266-quran-surat-as-saffat-ayat-144.html
+  * Firaun telah bertaubat
+    * https://tafsirweb.com/3364-quran-surat-yunus-ayat-90.html
+    * https://tafsirweb.com/3365-quran-surat-yunus-ayat-91.html
+    * taubat tertutup setelah nyawa di tenggorokan (yakin kematian itu telah datang)
