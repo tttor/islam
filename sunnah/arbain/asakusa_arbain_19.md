@@ -71,4 +71,7 @@ maka mereka tidak bisa kecuali yang ditetapkan
   * https://tafsirweb.com/715-quran-surat-al-baqarah-ayat-195.html
   * jika sudah bertemu musuh, maka sabar, jangan lari
 * ada 2 kemudahan yang menyertai 1 kesulitan  
+
+# Q and A
+* https://almanhaj.or.id/12197-jagalah-allah-subhanahu-wa-taala-niscaya-allah-subhanahu-wa-taala-menjagamu.html
   
