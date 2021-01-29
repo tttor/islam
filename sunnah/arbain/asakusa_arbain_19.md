@@ -78,6 +78,9 @@ maka mereka tidak bisa kecuali yang ditetapkan
   * ada 2 jenih kehendak Allah: 
     * iradah al kauniyah: yang tidak dicintai Allah
     * iradah syariah: yang dicintai Allah
+    * https://konsultasisyariah.com/10440-memahami-iradah-syariyah-dan-kauniyah.html
+    * https://almanhaj.or.id/3467-kehendak-allah-al-iraadah-ar-rabbaaniyyah.html
+    * https://rumaysho.com/19217-syarhus-sunnah-memahami-takdir-05.html
   * makhluk punyak hak/kesempatan untuk memilih (atas kehendak Allah dan Allah maha Tahu)
     * iblis telah melihat kebesaran Allah
     * iblis di ijinkan dipanjangkan umur
