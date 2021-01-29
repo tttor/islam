@@ -17,3 +17,13 @@ maka mereka tidak akan bisa beri manfaaat kecuali yang ditetapkan oleh Allah
 * dan jika umat ini berkumpul untuk memberi keburukan kepadamu,
 maka mereka tidak bisa kecuali yang ditetapkan
 * pena-pena telah diangkat, dan catatan takdir telah kering
+* HR Shohih: hasan shahih
+* dalam riwayat lain
+  * berkenalanlah kepada Allah dalam keadaan lapang/senang, maka Allah akan mengenalimu pada saat kesusahan
+  * ketahuilah bahwa apa yang luput darimu tidak akan menimpamu,
+  * dan apa yang menimpamu tidak akan luput darimu
+  * ketahuilah, pertolongan beserta kesabaran
+  * dan jalan keluar ada beserta kesusahan
+  * dan beserta kesulitan ada kemudahan
+  
+# syarah
