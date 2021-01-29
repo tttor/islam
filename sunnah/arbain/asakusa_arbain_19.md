@@ -36,7 +36,32 @@ maka mereka tidak bisa kecuali yang ditetapkan
   * nabi Yunus rajin bertasbih
     * https://tafsirweb.com/8265-quran-surat-as-saffat-ayat-143.html
     * https://tafsirweb.com/8266-quran-surat-as-saffat-ayat-144.html
+    * https://konsultasisyariah.com/20787-diselamatkan-karena-rajin-bertasbih.html
   * Firaun telah bertaubat
     * https://tafsirweb.com/3364-quran-surat-yunus-ayat-90.html
     * https://tafsirweb.com/3365-quran-surat-yunus-ayat-91.html
     * taubat tertutup setelah nyawa di tenggorokan (yakin kematian itu telah datang)
+  * ketika nabi Yusuf digoda
+    * https://tafsirweb.com/3762-quran-surat-yusuf-ayat-24.html
+
+# Jika kau meminta ...
+* isyarat bahwa seorang hamba tidak boleh menggantungkan nasibnya kepada selain Allah
+  * namun ia bertawakal (mengharapkan semua urusannya berjalan dgn baik) kepada Allah 
+* Jika hajat yang dimint menurut kebiasaan tidak diraih melalui makhlukn Nya, 
+  eg minta hidayah, ilmu, paham Quran dan sunnah, menyembuhkan orang sakit, meraih keselamatan dunia dan akhirat
+  * agar Allah melunakkan hati mereka (hamba hamba Mu) tersebut
+  * ketergantungan tetap pada Allah
+* Dan hendaknya, tidak boleh meminta Allah agar ia tidak perlu makhluk
+  * bahwa Nabi mendengar Ali: "Ya Allah jadikanlah kami tidak perlu makhluknya"
+    * Nabi: Jangan seperti itu, karena begitulah makhluk. Jadikanlah aku tidak perlu dari makhluk yang jelek
+* Adapun bergantung kepada makhluk adalah tidak boleh
+  * boleh: meminta tolong dalam bermuamalah
+* Hadist Qudsi-Nya, Allah swt berfirman :
+  “Duhai hamba-Ku, kapan pintu-Ku tertutup sehingga engkau mengetuk pintu-pintu selain-Ku.”
+  * https://www.khazanahalquran.com/ketuklah-pintu-nya/
+* https://tafsirweb.com/3381-quran-surat-yunus-ayat-107.html
+* nabi Musa berikhtiar, mencari sebab keselamatan
+  * https://tafsirweb.com/7083-quran-surat-al-qashash-ayat-33.html
+  * https://tafsirweb.com/5287-quran-surat-thaha-ayat-45.html
+  * https://tafsirweb.com/1603-quran-surat-an-nisa-ayat-71.html
+  * keselamatan adalah takdir Allah, begitu juga keburukan
