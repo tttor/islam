@@ -65,3 +65,7 @@ maka mereka tidak bisa kecuali yang ditetapkan
   * https://tafsirweb.com/5287-quran-surat-thaha-ayat-45.html
   * https://tafsirweb.com/1603-quran-surat-an-nisa-ayat-71.html
   * keselamatan adalah takdir Allah, begitu juga keburukan
+* jangan berharap yang buruk, tetapi mintalah keselamatan
+  * jika sudah bertemu musuh, maka sabar, jangan lari
+* ada 2 kemudahan yang menyertai 1 kesulitan  
+  
