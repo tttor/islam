@@ -74,4 +74,15 @@ maka mereka tidak bisa kecuali yang ditetapkan
 
 # Q and A
 * https://almanhaj.or.id/12197-jagalah-allah-subhanahu-wa-taala-niscaya-allah-subhanahu-wa-taala-menjagamu.html
-  
+* Kehendak/Keinginan Allah (iradatullah) bahwa suatu yang buruk terjadi meskipun tidak di cinta Allah (yg dicinta: semua taat kepada Allah), 
+  * ada 2 jenih kehendak Allah: 
+    * iradah al kauniyah: yang tidak dicintai Allah
+    * iradah syariah: yang dicintai Allah
+  * makhluk punyak hak/kesempatan untuk memilih (atas kehendak Allah dan Allah maha Tahu)
+    * iblis telah melihat kebesaran Allah
+    * iblis di ijinkan dipanjangkan umur
+    * kisah Firaun vs Musa
+    * Allah tidak pernah dzalim terhadap makhluknya
+    * Allah mengijinkan itu terjadi dengan hikmah
+  * pemahanan salah: "Yang baik dari Allah, yang buruk dari makhluk"
+    * karena berarti ada suatu yang terjadi di luar kehendak Allah
