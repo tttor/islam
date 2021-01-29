@@ -56,7 +56,10 @@ maka mereka tidak bisa kecuali yang ditetapkan
     * Nabi: Jangan seperti itu, karena begitulah makhluk. Jadikanlah aku tidak perlu dari makhluk yang jelek
 * Adapun bergantung kepada makhluk adalah tidak boleh
   * boleh: meminta tolong dalam bermuamalah
-* Hadist Qudsi-Nya, Allah swt berfirman :
+* riwayat tidak terlalu terpercyaHadist Qudsi-Nya, Allah swt berfirman :
+ Apakah engkau mengetuh pintu selain Ku, 
+ Benar benar akan saya pakaikan pakaina kehinaan 
+ 
   “Duhai hamba-Ku, kapan pintu-Ku tertutup sehingga engkau mengetuk pintu-pintu selain-Ku.”
   * https://www.khazanahalquran.com/ketuklah-pintu-nya/
 * https://tafsirweb.com/3381-quran-surat-yunus-ayat-107.html
@@ -66,6 +69,7 @@ maka mereka tidak bisa kecuali yang ditetapkan
   * https://tafsirweb.com/1603-quran-surat-an-nisa-ayat-71.html
   * keselamatan adalah takdir Allah, begitu juga keburukan
 * jangan berharap yang buruk, tetapi mintalah keselamatan
+  * https://tafsirweb.com/715-quran-surat-al-baqarah-ayat-195.html
   * jika sudah bertemu musuh, maka sabar, jangan lari
 * ada 2 kemudahan yang menyertai 1 kesulitan  
   
