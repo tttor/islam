@@ -32,4 +32,16 @@ Malu adalah bagian dari iman.
 * rasa malu adalah kebaikan, semuanya (HR Bukhari dan Muslim)
 * rasullullah lebih malu dari perawan yang ada dalam pingitannya (HR Bukhari dan Muslim)
 * sesungguhnya rasa malu adalah cabang dari keimanan (HR Bukhari dan Muslim)
-* jangan ganggu dia, sesungguhnya rasa malu adalah bagian dari iman (HR Bukhari dan Muslim)
+* jangan ganggu dia, sesungguhnya rasa malu adalah bagian dari iman (HR Bukhari dan Muslim
+  * rasa malu adalah sebab pokok keimanan dan akhlaq seseorang karena rasa malu mencegah dari
+    melakukan hal yang jelek dan mendorong pada hal yang baik sbgmn 
+    keimanan mencegah dari keburukan
+
+# apa itu rasa malu
+* rasa tertekan dan takut yang dirasakan seseorang dalam jiwanya ketika terlihat dalam 
+  keadaan jelek
+* sifat yang mendorong seseorang untuk meninggalkan hal yang jelek dan mencegahnya
+  dari kekurangan dalam memenuhi hak orang lain
+* Imam Abul Qasim al Junaid menyebutkan:
+  melihat nikma Allah di satu sisi dan di sisi lain melihat/menyadari kekurangan diri,
+  make lahirlah diantaranya keadaan yang dinamakan rasa malu
