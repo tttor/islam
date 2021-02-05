@@ -45,3 +45,12 @@ Malu adalah bagian dari iman.
 * Imam Abul Qasim al Junaid menyebutkan:
   melihat nikma Allah di satu sisi dan di sisi lain melihat/menyadari kekurangan diri,
   make lahirlah diantaranya keadaan yang dinamakan rasa malu
+  
+# Q and A
+* Telah diutus rasul di tiap umat
+  * budaya asalnya adalah nilai-nilai fitrah manusia (nilai nilai ajaran nabi),
+    tetapi kemudian berubah
+* Islam menghormati kearifakan lokal selama tidak bertentangan dgn syariat Islam
+* Syariat Islam (Nabi Muhammad) adalah yang (paling) sempurna
+  * Syariat nabi sebelumnya tidak sesempurna syariat Nabi terkakhir (Nabi Muhammad)
+    * namun syariat tersebut sempurna bagi umat dimana/disaat syariat itu ditujukan
