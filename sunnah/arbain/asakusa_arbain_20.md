@@ -50,7 +50,13 @@ Malu adalah bagian dari iman.
 * Telah diutus rasul di tiap umat
   * budaya asalnya adalah nilai-nilai fitrah manusia (nilai nilai ajaran nabi),
     tetapi kemudian berubah
+  * https://tafsirweb.com/4384-quran-surat-an-nahl-ayat-36.html
 * Islam menghormati kearifakan lokal selama tidak bertentangan dgn syariat Islam
 * Syariat Islam (Nabi Muhammad) adalah yang (paling) sempurna
   * Syariat nabi sebelumnya tidak sesempurna syariat Nabi terkakhir (Nabi Muhammad)
     * namun syariat tersebut sempurna bagi umat dimana/disaat syariat itu ditujukan
+* https://muslim.or.id/5776-nama-allah-al-hayyiyu-yang-maha-pemalu.html
+* https://almanhaj.or.id/3626-al-hayiyyu-yang-maha-pemalu.html
+* https://muslim.or.id/43793-mengapa-doaku-belum-dikabulkan.html
+* https://konsultasisyariah.com/9561-13-ada-dalam-berdoa.html
+* https://almanhaj.or.id/2951-rasul-tugas-dan-kekhususannya.html
