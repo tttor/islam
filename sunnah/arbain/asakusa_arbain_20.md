@@ -15,3 +15,21 @@ Malu adalah bagian dari iman.
 * rasa malu selalu ada pada syariat para nabi,
   sebagai suatu yang terpuji dan diperintahkan,
   tidak terhapuskan dalam syariat
+
+# Jika kamu tidak malu, maka berbuatlah sesukamu
+* artinya jika kamu hendak melakukan sesuatu, bila ia termasuk perkara yang tidak membuat malu
+  untuk dikerjakan, baik terhadap Allah maupun manusia, maka lakukanlah
+  jika ia membuat malu, maka jangan lakukan
+* pada hadist inilah berputar poros Islam seluruhnya
+* Jika kamu tidak malu kepada Allah, maka kerjakan sesukamu
+  * bermakna peringatan, bukan perintah, seperti
+    * https://tafsirweb.com/9022-quran-surat-fussilat-ayat-40.html
+    * https://tafsirweb.com/4668-quran-surat-al-isra-ayat-64.html
+* sesungguhnya engkau akan dibalas dikarenakan kelakuan mu itu
+  * sbg peringatan dan ancaman bagi orang yang meninggalkan rasa malu
+  
+# Keutamaan rasa malu
+* rasa malu adalah kebaikan, semuanya (HR Bukhari dan Muslim)
+* rasullullah lebih malu dari perawan yang ada dalam pingitannya (HR Bukhari dan Muslim)
+* sesungguhnya rasa malu adalah cabang dari keimanan (HR Bukhari dan Muslim)
+* jangan ganggu dia, sesungguhnya rasa malu adalah bagian dari iman (HR Bukhari dan Muslim)
