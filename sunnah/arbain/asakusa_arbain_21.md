@@ -31,7 +31,15 @@ Beriman, lalu istiqamah lah
 * Ibnu Abbas: tidak turun ayat Quran yang lebih berat dan lebih dalam selain, Huud: 112
 * Para shahat berkata: Uban telah cepat tumbuh padamu, maka rasulullah berkata
   Surat Huud dan yang semisalnya telah menyebabkan rambutku beruban
-  
+* Dalam riwayat Imam Tirmidzi ada tambahan:
+  * wahai rasullullah, apa hal yang paling kau takutkan terhadapku
+    maka rasullulah memegang lidahnya dan berkata: ini (yaitu lidah)
+  * sbg peringatan bahwa hal yang paling besar untuk dijaa keistiqomahannya setelah hati adalah lisan,
+    karena lisan adalah juru bisacara dan pengungkap isi hati
+* Imam Ahmad: tidaklah bisa istiqomah keimanan seorang hamba hingga hatinya istiqomah.
+  Dan hati tidak bisa istiqomah hingga lisannya bisa istiqomah
+    
 # Q and A
 * https://rumaysho.com/20071-hadits-arbain-21-beriman-kepada-allah-dan-istiqamahlah.html
 * https://tafsirweb.com/1140-quran-surat-ali-imran-ayat-8.html
+* https://www.radiorodja.com/48922-hadits-arbain-ke-21-hadits-tentang-istiqamah/
