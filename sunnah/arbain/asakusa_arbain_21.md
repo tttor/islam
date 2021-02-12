@@ -8,6 +8,7 @@ Beriman, lalu istiqamah lah
 * Wahai rasullullah, sampaikanlah padaku sebuah perkataan dalam Islam yang dgnnya saya tidak akan bertanya
   tentan islan kepada siapapun selain engkau.
 * Maka rasulullah berkata: katakanlah saya beriman kepada Allah, kemudian beristiqomahlah
+* HR Muslim
 
 # Syarah An Nawawi
 * yaitu istiqomahlah sebagaimana kau diperintah dan dilarang
