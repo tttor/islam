@@ -44,3 +44,5 @@ Beriman, lalu istiqamah lah
 * https://rumaysho.com/20071-hadits-arbain-21-beriman-kepada-allah-dan-istiqamahlah.html
 * https://tafsirweb.com/1140-quran-surat-ali-imran-ayat-8.html
 * https://www.radiorodja.com/48922-hadits-arbain-ke-21-hadits-tentang-istiqamah/
+* https://almanhaj.or.id/2975-taubat-nashuha.html
+* https://konsultasisyariah.com/22104-doa-agar-dijamin-aman-ketika-keluar-rumah.html
