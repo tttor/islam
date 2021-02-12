@@ -48,3 +48,5 @@ Beriman, lalu istiqamah lah
 * https://konsultasisyariah.com/22104-doa-agar-dijamin-aman-ketika-keluar-rumah.html
   * https://www.radiorodja.com/48024-hadits-tentang-doa-keluar-rumah/
 * https://www.radiorodja.com/48334-makna-hadits-jika-kalian-tidak-berbuat-dosa-allah-akan-hilangkan-kalian/
+* https://tafsirweb.com/10381-quran-surat-ar-rahman-ayat-33.html
+  * https://muslim.or.id/42426-benarkah-manusia-tidak-bisa-pergi-ke-luar-angkasa.html
