@@ -6,7 +6,7 @@ Beriman, lalu istiqamah lah
 # matan
 * Dari Abi Amr (Abi Amrah Sufyan bin Abiddlah)
 * Wahai rasullullah, sampaikanlah padaku sebuah perkataan dalam Islam yang dgnnya saya tidak akan bertanya
-  tentan islan kepada siapapun selain engkau.
+  tentang islam kepada siapapun selain engkau.
 * Maka rasulullah berkata: katakanlah saya beriman kepada Allah, kemudian beristiqomahlah
 * HR Muslim
 
@@ -30,13 +30,13 @@ Beriman, lalu istiqamah lah
   * tentang ketaatan dgn semua jenisnya tercakup dalam kalimat kedua: lalu istiqomahlah
     * karena istiqomah adalah mengerjakan yang diperintahkan dan menjauhi semua yang dilarang
 * Ibnu Abbas: tidak turun ayat Quran yang lebih berat dan lebih dalam selain, Huud: 112
-* Para shahat berkata: Uban telah cepat tumbuh padamu, maka rasulullah berkata
+* Para shahabat berkata: Uban telah cepat tumbuh padamu, maka rasulullah berkata
   Surat Huud dan yang semisalnya telah menyebabkan rambutku beruban
 * Dalam riwayat Imam Tirmidzi ada tambahan:
   * wahai rasullullah, apa hal yang paling kau takutkan terhadapku
     maka rasullulah memegang lidahnya dan berkata: ini (yaitu lidah)
-  * sbg peringatan bahwa hal yang paling besar untuk dijaa keistiqomahannya setelah hati adalah lisan,
-    karena lisan adalah juru bisacara dan pengungkap isi hati
+  * sbg peringatan bahwa hal yang paling besar untuk dijaga keistiqomahannya setelah hati adalah lisan,
+    karena lisan adalah juru bicara dan pengungkap isi hati
 * Imam Ahmad: tidaklah bisa istiqomah keimanan seorang hamba hingga hatinya istiqomah.
   Dan hati tidak bisa istiqomah hingga lisannya bisa istiqomah
     
