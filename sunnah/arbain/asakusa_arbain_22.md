@@ -16,7 +16,15 @@ Masuk Surga dengan Amalan Wajib
 * Beliau menjawab: Ya
 * HR Imam Muslim
 
-# syarah Imam Nawawi
+# syarah dari Imam Nawawi
 * "bagaimana pendapatmu" bermakna "kabarkan kepadaku"
 * "Aku menghalalkan yang halal": saya meyakininya halal dan aku melakukan yg wajib darinya
 * "Aku mengharamkan yang haram": saya meyakini seseuatu itu haram dan tidak mengerjakannya
+* "Ya": engkau akan masuk surga
+
+# syarah dari Ibnu Hajar Al Haitami
+* pria yg bertanya adalah Nu'man bin Qauqal
+* "Apakah saya masuk surga?", maksudnya
+  * masuk surga tanpda dihukun (di neraka) terlebih dahulu sebaigmana jelas dari bentukan/konteks juga
+    kaidah-kaidah, karena untuk masuk surga secara umum cukup dgn ketauhidan sebagaimana ditunjukkan
+    oleh hadist-hadist shohih
