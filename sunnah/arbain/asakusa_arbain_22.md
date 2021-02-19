@@ -47,6 +47,27 @@ Rasulullah shallallahu ‘alaihi wa sallam menjawab, “Tidak, kecuali engkau in
 Lalu lelaki tersebut berbalik pergi lalu berkata, “Demi Allah, aku tidak akan menambahkan dan juga mengurangi sedikit pun darinya.”
 Rasulullah shallallahu ‘alaihi wa sallam lantas berkata, “Beruntunglah orang tersebut jika ia jujur.” (HR. Bukhari, no. 46 dan Muslim, no. 11)
 ```
-
+* dgn meninggalkan ibadah sunnah yang disyariatkan untuk 
+  * menutup kekurangan ibadah fardhu, dan 
+  * menambahkan kedekatan kepada Allah sehingga Allah mencintai pelaku ibadah sunnah tersebut
+    jika Allah mencintainya maka Allah menjadi pendengarannya...,
+* jika meninggalkan ibadah tambahan, maka akan luput dari 
+  * keuntungan yang besar, 
+  * pahalanya yang nyata,
+  * menurunkan kehormatannya, dan 
+  * penolakan syahadah/kesaksian 
+    (orang yang tidak layak diterima syahadahnya karena meremehkan syariat agama)
+* Jika meninggalkan yang sunnah karena menyepelekan dan menolak hal tersebut maks hukumnya kufur
+* Mengapa Nabi mencukupkan dgn yang wajib, dan tidak mengingatkan untuk mengerjakan yang sunnah
+  * karena sbg bentuk kemudahan bai Nu'man kerena ia baru masuk Islam, 
+    * namun hadist ini tidak hanya berlaku untuk Nu'man saja
+  * takut Nu'man meninggalkan Islam jika dibebankan lebih banyak
+  * dgn mengetahui nanbi imannya telah kuat dalam hatinya, Allah akan melapangkan dadanya dan ia akan
+    semangat mengerjakan hal dimana para sahabat lain yang emangat mengerjakannya yaitu teguh dalam
+    ibadah sunnah sbgmn dalma mengerjakan ibadah fardhul mengerjar keutamaan
+ * tidak merendahkan orang yang mencukupkan diri dgn yang wajib, 
+   walaupun kita bersyukur jika kita bisa mengerjakan yang sunnah
+    
+  
 # Q and A
 * 
