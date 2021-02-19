@@ -28,3 +28,25 @@ Masuk Surga dengan Amalan Wajib
   * masuk surga tanpda dihukun (di neraka) terlebih dahulu sebaigmana jelas dari bentukan/konteks juga
     kaidah-kaidah, karena untuk masuk surga secara umum cukup dgn ketauhidan sebagaimana ditunjukkan
     oleh hadist-hadist shohih
+* adapun yg disebut bahawa dosa besar mencegah seorang masuk surga, eg
+  memotong silaturahmi, sombong, hutang hingga terbayar, maka maknanya:
+  tidak masuk surga bersama sama orang yang selamat dari neraka dan hambatan lain,
+  sebagaimana dalam hadist shohih bahwa seorang beriman setelah lewat shirat mereke tertahan hingga
+  diselesaikan kezhaliman yang terjadi antara manusia di dunia
+* dalil bolehnya meinggalkan ibadah tambahan (sunnah)
+  * hadist seorang yang bertanya..
+```
+ia bertanya tentang Islam, maka Rasulullah shallallahu ‘alaihi wa sallam menjawab, “Islam itu mengerjakan shalat lima waktu sehari semalam.”
+Laki-laki tersebut bertanya lagi, “Apakah ada kewajiban lain selain itu untukku?”
+Rasulullah shallallahu ‘alaihi wa sallam menjawab, “Tidak, kecuali engkau ingin menambah dengan yang sunnah.”
+Rasulullah shallallahu ‘alaihi wa sallam mengatakan lagi, “Islam juga mengerjakan puasa di bulan Ramadhan.”
+Laki-laki tersebut bertanya lagi, “Apakah ada kewajiban lain selain itu untukku?”
+Rasulullah shallallahu ‘alaihi wa sallam menjawab, “Tidak, kecuali engkau ingin menambah dengan yang sunnah.”
+Thalhah melanjutkan, Rasulullah shallallahu ‘alaihi wa sallam menyebutkan lagi tentang masalah zakat. Laki-laki tersebut bertanya lagi, “Apakah ada kewajiban lain selain itu untukku?”
+Rasulullah shallallahu ‘alaihi wa sallam menjawab, “Tidak, kecuali engkau ingin menambah dengan yang sunnah.”
+Lalu lelaki tersebut berbalik pergi lalu berkata, “Demi Allah, aku tidak akan menambahkan dan juga mengurangi sedikit pun darinya.”
+Rasulullah shallallahu ‘alaihi wa sallam lantas berkata, “Beruntunglah orang tersebut jika ia jujur.” (HR. Bukhari, no. 46 dan Muslim, no. 11)
+```
+
+# Q and A
+* 
