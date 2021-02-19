@@ -73,8 +73,24 @@ Simak selengkapnya disini. Klik https://muslim.or.id/21763-tunaikan-amalan-wajib
     ibadah sunnah sbgmn dalma mengerjakan ibadah fardhul mengerjar keutamaan
  * tidak merendahkan orang yang mencukupkan diri dgn yang wajib, 
    walaupun kita bersyukur jika kita bisa mengerjakan yang sunnah, tetapi jangan takabur
+   * Imam Nawawi tidak sempat menikah
+   * Nabi saw. bersabda, “Nikah itu sunnahku, siapa yang tidak suka dengan sunnahku maka ia tidak mengikuti jalanku.”
     
 # Q and A
 * https://rumaysho.com/20075-hadits-arbain-22-shalat-puasa-menghalalkan-yang-halal-mengharamkan-yang-haram.html
 * https://www.radiorodja.com/49080-hadits-arbain-ke-22-cara-agar-masuk-surga/
 * https://muslim.or.id/21763-tunaikan-amalan-wajib-berhak-atas-surga.html
+* secara umum, amal sholeh kita akan menjadikan penolong kita di alam kubur
+  * semua amal kebaikan kita bisa diniatkan untuk melapangkan kubur, memberikan nikmat kubur
+  * amalan membaca surat Al Mulk
+* pembebasan dari neraka, maka akan masur surga
+* ingat: ada tingkatan tingkatan dalam surga
+  * https://almanhaj.or.id/3364-keutamaan-menyantuni-anak-yatim.html
+  * https://almanhaj.or.id/6021-cintailah-orangorang-shalih-engkau-akan-bersama-orangorangyang-engkau-cintai.html
+* masuk surga karena Rahmat Allah
+  * salah satu bentuk rahmah Allah adalah memudahkan kita melakukan amal sholeh,
+  * amal soleh: ada yang dhohir dan batin (ibadah hati)
+    * seorang sebelum tidur melapangkan urusan dgn yang lain
+  * https://muslim.or.id/27788-masuk-surga-semata-karena-rahmat-allah-lalu-untuk-apa-beramal.html
+  * https://firanda.com/22-tabiin-terbaik-uwais-al-qoroni.html/3
+* https://pusatalquran.org/2017/05/08/hadits-arbain-ke-22-tentang-jalan-menuju-surga/
