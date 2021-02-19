@@ -94,3 +94,4 @@ Simak selengkapnya disini. Klik https://muslim.or.id/21763-tunaikan-amalan-wajib
   * https://muslim.or.id/27788-masuk-surga-semata-karena-rahmat-allah-lalu-untuk-apa-beramal.html
   * https://firanda.com/22-tabiin-terbaik-uwais-al-qoroni.html/3
 * https://pusatalquran.org/2017/05/08/hadits-arbain-ke-22-tentang-jalan-menuju-surga/
+* https://tafsirweb.com/7898-quran-surat-fatir-ayat-32.html
