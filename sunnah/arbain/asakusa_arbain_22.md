@@ -5,6 +5,7 @@ Masuk Surga dengan Amalan Wajib
 # matan
 * Dari  Abu ‘Abdillah Jarir bin ‘Abdillah Al-Anshari
   * menghadiri aqabah (perjanjian) kedua, 70-an orang, bersama bapaknya (cf aqabah pertama 12 orang)
+    * aqabah kedua, pendukuk Madinah akan membela nabi jika diserang di Madinah
   * tidak ikut Badr dan Uhub karena ayah saya melarangnya
     * Bukhari: ikut tetapi tidak termasuk ahli Badr, tidak termasuk pasukan perang
   * ketika bapaknya terbunuh di perang Uhud, maka saya tidak pernah ketinggalan satu perang pub untuk
@@ -51,6 +52,11 @@ Rasulullah shallallahu ‘alaihi wa sallam lantas berkata, “Beruntunglah orang
   * menutup kekurangan ibadah fardhu, dan 
   * menambahkan kedekatan kepada Allah sehingga Allah mencintai pelaku ibadah sunnah tersebut
     jika Allah mencintainya maka Allah menjadi pendengarannya...,
+```
+“Sesungguhnya amalan yang pertama kali dihisab pada hari kiamat adalah shalat. Allah Azza wa Jalla akan berfirman kepada para malaikat-Nya sedangkan Dia lebih mengetahui, “Lihatlah shalat hamba-Ku, apakah dia menyempurnakannya atau menguranginya?” Jika ternyata sempurna, maka dicatat sempurna. Namun jika kurang, Allah berfirman, “Lihatlah! Apakah hamba-Ku memiliki ibadah sunat?” Jika ternyata ada, Allah berfirman, “Sempurnakanlah shalat fardhu hamba-Ku dengan shalat sunatnya,” lalu diambil amalannya seperti itu” (HR. Empat orang ahli hadits dan dishahihkan oleh Syaikh Al Albani dalam Shahihul Jami’ no. 2020)
+Simak selengkapnya disini. Klik https://muslim.or.id/21763-tunaikan-amalan-wajib-berhak-atas-surga.html
+```
+
 * jika meninggalkan ibadah tambahan, maka akan luput dari 
   * keuntungan yang besar, 
   * pahalanya yang nyata,
@@ -66,8 +72,9 @@ Rasulullah shallallahu ‘alaihi wa sallam lantas berkata, “Beruntunglah orang
     semangat mengerjakan hal dimana para sahabat lain yang emangat mengerjakannya yaitu teguh dalam
     ibadah sunnah sbgmn dalma mengerjakan ibadah fardhul mengerjar keutamaan
  * tidak merendahkan orang yang mencukupkan diri dgn yang wajib, 
-   walaupun kita bersyukur jika kita bisa mengerjakan yang sunnah
+   walaupun kita bersyukur jika kita bisa mengerjakan yang sunnah, tetapi jangan takabur
     
-  
 # Q and A
-* 
+* https://rumaysho.com/20075-hadits-arbain-22-shalat-puasa-menghalalkan-yang-halal-mengharamkan-yang-haram.html
+* https://www.radiorodja.com/49080-hadits-arbain-ke-22-cara-agar-masuk-surga/
+* https://muslim.or.id/21763-tunaikan-amalan-wajib-berhak-atas-surga.html
