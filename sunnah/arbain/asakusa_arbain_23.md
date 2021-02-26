@@ -75,6 +75,9 @@ Sarana-sarana Kebaikan
 * ulama: tidak pernah terjadi jual beli yang lebih mulia dari jual beli ini,
   hal itu karena yang membeli adalah Allah dan yang menjual adalah orang beriman,
   dan yang dijual adalah jiwa, sedangkan harganya adalah surga
+* jika dikatakan: orang yang menjual dipaksa terlebih dahulu untuk menyerahkan dagangannya 
+  sebelum bisa mengambil surga,
+  * jawab:pembeli tidah diharusnya menyerahkan harga (=surga) di awal
 * jika dikatakan: mengapa tuan membeli dari hambanya: jiwa jiwa mereka, sedangkan
   jiwa tersebut adalah milik tuan tersebut?
   * jawab: tuan itu membebaskanya terlebih dulu lau membeli jiwa itu dari mereka.
