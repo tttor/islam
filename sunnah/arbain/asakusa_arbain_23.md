@@ -84,3 +84,8 @@ Sarana-sarana Kebaikan
 # Q and A
 * https://rumaysho.com/20082-hadits-arbain-23-keutamaan-bersuci-shalat-sedekah-sabar-shahibul-quran.html
 * https://www.radiorodja.com/49206-hadits-arbain-ke-23-keutamaan-bersuci-shalat-sedekah-sabar-dan-al-quran/
+* Apakah "innaliLlahi wa inna ilaihi rojiuun" itu diucapkan oleh yang kena musibah atau oleh yang dengar bahwa seseorang mendapat musibah? Apa hukumnya mengucapkan "innalillahi wa inna ilaihi rojiuun kepada orang yang terkena musibah? 
+  * asalnya adalah untuk yang kena musibah
+  * tetapi bisa jadi musibah orang lain adalah terasa musibah buat kita
+  * bisa juga untuk nasihat bahwa kita diharuskan mengucapkan itu
+  * kalimat itu untuk segala jenih musibah, bukan hanya kematian
