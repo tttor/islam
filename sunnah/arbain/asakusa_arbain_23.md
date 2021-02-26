@@ -29,7 +29,9 @@ Sarana-sarana Kebaikan
   * sesungguhnya Allah tidak melihat kepada rupa dan kulit kalian, tetapi Allah melihat
     kepada hati kalian
   * ini bersifat penekanan terhadap kesucian hati, 
-    tetapi cara kita berwudhu (kesucian fisik) juga harus sebagaimana mestinya
+    tetapi cara kita berwudhu (kesucian fisik) juga harus sebagaimana mestinya,
+    eg melebihkan bagian yang dibasuh
+  * saat berwudhu, perlu evaluasi apakah hati kita sudah bersih
     
 # Q and A
 * https://rumaysho.com/20082-hadits-arbain-23-keutamaan-bersuci-shalat-sedekah-sabar-shahibul-quran.html
