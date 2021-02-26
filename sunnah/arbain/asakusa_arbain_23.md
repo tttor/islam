@@ -92,7 +92,10 @@ Sarana-sarana Kebaikan
   * tetapi bisa jadi musibah orang lain adalah terasa musibah buat kita
   * bisa juga untuk nasihat bahwa kita diharuskan mengucapkan itu
   * kalimat itu untuk segala jenih musibah, bukan hanya kematian
-* * bahwasanya kesabaran adalah pondasi yang kokoh untuk amal yang lain
+  * juga untuk seorang non-muslim
+    * cf nabi mengajak kita untuk bersedih saat romawi kalah dari persia
+    * ucapan ini adalah untuk personal diri kita 
+* bahwasanya kesabaran adalah pondasi yang kokoh untuk amal yang lain
   * sabar: diya: sinar: cahaya dgn panas (haroroh): seperti matahari yang bersinar
     * sabar lebih berat
   * sholat: nur: cahaya: bulan: seperti bulan yang bercahaya
