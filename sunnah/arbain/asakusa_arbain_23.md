@@ -95,8 +95,15 @@ Sarana-sarana Kebaikan
   * juga untuk seorang non-muslim
     * cf nabi mengajak kita untuk bersedih saat romawi kalah dari persia
     * ucapan ini adalah untuk personal diri kita 
+    * https://muslim.or.id/28149-boleh-mengucapkan-istirja-jika-ada-non-muslim-meninggal.html
+    * https://rumaysho.com/9462-menghadiri-prosesi-jenazah-non-muslim.html
+    * https://konsultasisyariah.com/903-apa-hukum-melayat-orang-kafir.html
+    * https://konsultasisyariah.com/15218-hukum-menghadiri-jenazah-non-muslim.html
   * serupa: 'Qadr Allahu wa Masha Fa'al' 
     * (which means: Allah has decreed it and what He willed has happened)
+    * Qodarullaahi wa maa syaa-a fa’ala. Ini taqdir Allah, dan apa yang Dia kehendaki, Dia lakukan.
+    * Qoddarollaahu wa maa syaa-a fa’ala.Allah telah mentaqdirkannya, dan apa yang Dia kehendaki, Dia lakukan
+    * https://risalahmuslim.id/bacaan-bila-tertimpa-sesuatu-yang-tidak-disenangi/
   
 * bahwasanya kesabaran adalah pondasi yang kokoh untuk amal yang lain
   * sabar: diya: sinar: cahaya dgn panas (haroroh): seperti matahari yang bersinar
