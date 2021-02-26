@@ -95,6 +95,9 @@ Sarana-sarana Kebaikan
   * juga untuk seorang non-muslim
     * cf nabi mengajak kita untuk bersedih saat romawi kalah dari persia
     * ucapan ini adalah untuk personal diri kita 
+  * serupa: 'Qadr Allahu wa Masha Fa'al' 
+    * (which means: Allah has decreed it and what He willed has happened)
+  
 * bahwasanya kesabaran adalah pondasi yang kokoh untuk amal yang lain
   * sabar: diya: sinar: cahaya dgn panas (haroroh): seperti matahari yang bersinar
     * sabar lebih berat
