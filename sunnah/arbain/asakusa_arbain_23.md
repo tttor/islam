@@ -92,3 +92,9 @@ Sarana-sarana Kebaikan
   * tetapi bisa jadi musibah orang lain adalah terasa musibah buat kita
   * bisa juga untuk nasihat bahwa kita diharuskan mengucapkan itu
   * kalimat itu untuk segala jenih musibah, bukan hanya kematian
+* * bahwasanya kesabaran adalah pondasi yang kokoh untuk amal yang lain
+  * sabar: diya: seperti matahari yang bersinar
+  * sholat: nur: bulan: seperti bulan yang bercahaya
+  * tidak menafikan: bahwa ibadah yang palih afdhol adalah sholat, 
+    * karena sabar adalah ibadah hati, butkan fisik
+  * https://tafsirweb.com/3279-quran-surat-yunus-ayat-5.html
