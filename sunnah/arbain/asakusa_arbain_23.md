@@ -25,7 +25,7 @@ Sarana-sarana Kebaikan
 * sebagian ulama berkata: orang yang mensucikan hatinya lalu wudhu dan mandi lalu sholat,
   maka ia telah memasuki sholat dgn 2 kesucian sekaligus 
   (thoharoh batin dan fisik: anggota badan).
-* Allah tidak melihat kecuali kesucian hati  sbgmn sabda rasulullah  
+* Allah tidak melihat kecuali kesucian hati sbgmn sabda rasulullah  
   * sesungguhnya Allah tidak melihat kepada rupa dan kulit kalian, tetapi Allah melihat
     kepada hati kalian
   * ini bersifat penekanan terhadap kesucian hati, 
@@ -55,10 +55,10 @@ Sarana-sarana Kebaikan
 # sedekah adalah bukti
 * yaitu petunjuk akan benarnya keimanan orang tersebut.
 * dinamakan shodaqah karena ia menjadi tanda akan kebenaran iman seorang, dan hal ini
-  dikarenakan orang munafik kadang sholat namun secara umum tiddak mudah bersedekah
+  dikarenakan orang munafik kadang sholat namun secara umum tidak mudah bersedekah
 
 # sabar adalah sinar (diya)
-* yaitu sabar dalam ketaatan kepada Allah, sabar dalam mengahadi cobaan dan hal hal
+* yaitu sabar dalam ketaatan kepada Allah, sabar dalam menghadapi cobaan dan hal hal
   yang dibenci dalam kehidupan dunia
 * orang yang bersabar akan senantiasa berada di atas kebenaran, karena punya sinar
 * ketika pertama kali dapat musibah disitulah kesabaran diuji
@@ -77,7 +77,7 @@ Sarana-sarana Kebaikan
   dan yang dijual adalah jiwa, sedangkan harganya adalah surga
 * jika dikatakan: orang yang menjual dipaksa terlebih dahulu untuk menyerahkan dagangannya 
   sebelum bisa mengambil surga,
-  * jawab:pembeli tidah diharusnya menyerahkan harga (=surga) di awal
+  * jawab:pembeli tidak diharusnya menyerahkan harga (=surga) di awal
 * jika dikatakan: mengapa tuan membeli dari hambanya: jiwa jiwa mereka, sedangkan
   jiwa tersebut adalah milik tuan tersebut?
   * jawab: tuan itu membebaskanya terlebih dulu lau membeli jiwa itu dari mereka.
@@ -93,8 +93,9 @@ Sarana-sarana Kebaikan
   * bisa juga untuk nasihat bahwa kita diharuskan mengucapkan itu
   * kalimat itu untuk segala jenih musibah, bukan hanya kematian
 * * bahwasanya kesabaran adalah pondasi yang kokoh untuk amal yang lain
-  * sabar: diya: seperti matahari yang bersinar
-  * sholat: nur: bulan: seperti bulan yang bercahaya
+  * sabar: diya: sinar: cahaya dgn panas (haroroh): seperti matahari yang bersinar
+    * sabar lebih berat
+  * sholat: nur: cahaya: bulan: seperti bulan yang bercahaya
   * tidak menafikan: bahwa ibadah yang palih afdhol adalah sholat, 
-    * karena sabar adalah ibadah hati, butkan fisik
+    * karena sabar adalah ibadah hati, bukan fisik
   * https://tafsirweb.com/3279-quran-surat-yunus-ayat-5.html
