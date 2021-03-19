@@ -54,5 +54,6 @@ Haramnya Kezhaliman
 * tidak mengurangi dari kerajaan Allah
 
 # Q and A
-* dosa kesyirikan yang dibawa mati tidak akan diampuni, dosa lain dibawa mati mungkin diampuni
+* dosa kesyirikan yang dibawa mati tidak akan diampuni, 
+  dosa lain dibawa mati mungkin diampuni
 * manfaat sayyidul istigfar
