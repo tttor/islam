@@ -28,12 +28,25 @@ Haramnya Kezhaliman
   dan siapa yang mendapatkan selain itu janganlah mencela kecuali diri sendiri
 * HR Imam Muslim
 
-# syarah
+# Aku mengharamkan kedholiman atas diri Ku ...
 * tidak mungkin Allah berlaku dzalim, Allah bersih dari perilaku dzholim, subhanallah
 * kezholiman tidak mungkin terjadi kepada Allah,
 * Kezholiman berarti
   * melampaui batas
-  * mempergunakan barang orang lain tanpa ijin
-*  
+  * mempergunakan barang orang lain tanpa ijin, mengambil hak orang lain
+* Jangan sebagian kalian mendholimi yang lain
+  * tidak diampuni kecuali dgn maaf dari orang yang dizholimi
+* Dari Muadz dari Nabi: Barangsiapa memakai pakaian lalu berkata alhamdulillah, yang memberi 
+  aku pakaian ini dan merejekian pakaian ini kepada saya, tanpa daya dari ku dan tanpa kekuatan
+  dariku, maka akan diampuni dosanya yang lalu
+
+# tidak akan bisa memberi kerugian dan manfaat kepada Ku
+* Allah maha mandiri, tidak memperlukan dari apapun
+* sifat keagungan (tidak bergantung kepada yang lain) bagi Allah adalah sifat yang tetap Allah
+* Allah tidak butuh ketaatan makhluk
+  * ketaatan terjadi karena taufik (=restu, ijin) dari Allah, adalah karunia Allah
+* https://tafsirweb.com/4715-quran-surat-al-isra-ayat-111.html
+
+
 * dosa kesyirikan yang dibawa mati tidak akan diampuni, dosa lain dibawa mati mungkin diampuni
-* 
+* sayyidul istigfar
