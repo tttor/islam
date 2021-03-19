@@ -45,8 +45,13 @@ Haramnya Kezhaliman
 * sifat keagungan (tidak bergantung kepada yang lain) bagi Allah adalah sifat yang tetap Allah
 * Allah tidak butuh ketaatan makhluk
   * ketaatan terjadi karena taufik (=restu, ijin) dari Allah, adalah karunia Allah
+* maksiat makhluk tidak memberi mudhorot kepada Allah
 * https://tafsirweb.com/4715-quran-surat-al-isra-ayat-111.html
 
+# tidak mengurangi, ... kecuali jarum ...
+* tidak tampak bekas nya bahwa ada air yang terbawa jarum
+* tidak mengurangi dari kerajaan Allah
 
+# Q and A
 * dosa kesyirikan yang dibawa mati tidak akan diampuni, dosa lain dibawa mati mungkin diampuni
-* sayyidul istigfar
+* manfaat sayyidul istigfar
