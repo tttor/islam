@@ -57,3 +57,7 @@ Haramnya Kezhaliman
 * dosa kesyirikan yang dibawa mati tidak akan diampuni, 
   dosa lain dibawa mati mungkin diampuni
 * manfaat sayyidul istigfar
+* https://muslim.or.id/53105-janganlah-berbuat-zalim.html
+* https://rumaysho.com/7637-mudah-memaafkan.html
+* https://rumaysho.com/12940-mereka-yang-terkena-laknat.html
+* https://rumaysho.com/13031-menolong-orang-yang-zalim.html
