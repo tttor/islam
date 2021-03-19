@@ -47,6 +47,7 @@ Haramnya Kezhaliman
   * ketaatan terjadi karena taufik (=restu, ijin) dari Allah, adalah karunia Allah
 * maksiat makhluk tidak memberi mudhorot kepada Allah
 * https://tafsirweb.com/4715-quran-surat-al-isra-ayat-111.html
+* https://tafsirweb.com/1179-quran-surat-ali-imran-ayat-47.html
 
 # tidak mengurangi, ... kecuali jarum ...
 * tidak tampak bekas nya bahwa ada air yang terbawa jarum
