@@ -10,6 +10,7 @@
   * https://www.youtube.com/watch?v=AHVe3_bInck
 * https://tafsirweb.com/11030-quran-surat-al-mulk-ayat-2.html
   * https://tafsirweb.com/11029-quran-surat-al-mulk-ayat-1.html
+* https://tafsirweb.com/10987-quran-surat-at-talaq-ayat-7.html
 
 # akhlaq
 1) Dan apabila dibacakan Al Quran, maka dengarkanlah baik-baik, dan perhatikanlah dengan tenang agar kamu mendapat rahmat.
