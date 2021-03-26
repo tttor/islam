@@ -49,4 +49,5 @@ Berlomba dalam Kebaikan
 * https://rumaysho.com/20851-hadits-arbain-25-sedekah-dari-orang-miskin.html
 * https://www.radiorodja.com/49625-hadits-arbain-ke-25-setiap-kita-mampu-bersedekah/
 * https://tafsirweb.com/13062-quran-surat-al-maun-ayat-7.html
-* 
+* https://rumaysho.com/16269-kalimat-laa-ilaha-illallah-yang-luar-biasa.html
+* https://pusatalquran.org/2017/05/16/riyadhus-shalihin-bab-244-keutamaan-dzikir-dan-anjuran-mengerjakannya/
