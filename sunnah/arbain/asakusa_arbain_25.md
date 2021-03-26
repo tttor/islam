@@ -48,3 +48,5 @@ Berlomba dalam Kebaikan
 # Q and A
 * https://rumaysho.com/20851-hadits-arbain-25-sedekah-dari-orang-miskin.html
 * https://www.radiorodja.com/49625-hadits-arbain-ke-25-setiap-kita-mampu-bersedekah/
+* https://tafsirweb.com/13062-quran-surat-al-maun-ayat-7.html
+* 
