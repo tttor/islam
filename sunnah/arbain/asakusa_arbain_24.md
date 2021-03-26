@@ -61,3 +61,8 @@ Haramnya Kezhaliman
 * https://rumaysho.com/7637-mudah-memaafkan.html
 * https://rumaysho.com/12940-mereka-yang-terkena-laknat.html
 * https://rumaysho.com/13031-menolong-orang-yang-zalim.html
+* https://fpscs.uii.ac.id/blog/2019/07/26/menghapus-dosa-dengan-memaafkan-dan-meminta-maaf/
+  * https://journal.walisongo.ac.id/index.php/attaqaddum/article/download/1788/PERSPEKTIF%20ISLAM%20DAN%20PSIKOLOGI%20TENTANG%20PEMAAFAN
+```
+Abu Hurairah berkata, telah bersabda Rasulullah Saw, “Barangsiapa pernah melakukan kedzaliman terhadap saudaranya, baik menyangkut kehormatannya atau sesuatu yang lain, maka hendaklah ia minta dihalalkan darinya hari ini, sebelum dinar dan dirham tidak berguna lagi (hari kiamat). (Kelak) jika dia memiliki amal shaleh, akan diambil darinya seukuran kedzalimannya. Dan jika dia tidak mempunyai kebaikan (lagi), akan diambil dari keburukan saudara (yang dizalimi) kemudian dibenankan kepadanya. (HR Al-Bukhari).
+```
