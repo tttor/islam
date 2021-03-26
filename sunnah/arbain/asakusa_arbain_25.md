@@ -17,4 +17,20 @@ Berlomba dalam Kebaikan
   beliau bersabda: bgmn pendapat kalian, seandainya ia melampiaskannya pada suatu yang haram,
   maka demikianlah jika ia melampiaskannya pada sesuatu yang halal
 * HR Muslim
-* 
+
+# syarah An nawawi
+* perkataan Abu Dzar: tentang apakah seorang melampiaskan syahwatnya mendapat pahala,
+* jima' yg syari adalah sesuatu yang disenangi nabi dan orang sholeh
+  karena ada manfaat dunia dan akhirat
+  * menutup celah perzinaan
+  * sebab adanya keturunan
+
+# syarah ibnu hajar al haitami
+* sahabat: bertemu rasullullah, sejak nubuwwah sampai meninggal, dan beriman,
+  dan meninggal dalm keadaan beriman
+* an nabi: 
+  * an naba: memberi kabar dari Allah, yang mendapat kabar
+  * an nabuwwah: ketinggian, kehormatan
+
+# Q and A
+* https://rumaysho.com/20851-hadits-arbain-25-sedekah-dari-orang-miskin.html
