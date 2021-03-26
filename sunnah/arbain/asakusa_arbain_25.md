@@ -31,6 +31,14 @@ Berlomba dalam Kebaikan
 * an nabi: 
   * an naba: memberi kabar dari Allah, yang mendapat kabar
   * an nabuwwah: ketinggian, kehormatan
+* berlomba dalam kebaikan
+  * bukan bagaimana menjadi kaya (bukan hasad)
+  * karena kuatnya motivasi untuk beramal sholah dan berbuat kebaikan
+  * https://tafsirweb.com/3108-quran-surat-at-taubah-ayat-92.html
+* Keutamaan sedekah (bagi orang yang mampu, sedekah harta) 
+  bahwa amal sholeh yang memberikan kebaikan kepada orang lain adalah lebih baik
+  daripada amalan pribadi (kepada Allah, eg dzikir)
 
 # Q and A
 * https://rumaysho.com/20851-hadits-arbain-25-sedekah-dari-orang-miskin.html
+* https://www.radiorodja.com/49625-hadits-arbain-ke-25-setiap-kita-mampu-bersedekah/
