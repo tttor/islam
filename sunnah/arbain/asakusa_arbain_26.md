@@ -14,5 +14,18 @@ Banyaknya Jalan Kebaikan
 * dan menghilangkan hal hal yang membahayakan adalah sedekah
 * HR Bukhari dan Muslim
 
+# syarah
+* persendian adalah anggota tubuh manusia, ada 360 persendian yang perlu dikeluarkan
+  sedekanya setiap hari
+* setiap kalimat kabikan: tasbih, tahlil, takbir,
+* barangsiapa menunaikan hal di atas di awal hari maka ia telah menunaikan zakat
+  anggota badannya, dan menjaga sisanya
+* Dalam sebuah hadists: 2 rakaat sholat dhuha dapat menggantikan sedekah seluruh
+  anggota badan tsb
+* Hadist qudsi: wahai bani Adam, sholatlah bagiku 4 rakaat di awal hari,
+  maka Aku cukupkan bagimu di akhirnya
+  
+  
+  
 # Q and A
 
