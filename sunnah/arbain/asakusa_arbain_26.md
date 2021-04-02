@@ -45,5 +45,6 @@ Banyaknya Jalan Kebaikan
 * Disyaratkan keikhlasan niat dalam mengerjakan hal di atas
 
 # Q and A
+* secara lafadz adalah wajib, insya Allah bisa terpenuhi dgn dzikir sesudah solat
 * https://rumaysho.com/21812-hadits-arbain-26-tiap-hari-mesti-bersedekah.html
 * https://www.radiorodja.com/49634-hadits-arbain-26-setiap-anggota-tubuh-wajib-disedekahi/
