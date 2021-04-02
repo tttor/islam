@@ -17,7 +17,7 @@ Banyaknya Jalan Kebaikan
 # syarah
 * persendian adalah anggota tubuh manusia, ada 360 persendian yang perlu dikeluarkan
   sedekanya setiap hari
-* setiap kalimat kabikan: tasbih (subhanallah), tahmid (alhamdulillah), 
+* setiap kalimat kabaikan: tasbih (subhanallah), tahmid (alhamdulillah), 
   tahlil (laa ilaha illallah), takbir,
 * barangsiapa menunaikan hal di atas di awal hari maka ia telah menunaikan zakat
   anggota badannya, dan menjaga sisanya
