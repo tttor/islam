@@ -34,7 +34,7 @@ Banyaknya Jalan Kebaikan
 * kesyukuran yang mustahab/sunah
   * melakukan ketaatan tambahan, 
   * yang al-qashirah (no object), eg dzikir, 
-  * yang al-muta'addiyah (with object), bersikap adik dan menolong orang lain
+  * yang al-muta'addiyah (with object), bersikap adil dan menolong orang lain
 * kesehatan, rasa aman adalah kenikmatan yg harus disyukuri
 * Ibnu Abbas: at-Takaatsur
 * Tidak ada kebaikan pada kebanyakan bisikan2 mereka, kecuali bisikan2 dari orang
@@ -42,7 +42,7 @@ Banyaknya Jalan Kebaikan
   di antara manusia (islah)
   * An Nisaa: 114
   * orang beriman itu bersaudara
-* Disyaratkan keikhlasan niat dalam mengerkan hal di atas
+* Disyaratkan keikhlasan niat dalam mengerjakan hal di atas
 
 # Q and A
 * https://rumaysho.com/21812-hadits-arbain-26-tiap-hari-mesti-bersedekah.html
