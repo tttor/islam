@@ -17,7 +17,8 @@ Banyaknya Jalan Kebaikan
 # syarah
 * persendian adalah anggota tubuh manusia, ada 360 persendian yang perlu dikeluarkan
   sedekanya setiap hari
-* setiap kalimat kabikan: tasbih, tahlil, takbir,
+* setiap kalimat kabikan: tasbih (subhanallah), tahmid (alhamdulillah), 
+  tahlil (laa ilaha illallah), takbir,
 * barangsiapa menunaikan hal di atas di awal hari maka ia telah menunaikan zakat
   anggota badannya, dan menjaga sisanya
 * Dalam sebuah hadists: 2 rakaat sholat dhuha dapat menggantikan sedekah seluruh
@@ -25,7 +26,24 @@ Banyaknya Jalan Kebaikan
 * Hadist qudsi: wahai bani Adam, sholatlah bagiku 4 rakaat di awal hari,
   maka Aku cukupkan bagimu di akhirnya
   
-  
-  
-# Q and A
+# syarah fathul mubin
+* mengapa 2 rakaat solat dhuha menggantikan zakat semua anggota badan?
+  * syukur terhadap nikmat anggota badan
+  * kesyukuran yg wajib dgn menjaga anggota tubuh dari kemaksiatan
+    dan mengerjakan kebajikan
+* kesyukuran yang mustahab/sunah
+  * melakukan ketaatan tambahan, 
+  * yang al-qashirah (no object), eg dzikir, 
+  * yang al-muta'addiyah (with object), bersikap adik dan menolong orang lain
+* kesehatan, rasa aman adalah kenikmatan yg harus disyukuri
+* Ibnu Abbas: at-Takaatsur
+* Tidak ada kebaikan pada kebanyakan bisikan2 mereka, kecuali bisikan2 dari orang
+  yang menyuruh manusia memberi sedekah, berbuat ma'ruf, atau mengadakan perdamaian
+  di antara manusia (islah)
+  * An Nisaa: 114
+  * orang beriman itu bersaudara
+* Disyaratkan keikhlasan niat dalam mengerkan hal di atas
 
+# Q and A
+* https://rumaysho.com/21812-hadits-arbain-26-tiap-hari-mesti-bersedekah.html
+* https://www.radiorodja.com/49634-hadits-arbain-26-setiap-anggota-tubuh-wajib-disedekahi/
