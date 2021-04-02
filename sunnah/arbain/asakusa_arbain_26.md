@@ -46,5 +46,6 @@ Banyaknya Jalan Kebaikan
 
 # Q and A
 * secara lafadz adalah wajib, insya Allah bisa terpenuhi dgn dzikir sesudah solat wajib 5 waktu
+* https://risalahmuslim.id/nabi-ayyub-dan-belalang-emas/
 * https://rumaysho.com/21812-hadits-arbain-26-tiap-hari-mesti-bersedekah.html
 * https://www.radiorodja.com/49634-hadits-arbain-26-setiap-anggota-tubuh-wajib-disedekahi/
