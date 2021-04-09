@@ -83,3 +83,6 @@
 * terbit matahari: approx 80 menit after subuh (fajr shoddiq)
   * waktu duzhur: tergelincir, 5 menit setelah matahari di atas
   * 4 menit per derajat
+* qolb dalam bahasa arab: organ jantung
+  * yang dimaksud disini adalah suara hati
+  * tentang apakah itu organ jantung: wa'allahu alam
