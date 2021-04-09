@@ -49,3 +49,8 @@ Banyaknya Jalan Kebaikan
 * https://risalahmuslim.id/nabi-ayyub-dan-belalang-emas/
 * https://rumaysho.com/21812-hadits-arbain-26-tiap-hari-mesti-bersedekah.html
 * https://www.radiorodja.com/49634-hadits-arbain-26-setiap-anggota-tubuh-wajib-disedekahi/
+* ada khilaf, tentang apakah wanita yang haids boleh baca quran
+  * jumhur ulama: boleh jika hafalan, ie tidak pegang kitab
+  * maka sama halnya dalam mengucapkan tasbih, tahmid, dll
+  * jika dalam junub, maka dianjurkan segera bersuci atau meringankannya dgn wudhu
+  * jadi boleh (tidak ada larangan) untuk mengucapkan kalimat dzikir tadi dalam keadaan tidak suci.
