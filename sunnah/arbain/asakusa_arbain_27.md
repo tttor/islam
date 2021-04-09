@@ -65,8 +65,7 @@
   * Al Mukminun: 1 - 11
   * AlBaqarah 177
   * Al Anfal 2-4, 
-  * At Taubah 112, 
-  * Al Muminun 1-10 , 
+  * At Taubah 112,  
   * Al Furqan 63 
 * ketika al birr beriringan dgn taqwa
   * kaidah tafsir: Allah tidak menyebutkan sesuatu beriringan 2 hal yang sama
