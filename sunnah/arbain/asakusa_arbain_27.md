@@ -75,3 +75,8 @@
   * Hadist: ... orang tuanya yang menjadinya majusi / nasrani (yg merusak fitrah tsb)
   * Ar ruum: 30: https://tafsirweb.com/7394-quran-surat-ar-rum-ayat-30.html
   * https://tafsirweb.com/1597-quran-surat-an-nisa-ayat-65.html
+
+# Q and A
+* terbit matahari: approx 80 menit after subuh (fajr shoddiq)
+  * waktu duzhur: tergelincir, 5 menit setelah matahari di atas
+  * 4 menit per derajat
