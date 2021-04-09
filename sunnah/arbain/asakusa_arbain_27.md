@@ -86,3 +86,4 @@
 * qolb dalam bahasa arab: organ jantung
   * yang dimaksud disini adalah suara hati
   * tentang apakah itu organ jantung: wa'allahu alam
+* mufti/muf·ti/ n Isl pemberi fatwa untuk memutuskan masalah yang berhubungan dengan hukum Islam
