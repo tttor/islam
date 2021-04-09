@@ -13,7 +13,7 @@
 * Aku menjawab: Ya
 * Beliau bersabda: Mintalah fatwa kepada hatimu.
   Kebajikan adalah apa yang jiwa dan hati merasa tentram kepadanya.
-  Sedangkan dosa adalh apa yang membimbangkan dalam jiwa dan meragukan dalam hati,
+  Sedangkan dosa adalah apa yang membimbangkan dalam jiwa dan meragukan dalam hati,
   meskipun orang orang memberikan fatwa kepadamu dan memberikan fatwa lagi kepadamu.
   
 # Kebajikan adalah akhlak yang baik
