@@ -29,6 +29,7 @@
 * Sebelumnya telah kita bicarakan tentang syubhat 
   * ada masalah dgn hati jika bertentang dgn dalil, ijma ulama, etc
   * hati tetap di bawah dalil syari
+  * https://tafsirweb.com/1597-quran-surat-an-nisa-ayat-65.html
 * Wasiat Adam: jika kalian hendak melakukan sesuatu; jika hati kalian bimbang maka jgn lakukan,
   * ketika aku hampir makan buah pohon, hatiku bimbang, ketika memakannya
   * di antara nasihat lainnya: jika kalian hendak melakukan sesuatu, maka perhatikanlah akibatnya
@@ -87,3 +88,5 @@
   * yang dimaksud disini adalah suara hati
   * tentang apakah itu organ jantung: wa'allahu alam
 * mufti/muf·ti/ n Isl pemberi fatwa untuk memutuskan masalah yang berhubungan dengan hukum Islam
+* https://almanhaj.or.id/12259-kebajikan-dan-dosa.html
+* https://rumaysho.com/21822-hadits-arbain-27-minta-fatwa-pada-hati-tentang-kebaikan-dan-dosa.html
