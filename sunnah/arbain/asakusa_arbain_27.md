@@ -55,6 +55,10 @@
   maka hendaklah ia bersikap warak (hati-hati)
   * batas menjadi 1 nasb (haram untuk nikah, seperti saudara kandung):
     5 susuan, 1 susuan ialah satu susuan sampai kenyang
+* secara mendasar, fatwa bisa saja salah
+  * hadist: meskipun fatwa salah, tetapi tetap mendapat pahala
+  * indikasi mungkin salah, ada keraguan dalam hati kita
+  * terutama untuk hal hal yang tidak syorih (jelas), masih samar
 
 # tambahan
 * tafrif (definisi) lain dari al birr dan al itsm, 
