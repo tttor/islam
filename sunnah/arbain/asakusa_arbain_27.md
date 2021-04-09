@@ -19,7 +19,7 @@
 # Kebajikan adalah akhlak yang baik
 * Hadis 18: bertaqwalah kepada Allah dimanapun kalian berada, dan ikutilah kemaksiatan dgn
   kebaikan, dan bergaulilah manusia dgn akhlaq yang baik
-* Ibnu Umar berkata: Kebajikan adalah perkara yang musah, yaitu wajah berseri-seri, dan lisan
+* Ibnu Umar berkata: Kebajikan adalah perkara yang mudah, yaitu wajah berseri-seri, dan lisan
   yang lembut.
 * al baqarah 177: https://tafsirweb.com/675-quran-surat-al-baqarah-ayat-177.html
 
