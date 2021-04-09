@@ -28,6 +28,7 @@
 * Jika jiwa merasa tentram dgn hal itu maka ia lakukan, jika tidak tentram maka ia tinggalkan
 * Sebelumnya telah kita bicarakan tentang syubhat 
   * ada masalah dgn hati jika bertentang dgn dalil, ijma ulama, etc
+  * hati tetap di bawah dalil syari
 * Wasiat Adam: jika kalian hendak melakukan sesuatu; jika hati kalian bimbang maka jgn lakukan,
   * ketika aku hampir makan buah pohon, hatiku bimbang, ketika memakannya
   * di antara nasihat lainnya: jika kalian hendak melakukan sesuatu, maka perhatikanlah akibatnya
@@ -40,7 +41,7 @@
   makan sesuat yang syubhat (tidak jelas) juga mengambilnya.
   * Juga ketika menikahi wanita yang dikatakan bahwa wanita tersebut disusui bersamanya
   * Rasulullah bersabda: ...
-* Begitupu yang haram, maka dia tidak senang jika orang lain mengetahu hal tersebut
+* Begitupu yang haram, maka dia tidak senang jika orang lain mengetahui hal tersebut
   * misal, memakan harta orang lain, meskipun boleh jika ada ridha dari pemiliknya,
     jika ada keraguan tentang keridhaan nya maka haram memakan harta tsb
   * begitu juga tentang menggunakan barang titipan tanpa izin pemiliknya
@@ -54,4 +55,16 @@
   maka hendaklah ia bersikap warak (hati-hati)
   * batas menjadi 1 nasb (haram untuk nikah, seperti saudara kandung):
     5 susuan, 1 susuan ialah satu susuan sampai kenyang
-    
+
+# tambahan
+* tafrif (definisi) lain dari al birr dan al itsm, 
+* albirr tidak hanya khusnul khulub, tetapi bagian penting dari al birr
+* Hadist, aklaq nabi adalah al quran, mengerjakan perintahNya dan meninggalkan laranganNya
+* muhasabah aklaq dgn ayat Quran
+* ketika al birr beriringan dgn taqwa
+  * kaidah tafsir: Allah tidak menyebutkan sesuatu beriringan 2 hal yang sama
+  * maka al birr: mengerjakan kebaikan, at taqwa: meninggalkan larangan
+* Fitrah untuk mengenal al haq
+  * Hadist: ... orang tuanya yang menjadinya majusi / nasrani (yg merusak fitrah tsb)
+  * Ar ruum: 30: https://tafsirweb.com/7394-quran-surat-ar-rum-ayat-30.html
+  * https://tafsirweb.com/1597-quran-surat-an-nisa-ayat-65.html
