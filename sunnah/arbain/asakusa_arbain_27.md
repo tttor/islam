@@ -61,6 +61,8 @@
 * albirr tidak hanya khusnul khulub, tetapi bagian penting dari al birr
 * Hadist, aklaq nabi adalah al quran, mengerjakan perintahNya dan meninggalkan laranganNya
 * muhasabah aklaq dgn ayat Quran
+  * Al Anfaal: 2 - 4
+  * Al Mukminun: 1 - 11
 * ketika al birr beriringan dgn taqwa
   * kaidah tafsir: Allah tidak menyebutkan sesuatu beriringan 2 hal yang sama
   * maka al birr: mengerjakan kebaikan, at taqwa: meninggalkan larangan
