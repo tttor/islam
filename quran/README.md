@@ -6,6 +6,7 @@
 * https://hamalatulquran.com/tips-menghafal-hafalkan-dulu-atau-pahami-dulu/
 
 # star
+* https://quran.com/78/31-36
 * https://tafsirweb.com/10716-quran-surat-al-hadid-ayat-20.html
   * https://www.youtube.com/watch?v=AHVe3_bInck
 * https://tafsirweb.com/11030-quran-surat-al-mulk-ayat-2.html
